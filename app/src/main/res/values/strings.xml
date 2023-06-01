@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Water Billing App</string>
+    <string name="note_title">NOTES</string>
+    <string name="bill_title">WS Billing Records</string>
+    <string name="application_title">WS Applications</string>
+    <string name="classification_title">WS Classifications</string>
+    <string name="discounts_title">Discounts</string>
+    <string name="add_new_water_bill">Add New Water Bill</string>
+    <string name="enter_bill_title">Enter Bill Title</string>
+    <string name="enter_bill_detailes">Enter Bill Details</string>
+    <string name="enter_app_title">Enter App Title</string>
+    <string name="enter_app_details">Enter App Details</string>
+    <string name="storage_access_required">This app requires your memory access to read excel-sheet files</string>
+    <string name="storage_access_denied">Please goto app settings and grant memory permission. </string>
+    <string name="storage_unavailable">Your device does not support storage</string>
+    <string name="ws_water_billing">WS Water Billing</string>
+</resources>

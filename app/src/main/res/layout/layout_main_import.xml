@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/_16sdp">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_16sdp">
+
+        <Button
+            android:id="@+id/btnImportBills"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bills" />
+
+        <Button
+            android:id="@+id/btnImportApplications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Applications" />
+
+        <Button
+            android:id="@+id/btnImportClassifications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Classifications" />
+
+        <Button
+            android:id="@+id/btnImportDiscounts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Discounts" />
+
+        <Button
+            android:id="@+id/btnImportAmnesties"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Amnesties" />
+
+        <Button
+            android:id="@+id/btnImportHolidays"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Holidays" />
+
+        <Button
+            android:id="@+id/btnRunMigration"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Run Migration" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

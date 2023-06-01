@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/_16sdp">
+
+    <LinearLayout
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_16sdp">
+
+        <Button
+            android:id="@+id/btnExportBills"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bills" />
+
+        <Button
+            android:id="@+id/btnExportApplications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Applications" />
+
+        <Button
+            android:id="@+id/btnExportClassifications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Classifications" />
+
+        <Button
+            android:id="@+id/btnExportDiscounts"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Discounts" />
+
+        <Button
+            android:id="@+id/btnExportAmnesties"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Amnesties" />
+
+        <Button
+            android:id="@+id/btnExportHolidays"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Holidays" />
+
+        <Button
+            android:id="@+id/btnExportAll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Export ALL" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

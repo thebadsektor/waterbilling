@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".ui.screens.MainActivity">
+
+    <View
+        android:id="@+id/viewHeaderBackground"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_130sdp"
+        android:background="@color/primary"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:text="@string/ws_water_billing"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_20ssp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        app:cardBackgroundColor="@color/card_background"
+        app:cardCornerRadius="@dimen/_16sdp"
+        app:layout_constraintBottom_toBottomOf="@id/viewHeaderBackground"
+        app:layout_constraintTop_toBottomOf="@id/viewHeaderBackground">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/_14sdp">
+
+            <TextView
+                android:id="@+id/textViews"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                android:textColor="@color/primary_text"
+                android:textSize="@dimen/_14ssp"
+                android:textStyle="bold"
+                android:text="Tools"
+                />
+
+            <TextView
+                android:id="@+id/tvDashOptions"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:text="Options"
+                android:textColor="@color/primary"
+                android:textSize="@dimen/_12ssp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            
+            <LinearLayout
+                android:id="@+id/dashItem1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:gravity="center"
+                android:padding="@dimen/_8sdp"
+                android:orientation="vertical"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textViews"
+                app:layout_constraintEnd_toStartOf="@id/dashItem2">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btnGenerateBill"
+                    android:layout_width="@dimen/_64sdp"
+                    android:layout_height="@dimen/_64sdp"
+                    android:src="@drawable/meter"
+                    android:padding="@dimen/_5sdp"
+                    android:background="@drawable/circle_color4"
+                    app:tint="@color/white"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:clickable="true"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_4sdp"
+                        android:textAlignment="center"
+                        android:text="NEW READING"
+                        android:textStyle="bold"
+                        android:textColor="@color/primary"
+                        android:textSize="@dimen/_10ssp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dashItem2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:gravity="center"
+                android:padding="@dimen/_8sdp"
+                android:orientation="vertical"
+                app:layout_constraintStart_toEndOf="@id/dashItem1"
+                app:layout_constraintTop_toBottomOf="@+id/textViews"
+                app:layout_constraintEnd_toStartOf="@id/dashItem3"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    android:src="@drawable/import__2_"
+                    android:padding="@dimen/_5sdp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:text="IMPORT"
+                    android:textStyle="bold"
+                    android:textColor="@color/dashboard_item_2"
+                    android:textSize="@dimen/_10ssp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dashItem3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:gravity="center"
+                android:padding="@dimen/_8sdp"
+                android:orientation="vertical"
+                app:layout_constraintStart_toEndOf="@id/dashItem2"
+                app:layout_constraintTop_toBottomOf="@+id/textViews"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:clickable="true">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="@dimen/_60sdp"
+                    android:src="@drawable/export"
+                    android:padding="@dimen/_5sdp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:text="EXPORT"
+                    android:textColor="@color/dashboard_item_2"
+                    android:textSize="@dimen/_10ssp"/>
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:overScrollMode="never"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:paddingTop="0dp"
+        android:scrollbars="none"
+        android:clipToPadding="false"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/btnCardBillsMain"
+                    android:layout_width="0dp"
+                    android:layout_height="200dp"
+                    android:layout_weight="1"
+                    android:layout_margin="8dp"
+                    app:cardCornerRadius="@dimen/_16sdp"
+                    app:cardElevation="2dp"
+                    app:cardBackgroundColor="@color/dashboard_item_2"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:clickable="true">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:padding="@dimen/_8sdp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/invoice"
+                            app:tint="@color/dashboard_item_2"
+                            android:background="@drawable/circle_white"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/_13sdp"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:text="Billing Records"/>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:layout_marginTop="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_5sdp"
+                            android:background="@color/grey"/>
+
+                        <TextView
+                            android:id="@+id/tvDashBillCount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/_20sdp"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textColor="@color/dashboard_item_5"
+                            android:textStyle="bold"
+                            android:text="9999"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/btnApplicationsMain"
+                    android:layout_width="0dp"
+                    android:layout_height="200dp"
+                    android:layout_weight="1"
+                    android:layout_margin="8dp"
+                    app:cardCornerRadius="@dimen/_16sdp"
+                    app:cardElevation="2dp"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/dashboard_item_1"
+                    android:clickable="true">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="70dp"
+                            android:layout_height="70dp"
+                            android:padding="@dimen/_8sdp"
+                            android:layout_gravity="center"
+                            android:src="@drawable/layers"
+                            app:tint="@color/dashboard_item_1"
+                            android:background="@drawable/circle_white"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/_13sdp"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:textAlignment="center"
+                            android:text="WS Applications"/>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:layout_marginTop="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_5sdp"
+                            android:background="@color/grey"/>
+
+                        <TextView
+                            android:id="@+id/tvDashAppCount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="@dimen/_20sdp"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:textColor="@color/dashboard_item_5"
+                            android:textStyle="bold"
+                            android:text="9999"/>
+
+                    </LinearLayout>
+
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+<!--            <include layout="@layout/dashboard_item_3"/>-->
+            <include layout="@layout/dashboard_item_1"/>
+            <include layout="@layout/dashboard_item_4"/>
+            <include layout="@layout/dashboard_item_3"/>
+            <include layout="@layout/dashboard_item_5"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

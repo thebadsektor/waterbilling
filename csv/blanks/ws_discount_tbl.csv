@@ -1,0 +1,4 @@
+category,types,description,amount
+Penalty,Percent,2% Penalty After Due date,0.02
+Discount,Percent,5% Discount for Senior Citizen,0.05
+Discount,Amount,Courtesy Discount 1,50

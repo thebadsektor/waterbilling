@@ -1,0 +1,850 @@
+application_no, read_date, due_date, full_name, bill_address, classification, meter_read, senior_ids, reading_month, pre_reading, actual_reading, cu_m_used, discount, penalty, discount_amount, bill_amount, status, or_num, or_amount, or_date, bill_cat, bill_status
+2010-003-38,12-20-2021,12-20-2021,Peji Liezel D.,   Layug,Residential,38,,Jan. 2021 - Dec. 2021,NULL,2140,NULL,NULL,NULL,0,2431,unpaid,56-20230107-10,NULL,NULL,Arrears,active
+2014-002-2102,12-24-2021,12-24-2021,Alarmado Sergio ,  Junction Duhat,Residential,2102,,Nov.2021-Dec.2021,NULL,846,NULL,NULL,NULL,0,0,unpaid,56-20230107-11,NULL,NULL,Arrears,active
+2014-001-1911,12-24-2021,12-24-2021,Lubuguin Erlinda I ,  Junction Duhat,Residential,1911,,Jul.2020-Dec.2021,NULL,2063,NULL,NULL,NULL,0,900,unpaid,56-20230107-12,NULL,NULL,Arrears,active
+2013-011-324,12-20-2021,12-20-2021,Conde Arlene M.,   Layug,Residential,324,,Sept. 2021 - Dec. 2021,NULL,1994,NULL,NULL,NULL,0,1776,unpaid,56-20230107-13,NULL,NULL,Arrears,active
+2013-011-340,12-20-2021,12-20-2021,Oblepias Bienvinido L.,   Layug,Residential,340,15-490,Nov. 2021 - Dec. 2021,NULL,2884,NULL,NULL,NULL,0,484,unpaid,56-20230107-14,NULL,NULL,Arrears,active
+2013-011-1570,12-24-2021,12-24-2021,Mesina Analyn ,  Junction Duhat,Residential,1570,,Sept.2021-Dec.2021,NULL,2218,NULL,NULL,NULL,0,200,unpaid,56-20230107-15,NULL,NULL,Arrears,active
+2013-011-1573,12-24-2021,12-24-2021,Maximo Jr. Alfredo P.,  Junction Duhat,Residential,1573,,Jan.2021-Dec.2021,NULL,3768,NULL,NULL,NULL,0,6805,unpaid,56-20230107-16,NULL,NULL,Arrears,active
+2013-011-1581,12-24-2021,12-24-2021,Ruazol Alex/Linda ,  Junction Duhat,Residential,1581,,Jan.2020-Dec.2021,NULL,4151,NULL,NULL,NULL,0,6276,unpaid,56-20230107-17,NULL,NULL,Arrears,active
+2014-011-2245,12-20-2021,12-20-2021,Esperanza Marie F.,   Layug,Residential,2245,,Dec. 2021,NULL,666,NULL,NULL,NULL,0,130,unpaid,56-20230107-18,NULL,NULL,Arrears,active
+2015-005-2310,12-20-2021,12-20-2021,Pereja Arnel M.,   Layug,Residential,2310,,Apr. 2021 - Dec. 2021,NULL,1405,NULL,NULL,NULL,0,2142,unpaid,56-20230107-19,NULL,NULL,Arrears,active
+2018-008-2717,12-20-2021,12-20-2021,Nazareno Noel S.,   Layug,Residential,2717,,Apr. 2021 - Dec. 2021,NULL,304,NULL,NULL,NULL,0,2478,unpaid,56-20230107-20,NULL,NULL,Arrears,active
+2018-011-3048,12-20-2021,12-20-2021,Sebastian April Bart P.,   Layug,Residential,3048,,Oct. 2019 - Dec. 2021,NULL,460,NULL,NULL,NULL,0,4529.25,unpaid,56-20230107-21,NULL,NULL,Arrears,active
+2020-004-3095,12-20-2021,12-20-2021,Quilapio Remedios ,   Layug,Residential,3095,,Dec. 2021,NULL,41,NULL,NULL,NULL,0,50,unpaid,56-20230107-22,NULL,NULL,Arrears,active
+2020-012-3166,12-20-2021,12-20-2021,Ebuen Lillian ,    Layug,Residential,3166,,Jun. 2021 - Dec. 2021,NULL,745,NULL,NULL,NULL,0,7840,unpaid,56-20230107-23,NULL,NULL,Arrears,active
+2021-011-3256,12-20-2021,12-20-2021,Blaza Clamarie ,   Layug,Residential,3256,,Dec. 2021,NULL,5,NULL,NULL,NULL,0,75,unpaid,56-20230107-24,NULL,NULL,Arrears,active
+2014-001-1771,12-23-2021,12-23-2021,Orteza Erlinda ,   Duhat,Residential,1771,563,Sept.  2021 - Dec. 2021,NULL,2310,NULL,NULL,NULL,0,1214,unpaid,56-20230107-25,NULL,NULL,Arrears,active
+2021-006-3228,02-24-2021,02-24-2021,Peralta Mary Joy ,      Duhat,Residential,3228,,Oct.2021-Dec.2021,NULL,1699,NULL,NULL,NULL,0,150,unpaid,56-20230107-26,NULL,NULL,Arrears,active
+2014-001-1708,12-23-2021,12-23-2021,Juanillo John Michael ,   Duhat,Residential,1708,,Apr.  2021 - Dec. 2021,NULL,1907,NULL,NULL,NULL,0,3590,unpaid,56-20230107-27,NULL,NULL,Arrears,active
+2013-011-1447,12-24-2021,12-24-2021,Guevarra Mario ,  Junction Duhat,Residential,1447,,Feb.2021-Dec.2021,NULL,3858,NULL,NULL,NULL,0,1385,unpaid,56-20230107-28,NULL,NULL,Arrears,active
+2013-011-1359,12-24-2021,12-24-2021,Ruazol Mercedes P.,  Junction Duhat,Residential,1359,1981714,Feb.2020-Dec.2021,NULL,801,NULL,NULL,NULL,0,3160,unpaid,56-20230107-29,NULL,NULL,Arrears,active
+2019-007-3032,12-24-2021,12-24-2021,Cavinti Integrated  National High Scholl II ,  Junction Duhat,Residential,3032,,Feb.2020-dec.2021,NULL,341,NULL,NULL,NULL,0,4138,unpaid,56-20230107-30,NULL,NULL,Arrears,active
+2013-011-1366,12-24-2021,12-24-2021,Maglalang Joselito ,  Junction Duhat,Residential,1366,,Sept.2021-Dec.2021,NULL,2027,NULL,NULL,NULL,0,908,unpaid,56-20230107-31,NULL,NULL,Arrears,active
+2015-001-2307,12-24-2021,12-24-2021,Talubo Mark John C.,  Junction Duhat,Residential,2307,,Jun.2020-Dec.2021,NULL,1174,NULL,NULL,NULL,0,5470,unpaid,56-20230107-32,NULL,NULL,Arrears,active
+2013-011-1375,12-24-2021,12-24-2021,Perez Felisa ,  Junction Duhat,Residential,1375,2561477,Jul.2021-Dec.2021,NULL,1243,NULL,NULL,NULL,0,2945,unpaid,56-20230107-33,NULL,NULL,Arrears,active
+2018-004-2826,12-24-2021,12-24-2021,Oracion Alloha C.,  Junction Duhat,Residential,2826,,Aug.2020-Dec.2021,NULL,777,NULL,NULL,NULL,0,4570,unpaid,56-20230107-34,NULL,NULL,Arrears,active
+2013-011-1495,12-24-2021,12-24-2021,Vida Jojit ,  Junction Duhat,Residential,1495,,July .2021-Dec.2021,NULL,3270,NULL,NULL,NULL,0,4104,unpaid,56-20230107-35,NULL,NULL,Arrears,active
+2015-010-2279,12-23-2021,12-23-2021,Rebanal Maricel P.,   Duhat,Residential,2279,,Mar. 2021 - Dec. 2021,NULL,750,NULL,NULL,NULL,0,1460,unpaid,56-20230107-36,NULL,NULL,Arrears,active
+2018-005-2822,12-23-2021,12-23-2021,Vista Gean C.,   Duhat,Residential,2822,,June. 2021 - Dec. 2021,NULL,3570,NULL,NULL,NULL,0,2044,unpaid,56-20230107-37,NULL,NULL,Arrears,active
+2018-004-2828,12-23-2021,12-23-2021,Lane Farey ,   Duhat,Residential,2828,,Sept. 2021 - Dec. 2021,NULL,1223,NULL,NULL,NULL,0,1896,unpaid,56-20230107-38,NULL,NULL,Arrears,active
+2019-002-3088,12-23-2021,12-23-2021,Lubuguin Maricar G.,      Duhat,Residential,3088,,Dec. 2020 - Dec. 2021,NULL,613,NULL,NULL,NULL,0,2166,unpaid,56-20230107-39,NULL,NULL,Arrears,active
+2013-011-1432,12-24-2021,12-24-2021,Flores Romeo ,  Junction Duhat,Residential,1432,,Feb.2021-Dec.2021,NULL,2736,NULL,NULL,NULL,0,4732,unpaid,56-20230107-40,NULL,NULL,Arrears,active
+2013-011-1513,12-24-2021,12-24-2021,Maximo Allan ,  Junction Duhat,Residential,1513,,Apr.2020-Dec.2021,NULL,1178,NULL,NULL,NULL,0,2236,unpaid,56-20230107-41,NULL,NULL,Arrears,active
+2013-011-1372,12-24-2021,12-24-2021,Flores Cristina ,  Junction Duhat,Residential,1372,,Apr.2020-Dec.2021,NULL,2286,NULL,NULL,NULL,0,3985,unpaid,56-20230107-42,NULL,NULL,Arrears,active
+2014-001-1880,12-23-2021,12-23-2021,Villanueva Mario F.,  Jacinto Poblacion,Residential,1880,15-131418,Dec. 2021,NULL,1576,NULL,NULL,NULL,0,50,unpaid,56-20230107-43,NULL,NULL,Arrears,active
+2014-001-1778,12-23-2021,12-23-2021,Lubuguin Raymundo ,  Jacinto Poblacion,Residential,1778,,Jun. 2021 - Dec. 2021,NULL,5969,NULL,NULL,NULL,0,1978,unpaid,56-20230107-44,NULL,NULL,Arrears,active
+2013-011-1449,12-24-2021,12-24-2021,Ruazol Resting ,  Junction Duhat,Residential,1449,,Jul.2021-Dec.2021,NULL,2406,NULL,NULL,NULL,0,0,unpaid,56-20230107-45,NULL,NULL,Arrears,active
+2014-001-1796,12-23-2021,12-23-2021,Sumulong Conrado A.,  Jacinto Poblacion,Residential,1796,,Nov. 2020 - Dec. 2021,NULL,5008,NULL,NULL,NULL,0,5658,unpaid,56-20230107-46,NULL,NULL,Arrears,active
+2014-001-2959,12-26-2021,12-26-2021,Pabico Jobita ,  Burgos Poblacion,Residential,2959,,aug.2021 - Dec. 2021,NULL,2567,NULL,NULL,NULL,0,450,unpaid,56-20230107-47,NULL,NULL,Arrears,active
+2014-001-2006,12-27-2021,12-27-2021,Lizen Virgilio ,  A.P De Leon Poblacion,Residential,2006,,May 2021 - Dec. 2021,NULL,2542,NULL,NULL,NULL,0,970,unpaid,56-20230107-48,NULL,NULL,Arrears,active
+2014-001-1866,12-23-2021,12-23-2021,Juanillo Eva ,  Rizal Poblacion,Residential,1866,,Nov.2020-Dec.2021,NULL,4251,NULL,NULL,NULL,0,5168,unpaid,56-20230107-49,NULL,NULL,Arrears,active
+2018-004-2823,12-23-2021,12-23-2021,Salazar Loida A.,  Rizal Poblacion,Residential,2823,,Dec.2021,NULL,110,NULL,NULL,NULL,0,50,unpaid,56-20230107-50,NULL,NULL,Arrears,active
+2014-001-1836,12-23-2021,12-23-2021,Duma Ceferino ,  Rizal Poblacion,Residential,1836,,Jul.2021-Dec.2021,NULL,469,NULL,NULL,NULL,0,620,unpaid,56-20230107-51,NULL,NULL,Arrears,active
+2014-001-1942,12-26-2021,12-26-2021,Tagoo Edith ,  Del Pilar Poblacion,Residential,1942,,June 2021-De.2021,NULL,1983,NULL,NULL,NULL,0,800,unpaid,56-20230107-52,NULL,NULL,Arrears,disconnected
+2014-001-1940,12-26-2021,12-26-2021,Dela Torre Alberto ,  Del Pilar Poblacion,Residential,1940,,Oct.2021-Dec.2021,,,,,,,,,56-20230107-53,,,,
+2019-001-3076,12-26-2021,12-26-2021,Ciriaco Delsife O.,  Del Pilar Poblacion,Residential,3076,,Nov.2019-Dec.2021,NULL,890,NULL,NULL,NULL,0,6777,unpaid,56-20230107-54,NULL,NULL,Arrears,active
+2019-007-3037,12-26-2021,12-26-2021,Pullan Adrian V.,  Del Pilar Poblacion,Residential,3037,,Sept.2021-Dec.2021,NULL,235,NULL,NULL,NULL,0,200,unpaid,56-20230107-55,NULL,NULL,Arrears,active
+2014-001-2060,12-26-2021,12-26-2021,Lubuguin Adelaida ,  Bagong Silang Poblacion,Residential,2060,,Aug. 2021-Dec.2021,NULL,1635,NULL,NULL,NULL,0,275,unpaid,56-20230107-56,NULL,NULL,Arrears,active
+2014-001-1983,12-27-2021,12-27-2021,Ansay Joven ,  Bagong Silang Poblacion,Residential,1983,,Jun.2021-Dec.2021,NULL,2018,NULL,NULL,NULL,0,6558,unpaid,56-20230107-57,NULL,NULL,Arrears,active
+2014-001-1980,12-26-2021,12-26-2021,Pastores Anastacio V.,  Bagong Silang Poblacion,Residential,1980,98105,Jul.2020-Dec.2021,NULL,3543,NULL,NULL,NULL,0,3609,unpaid,56-20230107-58,NULL,NULL,Arrears,active
+2020-001-3092,12-27-2021,12-27-2021,Hilaga Gilda B.,  Bagong Silang Poblacion,Residential,3092,,Sept.2021-Dec.2021,NULL,225,NULL,NULL,NULL,0,1735,unpaid,56-20230107-59,NULL,NULL,Arrears,active
+2014-001-1912,12-27-2021,12-27-2021,San Pedro Roselyn ,  Bagong Silang Poblacion,Residential,1912,,Mar.2021-Dec.2021,NULL,2370,NULL,NULL,NULL,0,2058,unpaid,56-20230107-60,NULL,NULL,Arrears,active
+2014-001-1977,12-27-2021,12-27-2021,Dela Cruz Virgo ,  Bagong Silang Poblacion,Residential,1977,,Oct.2021-Dec.2021,NULL,3052,NULL,NULL,NULL,0,1195,unpaid,56-20230107-61,NULL,NULL,Arrears,active
+2014-003-2084,12-27-2021,12-27-2021,Pereja Renante ,  Bagong Silang Poblacion,Residential,2084,,Dec.2021,NULL,2265,NULL,NULL,NULL,0,308,unpaid,56-20230107-62,NULL,NULL,Arrears,active
+2016-005-2893,12-27-2021,12-27-2021,Caballero Ernesta V.,  Bagong Silang Poblacion,Residential,2893,,Dec.2021,NULL,729,NULL,NULL,NULL,0,50,unpaid,56-20230107-63,NULL,NULL,Arrears,active
+2021-0009-3263,12-27-2021,12-27-2021,De Leon II Andress ,  Bagong Silang Poblacion,Residential,,,Dec.2021,NULL,109,NULL,NULL,NULL,0,100,unpaid,56-20230107-64,NULL,NULL,Arrears,active
+2014-001-2051,12-27-2021,12-27-2021,Ramos Severina ,  Bagong Silang Poblacion,Residential,2051,,Jul.2021-Dec.2021,NULL,311,NULL,NULL,NULL,0,400,unpaid,56-20230107-65,NULL,NULL,Arrears,active
+2013-011-1704,01-02-2022,01-02-2022,Parientes Maura ,  Viva Victoria Poblacion,Residential,1704,,Aug. 2021 - Dec. 2021,NULL,1285,NULL,NULL,NULL,0,350,unpaid,56-20230107-66,NULL,NULL,Arrears,active
+2013-011-1747,01-02-2022,01-02-2022,Esguerra Gina ,  Alalayan Road Poblacion,Residential,1747,,Mar. 2021 - Dec. 2021,NULL,3988,NULL,NULL,NULL,0,13832,unpaid,56-20230107-67,NULL,NULL,Arrears,active
+2015-011-2272,01-02-2022,01-02-2022,Capiz May S.,  Alalayan Road Poblacion,Residential,2272,,Feb. 2021 - Dec. 2021,NULL,861,NULL,NULL,NULL,0,1330,unpaid,56-20230107-68,NULL,NULL,Arrears,active
+2017-010-2852,01-02-2022,01-02-2022,Revaner Maria Jasmin B.,  Alalayan Road Poblacion,Residential,2852,,Apr. 2021 - Dec. 2021,NULL,858,NULL,NULL,NULL,0,2090,unpaid,56-20230107-69,NULL,NULL,Arrears,active
+2013-011-1536,01-03-2022,01-03-2022,Gallardo Narceso ,  Bonifacio Poblacion,Residential,1536,,Apr. 2020 - Dec. 2021,NULL,2509,NULL,NULL,NULL,0,1100,unpaid,56-20230107-70,NULL,NULL,Arrears,active
+2013-011-1549,01-03-2022,01-03-2022,Oliveros Conrado ,  Bonifacio Poblacion,Residential,1549,,Sept. 2020 - Dec. 2021,NULL,4164,NULL,NULL,NULL,0,850,unpaid,56-20230107-71,NULL,NULL,Arrears,active
+2013-011-548,01-04-2022,01-04-2022,De leon Elloy ,  Magsaysay Poblacion,Residential,548,,Nov. 2019 - Dec. 2021,NULL,2618,NULL,NULL,NULL,0,9829.93,unpaid,56-20230107-72,NULL,NULL,Arrears,active
+2013-0111396,12-27-2021,12-27-2021,Javeniar Babyluz ,  Villa Blanco Poblacion,Residential,1396,,Dec.2021,NULL,3408,NULL,NULL,NULL,0,140,unpaid,56-20230107-73,NULL,NULL,Arrears,active
+2013-011-703,01-04-2022,01-04-2022,Torres Jenny ,  Magsaysay Poblacion,Residential,703,,Dec. 2021,NULL,2798,NULL,NULL,NULL,0,474,unpaid,56-20230107-74,NULL,NULL,Arrears,active
+2013-011-1606,01-03-2021,01-03-2021,Dela Torre Nimfa ,  Oflaria Poblacion,Residential,1606,,June 2021-Dec.2021,NULL,2747,NULL,NULL,NULL,0,1630,unpaid,56-20230107-75,NULL,NULL,Arrears,active
+2013-011-1722,01-04-2022,01-04-2022,Pabico Fernando ,  Magsaysay Poblacion,Residential,1722,,Nov. 2019 - Dec. 2021,NULL,2387,NULL,NULL,NULL,0,3093.17,unpaid,56-20230107-76,NULL,NULL,Arrears,active
+2014-001-2036,01-04-2022,01-04-2022,Ramos Juliana ,  Magsaysay Poblacion,Residential,2036,,Jan. 2021 - Dec. 2021,NULL,4600,NULL,NULL,NULL,0,2944,unpaid,56-20230107-77,NULL,NULL,Arrears,active
+2016-003-2901,01-03-2022,01-03-2022,Gocon Rene Rose ,  Villa Blanco Poblacion,Residential,2901,,Jun.2020-Dec.2021,NULL,3005,NULL,NULL,NULL,0,5162,unpaid,56-20230107-78,NULL,NULL,Arrears,active
+2013-011-810,01-03-2022,01-03-2022,Reyes Sherly ,  Villa Blanco Poblacion,Residential,810,,Dec.2021,NULL,365,NULL,NULL,NULL,0,236,unpaid,56-20230107-79,NULL,NULL,Arrears,active
+2013-011-1007,01-06-2022,01-06-2022,Bugtong Melba A.,  De leon Poblacion,Residential,1007,,Nov. 2021 - Dec. 2021,NULL,2909,NULL,NULL,NULL,0,312,unpaid,56-20230107-80,NULL,NULL,Arrears,active
+2013-011-1011,01-06-2022,01-06-2022,Pereja Arnel ,  De Leon Poblacion,Residential,1011,,Nov. 2021 - Dec. 2021,NULL,4107,NULL,NULL,NULL,0,496,unpaid,56-20230107-81,NULL,NULL,Arrears,active
+2013-011-606,01-06-2022,01-06-2022,Amores Angel ,  De Leon Poblacion,Residential,606,,March 2021 - Dec. 2021,NULL,9286,NULL,NULL,NULL,0,3551,unpaid,56-20230107-82,NULL,NULL,Arrears,active
+2016-005-2892,01-03-2022,01-03-2022,Flores Angelita ,  Mabini Poblacion,Residential,2892,,Jul.2020-Dec.2021,NULL,628,NULL,NULL,NULL,0,3436,unpaid,56-20230107-83,NULL,NULL,Arrears,active
+2013-011-1245,01-03-2022,01-03-2022,Oliveros Marilyn ,  Mabini Poblacion,Residential,1245,,Sept.2021-Dec.2021,NULL,1874,NULL,NULL,NULL,0,410,unpaid,56-20230107-84,NULL,NULL,Arrears,active
+2013-011-544,01-06-2022,01-06-2022,Oliveros Herminia ,  Villa Flores Poblacion,Residential,544,,May 2020 - Dec. 2021,NULL,142,NULL,NULL,NULL,0,1530,unpaid,56-20230107-85,NULL,NULL,Arrears,active
+2017-006-2750,01-06-2022,01-06-2022,Dela Torre Marivic ,  Villa Flores Poblacion,Residential,2750,,Oct. 2021 - Dec. 2021,NULL,881,NULL,NULL,NULL,0,1744,unpaid,56-20230107-86,NULL,NULL,Arrears,active
+2013-011-364,01-06-2022,01-06-2022,Custodio Martin ,  Maypansol Poblacion,Residential,364,,May 2021 - Dec. 2021,NULL,3930,NULL,NULL,NULL,0,3073,unpaid,56-20230107-87,NULL,NULL,Arrears,active
+2013-011-415,01-06-2022,01-06-2022,Flores Necitas ,  Maypansol Poblacion,Residential,415,15-14254,March 2021 - Dec. 2021,NULL,1633,NULL,NULL,NULL,0,1225.5,unpaid,56-20230107-88,NULL,NULL,Arrears,active
+2013-011-397,01-06-2022,01-06-2022,Ansay Mario ,  Maypansol Poblacion,Residential,397,,Dec. 2021,NULL,3310,NULL,NULL,NULL,0,432,unpaid,56-20230107-89,NULL,NULL,Arrears,active
+2013-011-603,01-11-2022,01-11-2022,Baltazar Rocelia P.,  Sanggumay Poblacion,Residential,603,,Nov. 2021 - Dec. 2021,NULL,3434,NULL,NULL,NULL,0,1326,unpaid,56-20230107-90,NULL,NULL,Arrears,active
+2013-011-530,01-11-2022,01-11-2022,Juanillo Thelma ,  Sanggumay Poblacion,Residential,530,,Sept. 2021 - Dec. 2021,NULL,1102,NULL,NULL,NULL,0,640,unpaid,56-20230107-91,NULL,NULL,Arrears,active
+2013-011-635,01-03-2022,01-03-2022,Arroyo Delma ,  Pereña Poblacion,Residential,635,,May 2021-Dec.2021,NULL,2726,NULL,NULL,NULL,0,4305,unpaid,56-20230107-92,NULL,NULL,Arrears,active
+2018-005-2819,01-03-2022,01-03-2022,Bleza Digna C,Poblacion Pereña,Residential,2819,15-1298,jun.2021-Dec.2021,NULL,382,NULL,NULL,NULL,0,2120,unpaid,56-20230107-93,NULL,NULL,Arrears,active
+2013-011-1310,01-03-2022,01-03-2022,Leonardo Michael ,  Pereña Poblacion,Residential,1310,,Oct.2021-Dec.2021,NULL,913,NULL,NULL,NULL,0,586,unpaid,56-20230107-94,NULL,NULL,Arrears,active
+2013-011-1309,01-03-2022,01-03-2022,Morales Noralyn ,  Pereña Poblacion,Residential,1309,,Oct.2021-Dec.2021,NULL,1544,NULL,NULL,NULL,0,400,unpaid,56-20230107-95,NULL,NULL,Arrears,active
+2014-006-2156,01-03-2022,01-03-2022,Flores Crispin ,  Pereña Poblacion,Residential,2156,,Dec.2021,NULL,3322,NULL,NULL,NULL,0,726,unpaid,56-20230107-96,NULL,NULL,Arrears,active
+2013-011-722,01-03-2022,01-03-2022,Bullosos Arnel ,Poblacion Pereña,Residential,722,15-954,Nov.2021-Dec.2021,,,,,,,,,56-20230107-97,,,,
+2013-011-1142,01-05-2022,01-05-2022,Fernandez Dra.Fe ,  Bukal Road Poblacion,Residential,1142,,Sept.2021-Dec.2021,NULL,543,NULL,NULL,NULL,0,2120,unpaid,56-20230107-98,NULL,NULL,Arrears,active
+2020-006-3110,01-05-2022,01-05-2022,Esguerra Hedelito ,  Bukal Road Poblacion,Residential,3110,,feb. 2021Dec.2021,NULL,2144,NULL,NULL,NULL,0,14634,unpaid,56-20230107-99,NULL,NULL,Arrears,active
+2013-011-1113,01-05-2022,01-05-2022,Barlis Lucita ,  Bukal Road Poblacion,Residential,1113,,Sept.2020-Dec.2021,NULL,1038,NULL,NULL,NULL,0,800,unpaid,56-20230107-100,NULL,NULL,Arrears,active
+2013-011-805,01-05-2022,01-05-2022,Robel Marcelina ,  Oliveros Poblacion,Residential,805,15-549,Oct.2021-Dec.2021,NULL,2691,NULL,NULL,NULL,0,150,unpaid,56-20230107-101,NULL,NULL,Arrears,active
+2014-002-2135,01-05-2022,01-05-2022,Barangay Poblacion ,  Oliveros Poblacion,Residential,2135,,Sept.2021-Dec.2021,NULL,295,NULL,NULL,NULL,0,200,unpaid,56-20230107-102,NULL,NULL,Arrears,active
+2013-011-467,01-05-2022,01-05-2022,Tinumpic Gaudioso ,  Tagasan Road Poblacion,Residential,467,,Oct.2020-Dec.2021,NULL,1280,NULL,NULL,NULL,0,3788,unpaid,56-20230107-103,NULL,NULL,Arrears,active
+2013-011-274,01-05-2022,01-05-2022,Ansay Nasing ,  Calupig Poblacion,Residential,274,,Dec.2017-Dec.2021,NULL,2228,NULL,NULL,NULL,0,15031,unpaid,56-20230107-104,NULL,NULL,Arrears,active
+2013-011-290,01-05-2022,01-05-2022,Fernandez Librado ,  Calupig Poblacion,Residential,290,,Dec.2021,NULL,1178,NULL,NULL,NULL,0,50,unpaid,56-20230107-105,NULL,NULL,Arrears,active
+2013-011-190,01-05-2022,01-05-2022,Valente Leonisa P.,  Lopez Jaena Poblacion,Residential,190,,Oct. 2021-Dec.2021,NULL,3251,NULL,NULL,NULL,0,628,unpaid,56-20230107-106,NULL,NULL,Arrears,active
+2014-001-2966,01-05-2022,01-05-2022,Tinumpic Ason ,  Lopez Jaena Poblacion,Residential,2966,,Jul.2020-Dec.2021,NULL,4944,NULL,NULL,NULL,0,10072,unpaid,56-20230107-107,NULL,NULL,Arrears,active
+2014-001-2137,01-06-2022,01-06-2022,Ansay Lualhati ,  General Luna Poblacion,Residential,2137,,July 2021-Dec.2021,NULL,1328,NULL,NULL,NULL,0,1070,unpaid,56-20230107-108,NULL,NULL,Arrears,active
+2013-011-1198,01-11-2022,01-11-2022,Perolina Sigfredo ,  Cailles Poblacion,Residential,1198,,Sept. 2021-Dec.2021,NULL,2824,NULL,NULL,NULL,0,1202,unpaid,56-20230107-109,NULL,NULL,Arrears,active
+2013-011-1589,01-11-2022,01-11-2022,Miras Leonora ,  Cailles Poblacion,Residential,1589,,Sept.2019-Dec.2021,NULL,433,NULL,NULL,NULL,0,4387,unpaid,56-20230107-110,NULL,NULL,Arrears,active
+2013-011-1659,01-11-2022,01-11-2022,Gasgonia Roderick H.,  Cailles Poblacion,Residential,1659,043407015-089,Nov. 2021 - Dec.2021,NULL,2851,NULL,NULL,NULL,0,220,unpaid,56-20230107-111,NULL,NULL,Arrears,active
+2013-011-1682,01-11-2022,01-11-2022,Corpus Jesus ,  Cailles Poblacion,Residential,1682,,MAY.2021-Dec.2021,NULL,6396,NULL,NULL,NULL,0,4038,unpaid,56-20230107-112,NULL,NULL,Arrears,active
+2013-011-1529,01-11-2022,01-11-2022,Esguerra Hedelito ,  Cailles Poblacion,Residential,1529,,Dec.2021,NULL,1485,NULL,NULL,NULL,0,100,unpaid,56-20230107-113,NULL,NULL,Arrears,active
+2013-011-1631,01-11-2022,01-11-2022,Villanueva Semion ,  Cailles Poblacion,Residential,1631,,Sept.2021-Dec.2021,NULL,3826,NULL,NULL,NULL,0,200,unpaid,56-20230107-114,NULL,NULL,Arrears,active
+2013-011-588,01-11-2022,01-11-2022,Delgado Merill ,   Udia,Residential,588,,Aug.2020-Dec.2022,NULL,3036,NULL,NULL,NULL,0,3536,unpaid,56-20230107-115,NULL,NULL,Arrears,active
+2014-010-2250,01-11-2022,01-11-2022,Velasco Larry / Inday ,   Udia,Residential,2250,,Jun.2020-Dec.2021,NULL,606,NULL,NULL,NULL,0,4232,unpaid,56-20230107-116,NULL,NULL,Arrears,active
+2013-011-577,01-11-2022,01-11-2022,Ruazol Terie ,   Udia,Residential,577,,SEPT.2021-DEC.2021,NULL,2552,NULL,NULL,NULL,0,350,unpaid,56-20230107-117,NULL,NULL,Arrears,active
+2014-003-3062,01-11-2022,01-11-2022,Center Udia Day Care ,   Udia,Residential,3062,,AUG.2021-DEC.2021,NULL,1145,NULL,NULL,NULL,0,250,unpaid,56-20230107-118,NULL,NULL,Arrears,active
+2016-011-2793,01-11-2022,01-11-2022,Juguilon Maria Reshell ,   Udia,Residential,2793,,AUG.2021-DEC.2021,NULL,778,NULL,NULL,NULL,0,570,unpaid,56-20230107-119,NULL,NULL,Arrears,active
+2014-001-1836,01-06-2022,01-21-2022,Duma Ceferino ,  Rizal Poblacion,Residential,1836,,22-Jan,469,469,0,,2%,0,50,unpaid,56-20230107-120,NULL,NULL,WS Bill,active
+2014-001-1866,01-06-2022,01-21-2022,Juanillo Eva ,  Rizal Poblacion,Residential,1866,,22-Jan,4251,4275,24,,2%,0,248,unpaid,56-20230107-121,NULL,NULL,WS Bill,active
+2018-004-2823,01-06-2022,01-21-2022,Salazar Loida A.,  Rizal Poblacion,Residential,2823,,22-Jan,110,130,20,,2%,0,200,unpaid,56-20230107-122,NULL,NULL,WS Bill,active
+2014-001-1771,01-06-2022,01-21-2022,Orteza Erlinda ,   Duhat,Residential,1771,563,22-Jan,2310,2340,30,,2%,16,320,unpaid,56-20230107-123,NULL,NULL,WS Bill,active
+2014-001-1708,01-06-2022,01-21-2022,Juanillo John Michael ,   Duhat,Residential,1708,,22-Jan,1907,1947,40,,2%,0,460,unpaid,56-20230107-124,NULL,NULL,WS Bill,active
+2015-010-2279,01-06-2022,01-21-2022,Rebanal Maricel P.,   Duhat,Residential,2279,,22-Jan,750,765,15,,2%,0,150,unpaid,56-20230107-125,NULL,NULL,WS Bill,active
+2018-005-2822,01-06-2022,01-21-2022,Vista Gean C.,   Duhat,Residential,2822,,22-Jan,3570,3601,31,,2%,0,334,unpaid,56-20230107-126,NULL,NULL,WS Bill,active
+2018-004-2828,01-06-2022,01-21-2022,Lane Farey ,   Duhat,Residential,2828,,22-Jan,1223,1264,41,,2%,0,474,unpaid,56-20230107-127,NULL,NULL,WS Bill,active
+2019-002-3088,01-06-2022,01-21-2022,Lubuguin Maricar G.,      Duhat,Residential,3088,,22-Jan,613,622,9,,2%,0,100,unpaid,56-20230107-128,NULL,NULL,WS Bill,active
+2010-003-38,01-04-2022,01-19-2022,Peji Liezel D.,   Layug,Residential,38,,22-Jan,2140,2164,24,,2%,0,248,unpaid,56-20230107-129,NULL,NULL,WS Bill,active
+2013-011-340,01-04-2022,01-19-2022,Oblepias Bienvinido L.,   Layug,Residential,340,15-490,22-Jan,2884,2909,25,,2%,13,260,unpaid,56-20230107-130,NULL,NULL,WS Bill,active
+2014-011-2245,01-04-2022,01-19-2022,Esperanza Marie F.,   Layug,Residential,2245,,22-Jan,666,679,13,,2%,0,130,unpaid,56-20230107-131,NULL,NULL,WS Bill,active
+2015-005-2310,01-04-2022,01-19-2022,Pereja Arnel M.,   Layug,Residential,2310,,22-Jan,1405,1419,14,,2%,0,140,unpaid,56-20230107-132,NULL,NULL,WS Bill,active
+2018-008-2717,01-04-2022,01-19-2022,Nazareno Noel S.,   Layug,Residential,2717,,22-Jan,304,304,0,,2%,0,50,unpaid,56-20230107-133,NULL,NULL,WS Bill,active
+2018-011-3048,01-04-2022,01-19-2022,Sebastian April Bart P.,   Layug,Residential,3048,,22-Jan,460,470,10,,2%,0,100,unpaid,56-20230107-134,NULL,NULL,WS Bill,active
+2019-0004-3105,01-04-2022,01-19-2022,Dela Torre Jaime F.,     Layug,Residential,3105,,22-Jan,39,39,0,,2%,0,50,unpaid,56-20230107-135,NULL,NULL,WS Bill,active
+2020-004-3095,01-04-2022,01-19-2022,Quilapio Remedios ,   Layug,Residential,3095,,22-Jan,41,42,1,,2%,0,50,unpaid,56-20230107-136,NULL,NULL,WS Bill,active
+2020-012-3166,01-04-2022,01-19-2022,Ebuen Lillian ,    Layug,Residential,3166,,22-Jan,745,806,61,,2%,0,754,unpaid,56-20230107-137,NULL,NULL,WS Bill,active
+2021-011-3256,01-04-2022,01-19-2022,Blaza Clamarie ,   Layug,Residential,3256,,22-Jan,5,10,5,,2%,0,75,unpaid,56-20230107-138,NULL,NULL,WS Bill,active
+2014-001-1880,01-06-2022,01-21-2022,Villanueva Mario F.,  Jacinto Poblacion,Residential,1880,15-131418,22-Jan,1576,1576,0,,2%,2,50,unpaid,56-20230107-139,NULL,NULL,WS Bill,active
+2014-001-1942,01-10-2022,01-25-2022,Tagoo Edith ,  Del Pilar Poblacion,Residential,1942,,22-Jan,1983,1991,8,,2%,0,100,unpaid,56-20230107-140,NULL,NULL,WS Bill,disconnected
+2014-001-1778,01-06-2022,01-21-2022,Lubuguin Raymundo ,  Jacinto Poblacion,Residential,1778,,22-Jan,5969,5969,0,,2%,0,50,unpaid,56-20230107-141,NULL,NULL,WS Bill,active
+2019-001-3076,01-10-2022,01-25-2022,Ciriaco Delsife O.,  Del Pilar Poblacion,Residential,3076,,22-Jan,890,930,40,,2%,0,460,unpaid,56-20230107-142,NULL,NULL,WS Bill,active
+2014-001-1796,01-06-2022,01-21-2022,Sumulong Conrado A.,  Jacinto Poblacion,Residential,1796,,22-Jan,5008,5055,47,,2%,0,558,unpaid,56-20230107-143,NULL,NULL,WS Bill,active
+2019-007-3037,01-10-2022,01-25-2022,Pullan Adrian V.,  Del Pilar Poblacion,Residential,3037,,22-Jan,235,235,0,,2%,0,50,unpaid,56-20230107-144,NULL,NULL,WS Bill,active
+2017-005-2762,01-06-2022,01-21-2022,Rivera Lita ,  Jacinto Poblacion,Residential,2761,,22-Jan,672,681,9,,2%,0,100,unpaid,56-20230107-145,NULL,NULL,WS Bill,active
+2013-011-1570,01-10-2022,01-25-2022,Mesina Analyn ,  Junction Duhat,Residential,1570,,22-Jan,2218,2218,0,,2%,0,50,unpaid,56-20230107-146,NULL,NULL,WS Bill,active
+2013-011-1573,01-10-2022,01-25-2022,Maximo Jr. Alfredo P.,  Junction Duhat,Residential,1573,,22-Jan,3768,3795,27,,2%,0,284,unpaid,56-20230107-147,NULL,NULL,WS Bill,active
+2013-010-3002,01-10-2022,01-25-2022,Gadiane Rosella ,  Junction Duhat,Residential,3002,,22-Jan,2412,2435,23,,2%,0,236,unpaid,56-20230107-148,NULL,NULL,WS Bill,active
+2013-011-1581,01-10-2022,01-25-2022,Ruazol Alex/Linda ,  Junction Duhat,Residential,1581,,22-Jan,4151,4174,23,,2%,0,236,unpaid,56-20230107-149,NULL,NULL,WS Bill,active
+2013-011-1495,01-10-2022,01-25-2022,Vida Jojit ,  Junction Duhat,Residential,1495,,22-Jan,3270,3333,63,,2%,0,782,unpaid,56-20230107-150,NULL,NULL,WS Bill,active
+2013-011-1513,01-10-2022,01-25-2022,Maximo Allan ,  Junction Duhat,Residential,1513,,22-Jan,1178,1199,21,,2%,0,212,unpaid,56-20230107-151,NULL,NULL,WS Bill,active
+2014-001-2006,01-11-2022,01-26-2022,Lizen Virgilio ,  A.P De Leon Poblacion,Residential,2006,,22-Jan,2542,2556,14,,2%,0,140,unpaid,56-20230107-152,NULL,NULL,WS Bill,active
+2013-011-1432,01-10-2022,01-25-2022,Flores Romeo ,  Junction Duhat,Residential,1432,,22-Jan,2736,2743,7,,2%,0,100,unpaid,56-20230107-153,NULL,NULL,WS Bill,active
+2013-011-1447,01-10-2022,01-25-2022,Guevarra Mario ,  Junction Duhat,Residential,1447,,22-Jan,3858,3868,10,,2%,0,100,unpaid,56-20230107-154,NULL,NULL,WS Bill,active
+2013-011-1359,01-10-2022,01-25-2022,Ruazol Mercedes P.,  Junction Duhat,Residential,1359,1981714,22-Jan,801,801,0,,2%,2,50,unpaid,56-20230107-155,NULL,NULL,WS Bill,active
+2013-011-1366,01-10-2022,01-25-2022,Maglalang Joselito ,  Junction Duhat,Residential,1366,,22-Jan,2027,2053,26,,2%,0,272,unpaid,56-20230107-156,NULL,NULL,WS Bill,active
+2013-011-1372,01-10-2022,01-25-2022,Flores Cristina ,  Junction Duhat,Residential,1372,,22-Jan,2286,2288,2,,2%,0,50,unpaid,56-20230107-157,NULL,NULL,WS Bill,active
+2013-011-1375,01-10-2022,01-25-2022,Perez Felisa ,  Junction Duhat,Residential,1375,2561477,22-Jan,1243,1245,2,,2%,2,50,unpaid,56-20230107-158,NULL,NULL,WS Bill,active
+2014-001-2959,01-10-2022,01-25-2022,Pabico Jobita ,  Burgos Poblacion,Residential,2959,,22-Jan,2567,2578,11,,2%,0,110,unpaid,56-20230107-159,NULL,NULL,WS Bill,active
+2015-001-2307,01-10-2022,01-25-2022,Talubo Mark John C.,  Junction Duhat,Residential,2307,,22-Jan,1174,1175,1,,2%,0,50,unpaid,56-20230107-160,NULL,NULL,WS Bill,active
+2018-004-2826,01-10-2022,01-25-2022,Oracion Alloha C.,  Junction Duhat,Residential,2826,,22-Jan,777,784,7,,2%,0,100,unpaid,56-20230107-161,NULL,NULL,WS Bill,active
+2019-007-3032,01-10-2022,01-25-2022,Cavinti Integrated  National High Scholl II ,  Junction Duhat,Residential,3032,,22-Jan,341,351,10,,2%,0,100,unpaid,56-20230107-162,NULL,NULL,WS Bill,active
+2019-011-3072,01-10-2022,01-25-2022,Ansay Jhemer P.,  Junction Duhat,Residential,3072,,22-Jan,142,163,21,,2%,0,212,unpaid,56-20230107-163,NULL,NULL,WS Bill,active
+2021-006-3228,01-10-2022,01-25-2022,Peralta Mary Joy ,      Duhat,Residential,3228,,22-Jan,1699,8,8,,2%,0,100,unpaid,56-20230107-164,NULL,NULL,WS Bill,active
+2014-001-1912,01-11-2022,01-26-2022,San Pedro Roselyn ,  Bagong Silang Poblacion,Residential,1912,,22-Jan,2370,2392,22,,2%,0,224,unpaid,56-20230107-165,NULL,NULL,WS Bill,active
+2013-010-073,01-11-2022,01-26-2022,Ansay John V.,43  Bagong Silang Poblacion,Residential,73,5/15/2019,22-Jan,2012,2022,10,,2%,5,100,unpaid,56-20230107-166,NULL,NULL,WS Bill,active
+2014-001-2051,01-11-2022,01-26-2022,Ramos Severina ,  Bagong Silang Poblacion,Residential,2051,,22-Jan,311,335,24,,2%,0,248,unpaid,56-20230107-167,NULL,NULL,WS Bill,active
+2014-001-2060,01-11-2022,01-26-2022,Lubuguin Adelaida ,  Bagong Silang Poblacion,Residential,2060,,22-Jan,1635,1641,6,,2%,0,100,unpaid,56-20230107-168,NULL,NULL,WS Bill,active
+2013-010-3015,01-11-2022,01-26-2022,Pereja Evangeline ,  Bagong Silang Poblacion,Residential,3015,,22-Jan,2827,2833,6,,2%,0,100,unpaid,56-20230107-169,NULL,NULL,WS Bill,active
+2009-010-0047,12-27-2021,12-27-2021,Arroyo Lorna I.,  Bagong Silang Poblacion,Residential,47,,dec.2019-dec.2021,NULL,2891,NULL,NULL,NULL,0,6684,unpaid,56-20230107-170,NULL,NULL,Arrears,active
+2009-010-0047,01-11-2022,01-26-2022,Arroyo Lorna I.,  Bagong Silang Poblacion,Residential,47,,22-Jan,2891,2905,14,,2%,0,140,unpaid,56-20230107-171,NULL,NULL,WS Bill,active
+2014-001-1977,01-11-2022,01-26-2022,Dela Cruz Virgo ,  Bagong Silang Poblacion,Residential,1977,,22-Jan,3052,3055,3,,2%,0,50,unpaid,56-20230107-172,NULL,NULL,WS Bill,active
+2014-001-1980,01-11-2022,01-26-2022,Pastores Anastacio V.,  Bagong Silang Poblacion,Residential,1980,98105,22-Jan,3543,3543,0,,2%,2,50,unpaid,56-20230107-173,NULL,NULL,WS Bill,active
+2014-003-2084,01-11-2022,01-26-2022,Pereja Renante ,  Bagong Silang Poblacion,Residential,2084,,22-Jan,2265,2280,15,,2%,0,150,unpaid,56-20230107-174,NULL,NULL,WS Bill,active
+2014-001-1983,01-11-2022,01-26-2022,Ansay Joven ,  Bagong Silang Poblacion,Residential,1983,,22-Jan,2018,2040,22,,2%,0,224,unpaid,56-20230107-175,NULL,NULL,WS Bill,active
+2016-005-2893,01-11-2022,01-26-2022,Caballero Ernesta V.,  Bagong Silang Poblacion,Residential,2893,,22-Jan,729,729,0,,2%,0,50,unpaid,56-20230107-176,NULL,NULL,WS Bill,active
+2019-004-2080,12-27-2021,12-27-2021,Ansay Jayward M.,  Bagong Silang Poblacion,Residential,2080,,dec..2021,NULL,475,NULL,NULL,NULL,0,50,unpaid,56-20230107-177,NULL,NULL,Arrears,active
+2019-004-2080,01-11-2022,01-26-2022,Ansay Jayward M.,  Bagong Silang Poblacion,Residential,2080,,22-Jan,475,480,5,,2%,0,75,unpaid,56-20230107-178,NULL,NULL,WS Bill,active
+2020-001-3092,01-11-2022,01-26-2022,Hilaga Gilda B.,  Bagong Silang Poblacion,Residential,3092,,22-Jan,225,238,13,,2%,0,130,unpaid,56-20230107-179,NULL,NULL,WS Bill,active
+2013-011-1747,01-15-2022,01-30-2022,Esguerra Gina ,  Alalayan Road Poblacion,Residential,1747,,22-Jan,3988,4001,13,,2%,0,130,unpaid,56-20230107-180,NULL,NULL,WS Bill,active
+2013-011-1606,01-14-2022,01-29-2022,Dela Torre Nimfa ,  Oflaria Poblacion,Residential,1606,,22-Jan,2747,2768,21,,2%,0,212,unpaid,56-20230107-181,NULL,NULL,WS Bill,active
+2015-011-2272,01-15-2022,01-30-2022,Capiz May S.,  Alalayan Road Poblacion,Residential,2272,,22-Jan,861,875,14,,2%,0,140,unpaid,56-20230107-182,NULL,NULL,WS Bill,active
+2013-011-810,01-15-2022,01-30-2022,Reyes Sherly ,  Villa Blanco Poblacion,Residential,810,,22-Jan,365,402,37,,2%,0,418,unpaid,56-20230107-183,NULL,NULL,WS Bill,active
+2016-003-2901,01-15-2022,01-30-2022,Gocon Rene Rose ,  Villa Blanco Poblacion,Residential,2901,,22-Jan,3005,3052,47,,2%,0,558,unpaid,56-20230107-184,NULL,NULL,WS Bill,active
+2013-011-1704,01-14-2022,01-29-2022,Maura  Parientes,  Viva Victoria Poblacion,Residential,1704,,22-Jan,1285,1285,0,,2%,0,50,unpaid,56-20230107-185,NULL,NULL,WS Bill,active
+2013-011-1636,01-16-2022,01-31-2022,Elias  Iwarat,  Bonifacio Poblacion,Residential,1636,,22-Jan,3774,3821,47,,2%,0,558,unpaid,56-20230107-186,,,WS Bill,active
+2013-011-1536,01-16-2022,01-31-2022,Narceso  Gallardo,  Bonifacio Poblacion,Residential,1536,,22-Jan,2509,2512,3,,2%,0,50,unpaid,56-20230107-187,NULL,NULL,WS Bill,active
+2017-003-2767,01-17-2022,02-01-2022,Buenaben  Oliveros,  Mabini Poblacion,Residential,2767,,22-Jan,2543,2578,35,,2%,0,390,unpaid,56-20230107-188,NULL,NULL,WS Bill,active
+2013-011-1549,01-16-2022,01-31-2022,Conrado  Oliveros,  Bonifacio Poblacion,Residential,1549,,22-Jan,4164,4164,0,,2%,0,50,unpaid,56-20230107-189,NULL,NULL,WS Bill,active
+2013-011-1245,01-17-2022,02-01-2022,Marilyn  Oliveros,  Mabini Poblacion,Residential,1245,,22-Jan,1874,1884,10,,2%,0,100,unpaid,56-20230107-190,NULL,NULL,WS Bill,active
+2013-011-548,01-19-2022,02-03-2022,Elloy  De leon,  Magsaysay Poblacion,Residential,548,,22-Jan,2618,2652,34,,2%,0,376,unpaid,56-20230107-191,NULL,NULL,WS Bill,active
+2016-005-2892,01-17-2022,02-01-2022,Angelita  Flores,  Mabini Poblacion,Residential,2892,,22-Jan,628,646,18,,2%,0,180,unpaid,56-20230107-192,NULL,NULL,WS Bill,active
+2013-011-1308,01-17-2022,02-01-2022,Solita V. Oliveros,Poblacion Pereña,Residential,1308,,22-Jan,2802,2818,16,,2%,0,160,unpaid,56-20230107-193,NULL,NULL,WS Bill,active
+2013-011-1309,01-17-2022,02-01-2022,Noralyn  Morales,Poblacion Pereña,Residential,1309,,22-Jan,1544,1550,6,,2%,0,100,unpaid,56-20230107-194,NULL,NULL,WS Bill,active
+2014-006-2156,01-17-2022,02-01-2022,Crispin  Flores,Poblacion Pereña,Residential,2156,,22-Jan,3322,3395,73,,2%,0,922,unpaid,56-20230107-195,NULL,NULL,WS Bill,active
+2018-005-2819,01-17-2022,02-01-2022,Digna C Bleza,Poblacion Pereña,Residential,2819,15-1298,22-Jan,382,392,10,,2%,5,100,unpaid,56-20230107-196,NULL,NULL,WS Bill,active
+2013-011-635,01-17-2022,02-01-2022,Delma  Arroyo,Poblacion Pereña,Residential,635,,22-Jan,2726,2763,37,,2%,0,418,unpaid,56-20230107-197,NULL,NULL,WS Bill,active
+2013-011-1113,01-22-2022,02-06-2022,Lucita  Barlis,  Bukal Road Poblacion,Residential,1113,,22-Jan,1038,1038,0,,2%,0,50,unpaid,56-20230107-198,NULL,NULL,WS Bill,active
+2013-011-703,01-20-2022,02-04-2022,Jenny  Torres,  Magsaysay Poblacion,Residential,703,,22-Jan,2798,2849,51,,2%,0,614,unpaid,56-20230107-199,NULL,NULL,WS Bill,active
+2013-011-716,01-20-2022,02-04-2022,Espie  Mesina,  Magsaysay Poblacion,Residential,716,,22-Jan,4194,4210,16,,2%,0,160,unpaid,56-20230107-200,NULL,NULL,WS Bill,active
+2013-011-833,01-20-2022,02-04-2022,Omer A. Villamin,  Magsaysay Poblacion,Residential,833,,22-Jan,1894,1898,4,,2%,0,75,unpaid,56-20230107-201,NULL,NULL,WS Bill,active
+2013-011-1722,01-20-2022,02-04-2022,Fernando  Pabico,  Magsaysay Poblacion,Residential,1722,,22-Jan,2387,2387,0,,2%,0,50,unpaid,56-20230107-202,NULL,NULL,WS Bill,active
+2014-001-2036,01-20-2022,02-04-2022,Juliana  Ramos,  Magsaysay Poblacion,Residential,2036,,22-Jan,4600,4625,25,,2%,0,260,unpaid,56-20230107-203,NULL,NULL,WS Bill,active
+2013-011-1142,01-22-2022,02-06-2022,Dra.Fe  Fernandez,  Bukal Road Poblacion,Residential,1142,,22-Jan,543,546,3,,2%,0,50,unpaid,56-20230107-204,NULL,NULL,WS Bill,active
+2020-006-3110,01-22-2022,02-06-2022,Hedelito  Esguerra,  Bukal Road Poblacion,Residential,3110,,22-Jan,2144,2219,75,,2%,0,950,unpaid,56-20230107-205,NULL,NULL,WS Bill,active
+2013-011-415,01-26-2022,02-10-2022,Flores Necitas ,  Maypansol Poblacion,Residential,415,15-14254,22-Jan,1633,1645,12,,2%,6,120,unpaid,56-20230107-206,NULL,NULL,WS Bill,active
+2013-010-095,01-24-2022,02-08-2022,Cristina R. Blasco,  Oliveros Poblacion,Residential,95,,22-Jan,3995,4022,27,,2%,0,284,unpaid,56-20230107-207,NULL,NULL,WS Bill,active
+2013-011-397,01-26-2022,02-10-2022,Mario  Ansay,  Maypansol Poblacion,Residential,397,,22-Jan,3310,3326,16,,2%,0,160,unpaid,56-20230107-208,NULL,NULL,WS Bill,active
+2013-011-805,01-24-2022,02-08-2022,Marcelina  Robel,  Oliveros Poblacion,Residential,805,15-549,22-Jan,2691,2691,0,,2%,2,50,unpaid,56-20230107-209,NULL,NULL,WS Bill,active
+2014-002-2135,01-24-2022,02-08-2022,Poblacion  Barangay,  Oliveros Poblacion,Residential,2135,,22-Jan,295,295,0,,2%,0,50,unpaid,56-20230107-210,NULL,NULL,WS Bill,active
+2013-011-274,01-24-2022,02-08-2022,Nasing  Ansay,  Calupig Poblacion,Residential,274,,22-Jan,2228,2249,21,,2%,0,212,unpaid,56-20230107-211,NULL,NULL,WS Bill,active
+2013-011-290,01-25-2022,02-09-2022,Librado  Fernandez,  Calupig Poblacion,Residential,290,,22-Jan,1178,1178,0,,2%,0,50,unpaid,56-20230107-212,NULL,NULL,WS Bill,active
+2013-011-1007,01-24-2022,02-08-2022,Melba A. Bugtong,  De leon Poblacion,Residential,1007,,22-Jan,2909,2934,25,,2%,0,260,unpaid,56-20230107-213,NULL,NULL,WS Bill,active
+2013-011-1011,01-24-2022,02-08-2022,Arnel  Pereja,  De Leon Poblacion,Residential,1011,,22-Jan,4107,4126,19,,2%,0,190,unpaid,56-20230107-214,NULL,NULL,WS Bill,active
+2013-011-606,01-24-2022,02-08-2022,Angel  Amores,  De Leon Poblacion,Residential,606,,22-Jan,9286,9315,29,,2%,0,308,unpaid,56-20230107-215,NULL,NULL,WS Bill,active
+2013-011-467,01-25-2022,02-09-2022,Gaudioso  Tinumpic,  Tagasan Road Poblacion,Residential,467,,22-Jan,1280,1305,25,,2%,0,260,unpaid,56-20230107-216,NULL,NULL,WS Bill,active
+2013-011-626,01-25-2022,02-09-2022,Fortunato   Villanueva II,  General Luna Poblacion,Residential,626,,22-Jan,2895,2919,24,,2%,0,248,unpaid,56-20230107-217,NULL,NULL,WS Bill,active
+2014-001-2137,01-26-2022,02-10-2022,Lualhati  Ansay,  General Luna Poblacion,Residential,2137,,22-Jan,1328,1343,15,,2%,0,150,unpaid,56-20230107-218,NULL,NULL,WS Bill,active
+2013-011-544,01-25-2022,02-09-2022,Herminia  Oliveros,  Villa Flores Poblacion,Residential,544,,22-Jan,142,159,17,,2%,0,170,unpaid,56-20230107-219,NULL,NULL,WS Bill,active
+2017-006-2750,01-25-2022,02-09-2022,Marivic  Dela Torre,  Villa Flores Poblacion,Residential,2750,,22-Jan,881,892,11,,2%,0,110,unpaid,56-20230107-220,NULL,NULL,WS Bill,active
+2014-001-2966,01-26-2022,02-10-2022,Ason  Tinumpic,  Lopez Jaena Poblacion,Residential,2966,,22-Jan,4944,4982,38,,2%,0,432,unpaid,56-20230107-221,NULL,NULL,WS Bill,active
+2013-011-190,01-26-2022,02-10-2022,Leonisa P. Valente,  Lopez Jaena Poblacion,Residential,190,,22-Jan,3251,3271,20,,2%,0,200,unpaid,56-20230107-222,NULL,NULL,WS Bill,active
+2013-011-480,01-26-2022,02-10-2022,Helen  Luzon,  Maypansol Poblacion,Residential,480,,22-Jan,4113,4137,24,,2%,0,248,unpaid,56-20230107-223,NULL,NULL,WS Bill,active
+2013-011-364,01-26-2022,02-10-2022,Martin  Custodio,  Maypansol Poblacion,Residential,364,,22-Jan,3930,3965,35,,2%,0,390,unpaid,56-20230107-224,NULL,NULL,WS Bill,active
+2013-011-1198,01-28-2022,02-12-2022,Sigfredo  Perolina,  Cailles Poblacion,Residential,1198,,22-Jan,2824,2847,23,,2%,0,236,unpaid,56-20230107-225,NULL,NULL,WS Bill,active
+2013-011-603,01-28-2022,02-12-2022,Rocelia P. Baltazar,  Sanggumay Poblacion,Residential,603,,22-Jan,3434,3464,30,,2%,0,320,unpaid,56-20230107-226,NULL,NULL,WS Bill,active
+2013-011-1745,01-28-2022,02-12-2022,Elsa R. Villanueva,  Cailles Poblacion,Residential,1745,,22-Jan,3053,3053,0,,2%,0,50,unpaid,56-20230107-227,NULL,NULL,WS Bill,active
+2013-011-1659,01-28-2022,02-12-2022,Roderick H. Gasgonia,  Cailles Poblacion,Residential,1659,043407015-089,22-Jan,2851,2859,8,,2%,5,100,unpaid,56-20230107-228,NULL,NULL,WS Bill,active
+2013-011-1682,01-28-2022,02-12-2022,Jesus  Corpus,  Cailles Poblacion,Residential,1682,,22-Jan,6396,6434,38,,2%,0,432,unpaid,56-20230107-229,NULL,NULL,WS Bill,active
+2013-011-1589,01-28-2022,02-12-2022,Leonora  Miras,  Cailles Poblacion,Residential,1589,,22-Jan,433,441,8,,2%,0,100,unpaid,56-20230107-230,NULL,NULL,WS Bill,active
+2013-011-1529,01-28-2022,02-12-2022,Hedelito  Esguerra,  Cailles Poblacion,Residential,1529,,22-Jan,1485,1490,5,,2%,0,75,unpaid,56-20230107-231,NULL,NULL,WS Bill,active
+2021-001-3177,01-03-2022,01-03-2022,Arleen  Javier,  Cailles Poblacion,Residential,3177,,Apr.2021-Dec.2021,NULL,194,NULL,NULL,NULL,0,1614,unpaid,56-20230107-232,NULL,NULL,Arrears,active
+2021-001-3177,01-28-2022,02-12-2022,Arleen  Javier,  Cailles Poblacion,Residential,3177,,22-Jan,194,217,23,,2%,0,236,unpaid,56-20230107-233,NULL,NULL,WS Bill,active
+2013-011-530,01-28-2022,02-12-2022,Thelma  Juanillo,  Sanggumay Poblacion,Residential,530,,22-Jan,1102,1112,10,,2%,0,100,unpaid,56-20230107-234,NULL,NULL,WS Bill,active
+2013-011-577,01-29-2022,02-13-2022,Terie  Ruazol,   Udia,Residential,577,,22-Jan,2552,2560,8,,2%,0,100,unpaid,56-20230107-235,NULL,NULL,WS Bill,active
+2013-011-588,01-29-2022,02-13-2022,Merill  Delgado,   Udia,Residential,588,,22-Jan,3036,3055,19,,2%,0,190,unpaid,56-20230107-236,NULL,NULL,WS Bill,active
+2013-011-3068,01-29-2022,02-13-2022,Melita  Valdopeñas II,   Udia,Residential,3068,702,22-Jan,1322,1338,16,,2%,8,160,unpaid,56-20230107-237,NULL,NULL,WS Bill,active
+2014-003-3062,01-29-2022,02-13-2022,Udia Day Care  Center,   Udia,Residential,3062,,22-Jan,1145,1146,1,,2%,0,50,unpaid,56-20230107-238,NULL,NULL,WS Bill,active
+2014-010-2250,01-29-2022,02-13-2022,Larry / Inday  Velasco,   Udia,Residential,2250,,22-Jan,606,618,12,,2%,0,120,unpaid,56-20230107-239,NULL,NULL,WS Bill,active
+2015-007-2294,01-29-2022,02-13-2022,Harriet T. Sanchez,   Udia,Residential,2294,,22-Jan,2970,3007,37,,2%,0,418,unpaid,56-20230107-240,NULL,NULL,WS Bill,active
+2016-011-2793,01-29-2022,02-13-2022,Maria Reshell  Juguilon,   Udia,Residential,2793,,22-Jan,778,786,8,,2%,0,100,unpaid,56-20230107-241,NULL,NULL,WS Bill,active
+2013-011-1631,01-28-2022,02-12-2022,Semion  Villanueva,  Cailles Poblacion,Residential,1631,,22-Jan,3826,3826,0,,2%,0,50,unpaid,56-20230107-242,NULL,NULL,WS Bill,active
+2010-003-38,02-04-2022,02-19-2022,Liezel D. Peji,   Layug,Residential,38,,22-Feb,2164,2197,33,,2%,0,362,unpaid,56-20230107-243,NULL,NULL,WS Bill,active
+2018-005-2820,01/00/1900,01/00/1900,Juarez II Janice M.,   Udia,Residential,2820,,may 200 pa kaming Balance ,,,,,,,,,56-20230107-244,,,,
+2013-011-340,02-04-2022,02-19-2022,Bienvinido L. Oblepias,   Layug,Residential,340,15-490,22-Feb,2909,2933,24,,2%,12,248,unpaid,56-20230107-245,NULL,NULL,WS Bill,active
+2013-011-265,02-04-2022,02-19-2022,Arnel  Pereña,   Layug,Residential,265,,22-Feb,999,1020,21,,2%,0,212,unpaid,56-20230107-246,NULL,NULL,WS Bill,active
+2014-011-2245,02-04-2022,02-19-2022,Marie F. Esperanza,   Layug,Residential,2245,,22-Feb,679,698,19,,2%,0,190,unpaid,56-20230107-247,NULL,NULL,WS Bill,active
+2015-005-2310,02-04-2022,02-19-2022,Arnel M. Pereja,   Layug,Residential,2310,,22-Feb,1419,1445,26,,2%,0,272,unpaid,56-20230107-248,NULL,NULL,WS Bill,active
+2017-003-2766,02-04-2022,02-19-2022,Charlene  De Leon,   Layug,Residential,2766,,22-Feb,866,887,21,,2%,0,212,unpaid,56-20230107-249,NULL,NULL,WS Bill,active
+2017-004-2764,01-04-2022,01-19-2022,Multi- Purpose Hall ,   Layug,Residential,2764,,22-Jan,,257,2,,2%,0,50,unpaid,56-20230107-250,NULL,NULL,WS Bill,active
+2017-004-2764,02-04-2022,02-19-2022,Hall  Multi- Purpose,   Layug,Residential,2764,,22-Feb,257,260,3,,2%,0,50,unpaid,56-20230107-251,NULL,NULL,WS Bill,active
+2013-011-1690,01/00/1900,01/00/1900,Jimmy  Oliveros,  Viva Victoria Poblacion,Residential,1690,,Patente - 2,,,,,,,,,56-20230107-252,,,,
+2018-008-2717,02-04-2022,02-19-2022,Noel S. Nazareno,   Layug,Residential,2717,,22-Feb,304,304,0,,2%,0,50,unpaid,56-20230107-253,NULL,NULL,WS Bill,active
+2018-011-3048,02-04-2022,02-19-2022,April Bart P. Sebastian,   Layug,Residential,3048,,22-Feb,470,470,0,,2%,0,50,unpaid,56-20230107-254,NULL,NULL,WS Bill,active
+2014-001-1836,02-06-2022,02-21-2022,Ceferino  Duma,  Rizal Poblacion,Residential,1836,,22-Feb,469,469,0,,2%,0,50,unpaid,56-20230107-255,NULL,NULL,WS Bill,active
+2019-0004-3105,02-04-2022,02-19-2022,Jaime F. Dela Torre,     Layug,Residential,3105,,22-Feb,39,39,0,,2%,0,50,unpaid,56-20230107-256,NULL,NULL,WS Bill,active
+2020-004-3095,02-04-2022,02-19-2022,Remedios  Quilapio,   Layug,Residential,3095,,22-Feb,42,42,0,,2%,0,50,unpaid,56-20230107-257,NULL,NULL,WS Bill,active
+2020-008-3143,02-04-2022,02-19-2022,Joselito M. Sancebutche,      Layug,Residential,3143,,22-Feb,118,120,2,,2%,0,50,unpaid,56-20230107-258,NULL,NULL,WS Bill,active
+2020-012-3166,02-04-2022,02-19-2022,Ebuen Lillian ,    Layug,Residential,3166,,22-Feb,806,860,54,,2%,0,656,unpaid,56-20230107-259,NULL,NULL,WS Bill,active
+2021-011-3256,02-04-2022,02-19-2022,Clamarie  Blaza,   Layug,Residential,3256,,22-Feb,10,15,5,,2%,0,75,unpaid,56-20230107-260,NULL,NULL,WS Bill,active
+2014-001-1866,02-06-2022,02-21-2022,Eva  Juanillo,  Rizal Poblacion,Residential,1866,,22-Feb,4275,4310,35,,2%,0,390,unpaid,56-20230107-261,NULL,NULL,WS Bill,active
+2014-001-1880,02-06-2022,02-21-2022,Mario F. Villanueva,  Jacinto Poblacion,Residential,1880,15-131418,22-Feb,1576,1576,0,,2%,2,50,unpaid,56-20230107-262,NULL,NULL,WS Bill,active
+2014-001-1778,02-06-2022,02-21-2022,Raymundo  Lubuguin,  Jacinto Poblacion,Residential,1778,,22-Feb,5969,5969,0,,2%,0,50,unpaid,56-20230107-263,NULL,NULL,WS Bill,active
+2013-011-1570,02-09-2022,02-24-2022,Analyn  Mesina,  Junction Duhat,Residential,1570,,22-Feb,2218,2218,0,,2%,0,50,unpaid,56-20230107-264,NULL,NULL,WS Bill,active
+2014-001-1796,02-06-2022,02-21-2022,Conrado A. Sumulong,  Jacinto Poblacion,Residential,1796,,22-Feb,5055,5118,63,,2%,0,782,unpaid,56-20230107-265,NULL,NULL,WS Bill,active
+2015-010-2277,02-06-2022,02-21-2022,Roland P. Mesina,  Jacinto Poblacion,Residential,2277,,22-Feb,38,38,0,,2%,0,50,unpaid,56-20230107-266,NULL,NULL,WS Bill,active
+2017-005-2762,02-06-2022,02-21-2022,Lita  Rivera,  Jacinto Poblacion,Residential,2761,,22-Feb,681,696,15,,2%,0,150,unpaid,56-20230107-267,NULL,NULL,WS Bill,active
+2013-011-1573,02-09-2022,02-24-2022,Alfredo P. Maximo Jr.,  Junction Duhat,Residential,1573,,22-Feb,3795,3821,26,,2%,0,272,unpaid,56-20230107-268,NULL,NULL,WS Bill,active
+2013-010-3002,02-09-2022,02-24-2022,Rosella  Gadiane,  Junction Duhat,Residential,3002,,22-Feb,2435,2458,23,,2%,0,236,unpaid,56-20230107-269,NULL,NULL,WS Bill,active
+2014-001-1771,02-06-2022,02-21-2022,Erlinda  Orteza,   Duhat,Residential,1771,563,22-Feb,2340,2371,31,,2%,17,334,unpaid,56-20230107-270,NULL,NULL,WS Bill,active
+2013-011-1581,02-09-2022,02-24-2022,Alex/Linda  Ruazol,  Junction Duhat,Residential,1581,,22-Feb,4174,4201,27,,2%,0,284,unpaid,56-20230107-271,NULL,NULL,WS Bill,active
+2013-011-1495,02-09-2022,02-24-2022,Jojit  Vida,  Junction Duhat,Residential,1495,,22-Feb,3333,3387,54,,2%,0,656,unpaid,56-20230107-272,NULL,NULL,WS Bill,active
+2013-011-1513,02-09-2022,02-24-2022,Allan  Maximo,  Junction Duhat,Residential,1513,,22-Feb,1199,1217,18,,2%,0,180,unpaid,56-20230107-273,NULL,NULL,WS Bill,active
+2014-001-1708,02-06-2022,02-21-2022,John Michael  Juanillo,   Duhat,Residential,1708,,22-Feb,1947,1984,37,,2%,0,418,unpaid,56-20230107-274,NULL,NULL,WS Bill,active
+2015-010-2279,02-06-2022,02-21-2022,Maricel P. Rebanal,   Duhat,Residential,2279,,22-Feb,765,780,15,,2%,0,150,unpaid,56-20230107-275,NULL,NULL,WS Bill,active
+2013-011-1432,02-09-2022,02-24-2022,Romeo  Flores,  Junction Duhat,Residential,1432,,22-Feb,2743,2756,13,,2%,0,130,unpaid,56-20230107-276,NULL,NULL,WS Bill,active
+2013-011-1447,02-09-2022,02-24-2022,Mario  Guevarra,  Junction Duhat,Residential,1447,,22-Feb,3868,3875,7,,2%,0,100,unpaid,56-20230107-277,NULL,NULL,WS Bill,active
+2018-005-2822,02-06-2022,02-21-2022,Gean C. Vista,   Duhat,Residential,2822,,22-Feb,3601,3630,29,,2%,0,308,unpaid,56-20230107-278,NULL,NULL,WS Bill,active
+2018-004-2828,02-06-2022,02-21-2022,Farey  Lane,   Duhat,Residential,2828,,22-Feb,1264,1323,59,,2%,0,726,unpaid,56-20230107-279,NULL,NULL,WS Bill,active
+2019-002-3088,02-06-2022,02-21-2022,Maricar G. Lubuguin,      Duhat,Residential,3088,,22-Feb,622,638,16,,2%,0,160,unpaid,56-20230107-280,NULL,NULL,WS Bill,active
+2019-011-3067,02-06-2022,02-21-2022,Myla  Gungon,   Duhat,Residential,3067,11/11/2019,22-Feb,1147,1147,0,,2%,2,50,unpaid,56-20230107-281,NULL,NULL,WS Bill,active
+2013-011-1359,02-09-2022,02-24-2022,Mercedes P. Ruazol,  Junction Duhat,Residential,1359,1981714,22-Feb,801,801,0,,2%,2,50,unpaid,56-20230107-282,NULL,NULL,WS Bill,active
+2013-011-1366,02-09-2022,02-24-2022,Joselito  Maglalang,  Junction Duhat,Residential,1366,,22-Feb,2053,2071,18,,2%,0,180,unpaid,56-20230107-283,NULL,NULL,WS Bill,active
+2013-011-1372,02-09-2022,02-24-2022,Cristina  Flores,  Junction Duhat,Residential,1372,,22-Feb,2288,2288,0,,2%,0,50,unpaid,56-20230107-284,NULL,NULL,WS Bill,active
+2013-011-1375,02-09-2022,02-24-2022,Felisa  Perez,  Junction Duhat,Residential,1375,2561477,22-Feb,1245,1247,2,,2%,2,50,unpaid,56-20230107-285,NULL,NULL,WS Bill,active
+2015-001-2307,02-09-2022,02-24-2022,Mark John C. Talubo,  Junction Duhat,Residential,2307,,22-Feb,1175,1176,1,,2%,0,50,unpaid,56-20230107-286,NULL,NULL,WS Bill,active
+2015-005-2311,02-09-2022,02-24-2022,Marilou N. Bleza,  Junction Duhat,Residential,2311,,22-Feb,795,816,21,,2%,0,212,unpaid,56-20230107-287,NULL,NULL,WS Bill,active
+2018-004-2826,02-09-2022,02-24-2022,Alloha C. Oracion,  Junction Duhat,Residential,2826,,22-Feb,784,793,9,,2%,0,100,unpaid,56-20230107-288,NULL,NULL,WS Bill,active
+2019-007-3032,02-09-2022,02-24-2022,National High Scholl II  Cavinti Integrated ,  Junction Duhat,Residential,3032,,22-Feb,351,499,148,,2%,0,1972,unpaid,56-20230107-289,NULL,NULL,WS Bill,active
+2019-011-3072,02-09-2022,02-24-2022,Jhemer P. Ansay,  Junction Duhat,Residential,3072,,22-Feb,163,182,19,,2%,0,190,unpaid,56-20230107-290,NULL,NULL,WS Bill,active
+2021-006-3228,02-09-2022,02-24-2022,Mary Joy  Peralta,      Duhat,Residential,3228,,22-Feb,8,20,12,,2%,0,120,unpaid,56-20230107-291,NULL,NULL,WS Bill,active
+2014-001-1942,02-10-2022,02-25-2022,Edith  Tagoo,  Del Pilar Poblacion,Residential,1942,,22-Feb,1991,1997,6,,2%,0,100,unpaid,56-20230107-292,NULL,NULL,WS Bill,disconnected
+2014-002-2106,02-10-2022,02-25-2022,Analyn  Soccoro,  Del Pilar Poblacion,Residential,2106,,22-Feb,1532,1544,12,,2%,0,120,unpaid,56-20230107-293,NULL,NULL,WS Bill,active
+2019-001-3076,02-10-2022,02-25-2022,Delsife O. Ciriaco,  Del Pilar Poblacion,Residential,3076,,22-Feb,930,967,37,,2%,0,418,unpaid,56-20230107-294,NULL,NULL,WS Bill,active
+2019-007-3037,02-10-2022,02-25-2022,Adrian V. Pullan,  Del Pilar Poblacion,Residential,3037,,22-Feb,235,235,0,,2%,0,50,unpaid,56-20230107-295,NULL,NULL,WS Bill,active
+2014-001-1912,02-11-2022,02-26-2022,Roselyn  San Pedro,  Bagong Silang Poblacion,Residential,1912,,22-Feb,2392,2416,24,,2%,0,248,unpaid,56-20230107-296,NULL,NULL,WS Bill,active
+2013-010-073,02-11-2022,02-26-2022,John V. Ansay,43  Bagong Silang Poblacion,Residential,73,5/15/2019,22-Feb,2022,2028,6,,2%,5,100,unpaid,56-20230107-297,NULL,NULL,WS Bill,active
+2014-001-2051,02-11-2022,02-26-2022,Severina  Ramos,  Bagong Silang Poblacion,Residential,2051,,22-Feb,335,384,49,,2%,0,586,unpaid,56-20230107-298,NULL,NULL,WS Bill,active
+2014-001-2060,02-11-2022,02-26-2022,Adelaida  Lubuguin,  Bagong Silang Poblacion,Residential,2060,,22-Feb,1641,1646,5,,2%,0,75,unpaid,56-20230107-299,NULL,NULL,WS Bill,active
+2013-010-3015,02-11-2022,02-26-2022,Evangeline  Pereja,  Bagong Silang Poblacion,Residential,3015,,22-Feb,2833,2838,5,,2%,0,75,unpaid,56-20230107-300,NULL,NULL,WS Bill,active
+2009-010-0047,02-11-2022,02-26-2022,Lorna I. Arroyo,  Bagong Silang Poblacion,Residential,47,,22-Feb,2905,2916,11,,2%,0,110,unpaid,56-20230107-301,NULL,NULL,WS Bill,active
+2014-001-1977,02-11-2022,02-26-2022,Virgo  Dela Cruz,  Bagong Silang Poblacion,Residential,1977,,22-Feb,3055,3056,1,,2%,0,50,unpaid,56-20230107-302,NULL,NULL,WS Bill,active
+2014-001-1980,02-11-2022,02-26-2022,Anastacio V. Pastores,  Bagong Silang Poblacion,Residential,1980,98105,22-Feb,3543,3543,0,,2%,2,50,unpaid,56-20230107-303,NULL,NULL,WS Bill,active
+2014-003-2084,02-11-2022,02-26-2022,Renante  Pereja,  Bagong Silang Poblacion,Residential,2084,,22-Feb,2280,2320,40,,2%,0,460,unpaid,56-20230107-304,NULL,NULL,WS Bill,active
+2014-001-1983,02-11-2022,02-26-2022,Joven  Ansay,  Bagong Silang Poblacion,Residential,1983,,22-Feb,2040,2061,21,,2%,0,212,unpaid,56-20230107-305,NULL,NULL,WS Bill,active
+2016-005-2893,02-11-2022,02-26-2022,Ernesta V. Caballero,  Bagong Silang Poblacion,Residential,2893,,22-Feb,729,730,1,,2%,0,50,unpaid,56-20230107-306,NULL,NULL,WS Bill,active
+2019-004-2080,02-11-2022,02-26-2022,Jayward M. Ansay,  Bagong Silang Poblacion,Residential,2080,,22-Feb,480,486,6,,2%,0,100,unpaid,56-20230107-307,NULL,NULL,WS Bill,active
+2020-001-3092,02-11-2022,02-26-2022,Gilda B. Hilaga,  Bagong Silang Poblacion,Residential,3092,,22-Feb,238,249,11,,2%,0,110,unpaid,56-20230107-308,NULL,NULL,WS Bill,active
+2014-001-2959,02-10-2022,02-25-2022,Jobita  Pabico,  Burgos Poblacion,Residential,2959,,22-Feb,2578,2582,4,,2%,0,75,unpaid,56-20230107-309,NULL,NULL,WS Bill,active
+2014-001-2006,02-11-2022,02-26-2022,Virgilio  Lizen,  A.P De Leon Poblacion,Residential,2006,,22-Feb,2556,2567,11,,2%,0,110,unpaid,56-20230107-310,NULL,NULL,WS Bill,active
+2013-011-1690,01-02-2022,01-02-2022,Jimmy  Oliveros,  Viva Victoria Poblacion,Residential,1690,,Dec. 2021,NULL,1340,NULL,NULL,NULL,0,390,unpaid,56-20230107-311,NULL,NULL,Arrears,active
+2013-011-1704,02-14-2022,03-01-2022,Maura  Parientes,  Viva Victoria Poblacion,Residential,1704,,22-Feb,1285,1285,0,,2%,0,50,unpaid,56-20230107-312,NULL,NULL,WS Bill,active
+2013-011-1606,02-14-2022,03-01-2022,Nimfa  Dela Torre,  Oflaria Poblacion,Residential,1606,,22-Feb,2768,2785,17,,2%,0,170,unpaid,56-20230107-313,NULL,NULL,WS Bill,active
+2013-011-1747,02-15-2022,03-02-2022,Gina  Esguerra,  Alalayan Road Poblacion,Residential,1747,,22-Feb,4001,4014,13,,2%,0,130,unpaid,56-20230107-314,NULL,NULL,WS Bill,active
+2015-011-2272,02-15-2022,03-02-2022,May S. Capiz,  Alalayan Road Poblacion,Residential,2272,,22-Feb,875,892,17,,2%,0,170,unpaid,56-20230107-315,NULL,NULL,WS Bill,active
+2013-011-810,02-15-2022,03-02-2022,Sherly  Reyes,  Villa Blanco Poblacion,Residential,810,,22-Feb,402,417,15,,2%,0,150,unpaid,56-20230107-316,NULL,NULL,WS Bill,active
+2016-003-2901,02-10-2022,02-25-2022,Rene Rose  Gocon,  Villa Blanco Poblacion,Residential,2901,,22-Feb,3052,3077,25,,2%,0,260,unpaid,56-20230107-317,NULL,NULL,WS Bill,active
+2013-011-1636,02-16-2022,03-03-2022,Elias  Iwarat,  Bonifacio Poblacion,Residential,1636,,22-Feb,3821,3858,37,,2%,0,418,unpaid,56-20230107-318,,,WS Bill,active
+2013-011-1536,02-16-2022,03-03-2022,Narceso  Gallardo,  Bonifacio Poblacion,Residential,1536,,22-Feb,2512,2513,1,,2%,0,50,unpaid,56-20230107-319,NULL,NULL,WS Bill,active
+2013-011-1549,02-16-2022,03-03-2022,Conrado  Oliveros,  Bonifacio Poblacion,Residential,1549,,22-Feb,4164,4164,0,,2%,0,50,unpaid,56-20230107-320,NULL,NULL,WS Bill,active
+2017-003-2767,02-16-2022,03-03-2022,Buenaben  Oliveros,  Mabini Poblacion,Residential,2767,,22-Feb,2578,2594,16,,2%,0,160,unpaid,56-20230107-321,NULL,NULL,WS Bill,active
+2013-011-1245,02-16-2022,03-03-2022,Marilyn  Oliveros,  Mabini Poblacion,Residential,1245,,22-Feb,1884,1893,9,,2%,0,100,unpaid,56-20230107-322,NULL,NULL,WS Bill,active
+2013-011-548,02-19-2022,03-06-2022,Elloy  De leon,  Magsaysay Poblacion,Residential,548,,22-Feb,2652,2688,36,,2%,0,404,unpaid,56-20230107-323,NULL,NULL,WS Bill,active
+2016-005-2892,02-16-2022,03-03-2022,Angelita  Flores,  Mabini Poblacion,Residential,2892,,22-Feb,646,660,14,,2%,0,140,unpaid,56-20230107-324,NULL,NULL,WS Bill,active
+2013-011-1308,02-16-2022,03-03-2022,Solita V. Oliveros,Poblacion Pereña,Residential,1308,,22-Feb,2818,2833,15,,2%,0,150,unpaid,56-20230107-325,NULL,NULL,WS Bill,active
+2013-011-1309,02-16-2022,03-03-2022,Noralyn  Morales,Poblacion Pereña,Residential,1309,,22-Feb,1550,1560,10,,2%,0,100,unpaid,56-20230107-326,NULL,NULL,WS Bill,active
+2014-006-2156,02-16-2022,03-03-2022,Crispin  Flores,Poblacion Pereña,Residential,2156,,22-Feb,3395,3461,66,,2%,0,824,unpaid,56-20230107-327,NULL,NULL,WS Bill,active
+2013-011-1310,02-16-2022,03-03-2022,Michael  Leonardo,Poblacion Pereña,Residential,1310,,22-Feb,913,936,23,,2%,0,236,unpaid,56-20230107-328,NULL,NULL,WS Bill,active
+2018-005-2819,02-16-2022,03-03-2022,Digna C Bleza,Poblacion Pereña,Residential,2819,15-1298,22-Feb,392,400,8,,2%,5,100,unpaid,56-20230107-329,NULL,NULL,WS Bill,active
+2013-011-635,02-16-2022,03-03-2022,Delma  Arroyo,Poblacion Pereña,Residential,635,,22-Feb,2763,2869,106,,2%,0,1384,unpaid,56-20230107-330,NULL,NULL,WS Bill,active
+2013-011-1690,01-14-2022,01-29-2022,Jimmy  Oliveros,  Viva Victoria Poblacion,Residential,1690,,22-Jan,1340,1637,297,,2%,0,4058,unpaid,56-20230107-331,NULL,NULL,WS Bill,active
+2013-011-1690,02-14-2022,03-01-2022,Jimmy  Oliveros,  Viva Victoria Poblacion,Residential,1690,,22-Feb,1637,1664,27,,2%,0,284,unpaid,56-20230107-332,NULL,NULL,WS Bill,active
+2020-007-3114,01/00/1900,01/00/1900,Sherly  Sarmiento,  Magsaysay Poblacion,Residential,3114,,Aug. 2021 - Oct. 2021,NULL,664,NULL,NULL,NULL,0,,unpaid,56-20230107-333,NULL,NULL,Arrears,active
+2013-011-833,02-20-2022,03-07-2022,Omer A. Villamin,  Magsaysay Poblacion,Residential,833,,22-Feb,1898,1914,16,,2%,0,160,unpaid,56-20230107-334,NULL,NULL,WS Bill,active
+2013-011-1722,02-20-2022,03-07-2022,Fernando  Pabico,  Magsaysay Poblacion,Residential,1722,,22-Feb,2387,2387,0,,2%,0,50,unpaid,56-20230107-335,NULL,NULL,WS Bill,active
+2014-001-2036,02-20-2022,03-07-2022,Juliana  Ramos,  Magsaysay Poblacion,Residential,2036,,22-Feb,4625,4666,41,,2%,0,474,unpaid,56-20230107-336,NULL,NULL,WS Bill,active
+2013-011-703,02-20-2022,03-07-2022,Jenny  Torres,  Magsaysay Poblacion,Residential,703,,22-Feb,2849,2885,36,,2%,0,404,unpaid,56-20230107-337,NULL,NULL,WS Bill,active
+2013-011-716,02-20-2022,03-07-2022,Espie  Mesina,  Magsaysay Poblacion,Residential,716,,22-Feb,4210,4232,22,,2%,0,224,unpaid,56-20230107-338,NULL,NULL,WS Bill,active
+2013-011-1113,02-22-2022,03-09-2022,Lucita  Barlis,  Bukal Road Poblacion,Residential,1113,,22-Feb,1038,1038,0,,2%,0,50,unpaid,56-20230107-339,NULL,NULL,WS Bill,active
+2013-011-979,02-22-2022,03-09-2022,Reynaldo R. Cabuhat,  Bagong Sikat Poblacion,Residential,979,,22-Feb,392,424,32,,2%,0,348,unpaid,56-20230107-340,NULL,NULL,WS Bill,active
+2013-011-1142,02-22-2022,03-09-2022,Dra.Fe  Fernandez,  Bukal Road Poblacion,Residential,1142,,22-Feb,546,558,12,,2%,0,120,unpaid,56-20230107-341,NULL,NULL,WS Bill,active
+2020-006-3110,02-22-2022,03-09-2022,Hedelito  Esguerra,  Bukal Road Poblacion,Residential,3110,,22-Feb,2219,2302,83,,2%,0,1062,unpaid,56-20230107-342,NULL,NULL,WS Bill,active
+2020-001-3089,01/00/1900,01/00/1900,Blastique Lenita Bugtong,      Udia,Residential,3089,,may utang tayo na 140 kasi 190 yung binayaran nung jan. 2022/ tapos na usapan,NULL,19,NULL,NULL,NULL,0,,unpaid,56-20230107-343,NULL,NULL,Arrears,active
+2013-010-095,02-24-2022,03-11-2022,Cristina R. Blasco,  Oliveros Poblacion,Residential,95,,22-Feb,4022,4048,26,,2%,0,272,unpaid,56-20230107-344,NULL,NULL,WS Bill,active
+2013-011-805,02-24-2022,03-11-2022,Marcelina Robel,  Oliveros Poblacion,Residential,805,15-549,22-Feb,2691,2691,0,,2%,2,50,unpaid,56-20230107-345,NULL,NULL,WS Bill,active
+2014-002-2135,02-24-2022,03-11-2022,Poblacion Barangay,  Oliveros Poblacion,Residential,2135,,22-Feb,295,295,0,,2%,0,50,unpaid,56-20230107-346,NULL,NULL,WS Bill,active
+2013-011-732,01/00/1900,01/00/1900,Father's  House,  Oliveros Poblacion,Commercial,732,,,NULL,2776,NULL,NULL,NULL,0,,unpaid,56-20230107-347,NULL,NULL,Arrears,active
+2013-011-467,02-25-2022,03-12-2022,Gaudioso Tinumpic,  Tagasan Road Poblacion,Residential,467,,22-Feb,1305,1324,19,,2%,0,190,unpaid,56-20230107-348,NULL,NULL,WS Bill,active
+201-001-3083,02-25-2022,03-12-2022,Leonora T. Perolina,  Tagasan Road Poblacion,Residential,3083,15-1269,22-Feb,243,247,4,,2%,4,75,unpaid,56-20230107-349,NULL,NULL,WS Bill,active
+2013-010-113,02-25-2022,03-12-2022,Ningning B. Duma,  Calupig Poblacion,Residential,113,,22-Feb,778,801,23,,2%,0,236,unpaid,56-20230107-350,NULL,NULL,WS Bill,active
+2013-011-274,02-25-2022,03-12-2022,Nasing Ansay,  Calupig Poblacion,Residential,274,,22-Feb,2249,2264,15,,2%,0,150,unpaid,56-20230107-351,NULL,NULL,WS Bill,active
+2013-011-290,02-25-2022,03-12-2022,Librado Fernandez,  Calupig Poblacion,Residential,290,,22-Feb,1178,1178,0,,2%,0,50,unpaid,56-20230107-352,NULL,NULL,WS Bill,active
+2013-011-1007,02-24-2022,03-11-2022,Melba A. Bugtong,  De leon Poblacion,Residential,1007,,22-Feb,2934,2960,26,,2%,0,272,unpaid,56-20230107-353,NULL,NULL,WS Bill,active
+2013-011-1011,02-24-2022,03-11-2022,Arnel Pereja,  De Leon Poblacion,Residential,1011,,22-Feb,4126,4146,20,,2%,0,200,unpaid,56-20230107-354,NULL,NULL,WS Bill,active
+2014-001-2966,02-25-2022,03-12-2022,Ason Tinumpic,  Lopez Jaena Poblacion,Residential,2966,,22-Feb,4982,5009,27,,2%,0,284,unpaid,56-20230107-355,NULL,NULL,WS Bill,active
+2013-011-606,02-24-2022,03-11-2022,Angel Amores,  De Leon Poblacion,Residential,606,,22-Feb,9315,9340,25,,2%,0,260,unpaid,56-20230107-356,NULL,NULL,WS Bill,active
+2013-011-190,02-25-2022,03-12-2022,Leonisa P. Valente,  Lopez Jaena Poblacion,Residential,190,,22-Feb,3271,3291,20,,2%,0,200,unpaid,56-20230107-357,NULL,NULL,WS Bill,active
+2013-011-544,02-25-2022,03-12-2022,Herminia Oliveros,  Villa Flores Poblacion,Residential,544,,22-Feb,159,168,9,,2%,0,100,unpaid,56-20230107-358,NULL,NULL,WS Bill,active
+2017-006-2750,02-25-2022,03-12-2022,Marivic Dela Torre,  Villa Flores Poblacion,Residential,2750,,22-Feb,892,917,25,,2%,0,260,unpaid,56-20230107-359,NULL,NULL,WS Bill,active
+2013-011-626,02-25-2022,03-12-2022,Fortunato  Villanueva II,  General Luna Poblacion,Residential,626,,22-Feb,2919,2939,20,,2%,0,200,unpaid,56-20230107-360,NULL,NULL,WS Bill,active
+2014-001-2137,02-25-2022,03-12-2022,Lualhati Ansay,  General Luna Poblacion,Residential,2137,,22-Feb,1343,1367,24,,2%,0,248,unpaid,56-20230107-361,NULL,NULL,WS Bill,active
+2013-011-415,02-26-2022,03-13-2022,Flores Necitas ,  Maypansol Poblacion,Residential,415,15-14254,22-Feb,1645,1657,12,,2%,6,120,unpaid,56-20230107-362,NULL,NULL,WS Bill,active
+2013-011-1172,02-28-2022,03-15-2022,Geordie II Esperanza,  Cailles Poblacion,Residential,1172,,22-Feb,2999,3023,24,,2%,0,248,unpaid,56-20230107-363,NULL,NULL,WS Bill,active
+2013-011-397,02-26-2022,03-13-2022,Mario Ansay,  Maypansol Poblacion,Residential,397,,22-Feb,3326,3356,30,,2%,0,320,unpaid,56-20230107-364,NULL,NULL,WS Bill,active
+2013-011-1194,02-28-2022,03-15-2022,Marilyn Juarez,  Cailles Poblacion,Residential,1194,,22-Feb,2246,2283,37,,2%,0,418,unpaid,56-20230107-365,NULL,NULL,WS Bill,active
+2013-011-1198,02-28-2022,03-15-2022,Sigfredo Perolina,  Cailles Poblacion,Residential,1198,,22-Feb,2847,2873,26,,2%,0,272,unpaid,56-20230107-366,NULL,NULL,WS Bill,active
+2013-011-480,02-26-2022,03-13-2022,Helen Luzon,  Maypansol Poblacion,Residential,480,,22-Feb,4137,4158,21,,2%,0,212,unpaid,56-20230107-367,NULL,NULL,WS Bill,active
+2013-011-364,02-26-2022,03-13-2022,Martin Custodio,  Maypansol Poblacion,Residential,364,,22-Feb,3965,3994,29,,2%,0,308,unpaid,56-20230107-368,NULL,NULL,WS Bill,active
+2013-011-603,02-28-2022,03-15-2022,Rocelia P. Baltazar,  Sanggumay Poblacion,Residential,603,,22-Feb,3464,3484,20,,2%,0,200,unpaid,56-20230107-369,NULL,NULL,WS Bill,active
+2013-011-1745,02-28-2022,03-15-2022,Elsa R. Villanueva,  Cailles Poblacion,Residential,1745,,22-Feb,3053,3053,0,,2%,0,50,unpaid,56-20230107-370,NULL,NULL,WS Bill,active
+2013-011-1659,02-28-2022,03-15-2022,Roderick H. Gasgonia,  Cailles Poblacion,Residential,1659,043407015-089,22-Feb,2859,2866,7,,2%,5,100,unpaid,56-20230107-371,NULL,NULL,WS Bill,active
+2013-011-1682,02-28-2022,03-15-2022,Jesus Corpus,  Cailles Poblacion,Residential,1682,,22-Feb,6434,6472,38,,2%,0,432,unpaid,56-20230107-372,NULL,NULL,WS Bill,active
+2013-011-530,02-28-2022,03-15-2022,Thelma Juanillo,  Sanggumay Poblacion,Residential,530,,22-Feb,1112,1121,9,,2%,0,100,unpaid,56-20230107-373,NULL,NULL,WS Bill,active
+2013-011-1589,02-28-2022,03-15-2022,Leonora Miras,  Cailles Poblacion,Residential,1589,,22-Feb,441,446,5,,2%,0,75,unpaid,56-20230107-374,NULL,NULL,WS Bill,active
+2013-011-1529,02-28-2022,03-15-2022,Hedelito Esguerra,  Cailles Poblacion,Residential,1529,,22-Feb,1490,1495,5,,2%,0,75,unpaid,56-20230107-375,NULL,NULL,WS Bill,active
+2013-011-1631,02-28-2022,03-15-2022,Semion Villanueva,  Cailles Poblacion,Residential,1631,,22-Feb,3826,3826,0,,2%,0,50,unpaid,56-20230107-376,NULL,NULL,WS Bill,active
+2021-001-3177,02-28-2022,03-15-2022,Arleen Javier,  Cailles Poblacion,Residential,3177,,22-Feb,217,230,13,,2%,0,130,unpaid,56-20230107-377,NULL,NULL,WS Bill,active
+2013-011-577,02-28-2022,03-15-2022,Terie Ruazol,   Udia,Residential,577,,22-Feb,2560,2570,10,,2%,0,100,unpaid,56-20230107-378,NULL,NULL,WS Bill,active
+2013-011-588,02-28-2022,03-15-2022,Merill Delgado,   Udia,Residential,588,,22-Feb,3055,3077,22,,2%,0,224,unpaid,56-20230107-379,NULL,NULL,WS Bill,active
+2013-011-3068,02-28-2022,03-15-2022,Melita Valdopeñas II,   Udia,Residential,3068,702,22-Feb,1338,1355,17,,2%,8,170,unpaid,56-20230107-380,NULL,NULL,WS Bill,active
+2014-003-3062,02-28-2022,03-15-2022,Udia Day Care Center,   Udia,Residential,3062,,22-Feb,1146,1147,1,,2%,0,50,unpaid,56-20230107-381,NULL,NULL,WS Bill,active
+2014-010-2250,02-28-2022,03-15-2022,Larry / Inday Velasco,   Udia,Residential,2250,,22-Feb,618,635,17,,2%,0,170,unpaid,56-20230107-382,NULL,NULL,WS Bill,active
+2015-007-2294,02-28-2022,03-15-2022,Harriet T. Sanchez,   Udia,Residential,2294,,22-Feb,3007,3042,35,,2%,0,390,unpaid,56-20230107-383,NULL,NULL,WS Bill,active
+2016-011-2793,02-28-2022,03-15-2022,Maria Reshell Juguilon,   Udia,Residential,2793,,22-Feb,786,787,1,,2%,0,50,unpaid,56-20230107-384,NULL,NULL,WS Bill,active
+2017-002-2774,02-28-2022,03-15-2022,Jear Juguilon,   Udia,Residential,2774,,22-Feb,2427,2484,57,,2%,0,698,unpaid,56-20230107-385,NULL,NULL,WS Bill,active
+2010-003-38,03-04-2022,03-19-2022,Liezel D. Peji,   Layug,Residential,38,,22-Mar,2197,2225,28,,2%,0,296,unpaid,56-20230107-386,NULL,NULL,WS Bill,active
+2013-011-325,03-04-2022,03-19-2022,Teodoro Calinagan,   Layug,Residential,325,,22-Mar,3645,3645,0,,2%,0,50,unpaid,56-20230107-387,NULL,NULL,WS Bill,active
+2013-011-340,03-04-2022,03-19-2022,Bienvinido L. Oblepias,   Layug,Residential,340,15-490,22-Mar,2933,2953,20,,2%,10,200,unpaid,56-20230107-388,NULL,NULL,WS Bill,active
+2013-011-347,03-04-2022,03-19-2022,Amor Arroyo,   Layug,Residential,347,,22-Mar,1891,1931,40,,2%,0,460,unpaid,56-20230107-389,NULL,NULL,WS Bill,active
+2013-011-349,03-04-2022,03-19-2022,Lorena Juarez,   Layug,Residential,349,,22-Mar,1240,1252,12,,2%,0,120,unpaid,56-20230107-390,NULL,NULL,WS Bill,active
+2013-011-265,03-04-2022,03-19-2022,Arnel Pereña,   Layug,Residential,265,,22-Mar,1020,1030,10,,2%,0,100,unpaid,56-20230107-391,NULL,NULL,WS Bill,active
+2014-011-2245,03-04-2022,03-19-2022,Marie F. Esperanza,   Layug,Residential,2245,,22-Mar,698,713,15,,2%,0,150,unpaid,56-20230107-392,NULL,NULL,WS Bill,active
+2013-011-328,03-04-2022,03-19-2022,Tomas Lipit,   Layug,Residential,328,,22-Mar,1395,1401,6,,2%,0,100,unpaid,56-20230107-393,NULL,NULL,WS Bill,active
+2015-005-2310,03-04-2022,03-19-2022,Arnel M. Pereja,   Layug,Residential,2310,,22-Mar,1445,1457,12,,2%,0,120,unpaid,56-20230107-394,NULL,NULL,WS Bill,active
+2017-003-2766,03-04-2022,03-19-2022,Charlene De Leon,   Layug,Residential,2766,,22-Mar,887,910,23,,2%,0,236,unpaid,56-20230107-395,NULL,NULL,WS Bill,active
+2017-004-2764,03-04-2022,03-19-2022,Hall Multi- Purpose,   Layug,Residential,2764,,22-Mar,260,267,7,,2%,0,100,unpaid,56-20230107-396,NULL,NULL,WS Bill,active
+2018-008-2717,03-04-2022,03-19-2022,Noel S. Nazareno,   Layug,Residential,2717,,22-Mar,304,304,0,,2%,0,50,unpaid,56-20230107-397,NULL,NULL,WS Bill,active
+2018-011-3048,03-04-2022,03-19-2022,April Bart P. Sebastian,   Layug,Residential,3048,,22-Mar,470,472,2,,2%,0,50,unpaid,56-20230107-398,NULL,NULL,WS Bill,active
+2019-0004-3105,03-04-2022,03-19-2022,Jaime F. Dela Torre,     Layug,Residential,3105,,22-Mar,39,39,0,,2%,0,50,unpaid,56-20230107-399,NULL,NULL,WS Bill,active
+2020-004-3095,03-04-2022,03-19-2022,Remedios Quilapio,   Layug,Residential,3095,,22-Mar,42,42,0,,2%,0,50,unpaid,56-20230107-400,NULL,NULL,WS Bill,active
+2020-008-3143,03-04-2022,03-19-2022,Joselito M. Sancebutche,      Layug,Residential,3143,,22-Mar,120,125,5,,2%,0,75,unpaid,56-20230107-401,NULL,NULL,WS Bill,active
+2020-012-3166,03-04-2022,03-19-2022,Lillian Ebuen,    Layug,Residential,3166,,22-Mar,860,938,78,,2%,0,992,unpaid,56-20230107-402,NULL,NULL,WS Bill,active
+2021-011-3256,03-04-2022,03-19-2022,Clamarie Blaza,   Layug,Residential,3256,,22-Mar,15,22,7,,2%,0,100,unpaid,56-20230107-403,NULL,NULL,WS Bill,active
+2022-001-3269,03-04-2022,03-19-2022,Brgy. Layug Multipurpose,   Layug,Government,3269,,22-Mar,,68,68,,2%,0,1250,unpaid,56-20230107-404,NULL,NULL,WS Bill,active
+2014-001-1836,03-05-2022,03-20-2022,Ceferino Duma,  Rizal Poblacion,Residential,1836,,22-Mar,469,469,0,,2%,0,50,unpaid,56-20230107-405,NULL,NULL,WS Bill,active
+2014-001-1880,03-06-2022,03-21-2022,Mario F. Villanueva,  Jacinto Poblacion,Residential,1880,15-131418,22-Mar,1576,1576,0,,2%,2,50,unpaid,56-20230107-406,NULL,NULL,WS Bill,active
+2014-001-1778,03-06-2022,03-21-2022,Raymundo Lubuguin,  Jacinto Poblacion,Residential,1778,,22-Mar,5969,5969,0,,2%,0,50,unpaid,56-20230107-407,NULL,NULL,WS Bill,active
+2014-001-1796,03-06-2022,03-21-2022,Conrado A. Sumulong,  Jacinto Poblacion,Residential,1796,,22-Mar,5118,5175,57,,2%,0,698,unpaid,56-20230107-408,NULL,NULL,WS Bill,active
+2015-010-2277,03-06-2022,03-21-2022,Roland P. Mesina,  Jacinto Poblacion,Residential,2277,,22-Mar,38,38,0,,2%,0,50,unpaid,56-20230107-409,NULL,NULL,WS Bill,active
+2017-005-2762,03-06-2022,03-21-2022,Lita Rivera,  Jacinto Poblacion,Residential,2761,,22-Mar,696,703,7,,2%,0,100,unpaid,56-20230107-410,NULL,NULL,WS Bill,active
+2019-009-3047,03-06-2022,03-21-2022,Amelyn H. Dayondon,  Jacinto Poblacion,Residential,3047,,22-Mar,786,812,26,,2%,0,272,unpaid,56-20230107-411,NULL,NULL,WS Bill,active
+2014-001-1866,03-06-2022,03-21-2022,Eva Juanillo,  Rizal Poblacion,Residential,1866,,22-Mar,4310,4337,27,,2%,0,284,unpaid,56-20230107-412,NULL,NULL,WS Bill,active
+2018-004-2823,03-06-2022,03-21-2022,Loida A. Salazar,  Rizal Poblacion,Residential,2823,,22-Mar,130,130,0,,2%,0,50,unpaid,56-20230107-413,NULL,NULL,WS Bill,active
+2014-001-1771,03-06-2022,03-21-2022,Erlinda Orteza,   Duhat,Residential,1771,563,22-Mar,2371,2395,24,,2%,12,248,unpaid,56-20230107-414,NULL,NULL,WS Bill,active
+2014-001-1705,03-06-2022,03-21-2022,Remedios Fabia,   Duhat,Residential,1705,,22-Mar,3079,3113,34,,2%,0,376,unpaid,56-20230107-415,NULL,NULL,WS Bill,active
+2014-001-1708,03-06-2022,03-21-2022,John Michael Juanillo,   Duhat,Residential,1708,,22-Mar,1984,2014,30,,2%,0,320,unpaid,56-20230107-416,NULL,NULL,WS Bill,active
+2014-001-1715,03-06-2022,03-21-2022,Lilia Rada,   Duhat,Residential,1715,,22-Mar,1363,1373,10,,2%,0,100,unpaid,56-20230107-417,NULL,NULL,WS Bill,active
+2015-010-2279,03-06-2022,03-21-2022,Maricel P. Rebanal,   Duhat,Residential,2279,,22-Mar,780,795,15,,2%,0,150,unpaid,56-20230107-418,NULL,NULL,WS Bill,active
+2018-005-2822,03-06-2022,03-21-2022,Gean C. Vista,   Duhat,Residential,2822,,22-Mar,3630,3649,19,,2%,0,190,unpaid,56-20230107-419,NULL,NULL,WS Bill,active
+2018-004-2828,03-06-2022,03-21-2022,Farey Lane,   Duhat,Residential,2828,,22-Mar,1323,1362,39,,2%,0,446,unpaid,56-20230107-420,NULL,NULL,WS Bill,active
+2019-002-3088,03-06-2022,03-21-2022,Maricar G. Lubuguin,      Duhat,Residential,3088,,22-Mar,638,654,16,,2%,0,160,unpaid,56-20230107-421,NULL,NULL,WS Bill,active
+2019-011-3067,03-06-2022,03-21-2022,Myla Gungon,   Duhat,Residential,3067,11/11/2019,22-Mar,1147,1147,0,,2%,2,50,unpaid,56-20230107-422,NULL,NULL,WS Bill,active
+2013-011-1570,03-09-2022,03-24-2022,Analyn Mesina,  Junction Duhat,Residential,1570,,22-Mar,2218,2218,0,,2%,0,50,unpaid,56-20230107-423,NULL,NULL,WS Bill,active
+2013-011-1573,03-09-2022,03-24-2022,Alfredo P. Maximo Jr.,  Junction Duhat,Residential,1573,,22-Mar,3821,3845,24,,2%,0,248,unpaid,56-20230107-424,NULL,NULL,WS Bill,active
+2013-010-3002,03-09-2022,03-24-2022,Rosella Gadiane,  Junction Duhat,Residential,3002,,22-Mar,2458,2481,23,,2%,0,236,unpaid,56-20230107-425,NULL,NULL,WS Bill,active
+2013-011-1581,03-09-2022,03-24-2022,Alex/Linda Ruazol,  Junction Duhat,Residential,1581,,22-Mar,4201,4221,20,,2%,0,200,unpaid,56-20230107-426,NULL,NULL,WS Bill,active
+2013-011-1495,03-09-2022,03-24-2022,Jojit Vida,  Junction Duhat,Residential,1495,,22-Mar,3387,3448,61,,2%,0,754,unpaid,56-20230107-427,NULL,NULL,WS Bill,active
+2013-011-1513,03-09-2022,03-24-2022,Allan Maximo,  Junction Duhat,Residential,1513,,22-Mar,1217,1233,16,,2%,0,160,unpaid,56-20230107-428,NULL,NULL,WS Bill,active
+2013-011-1432,03-09-2022,03-24-2022,Romeo Flores,  Junction Duhat,Residential,1432,,22-Mar,2756,2768,12,,2%,0,120,unpaid,56-20230107-429,NULL,NULL,WS Bill,active
+2013-011-1445,03-09-2022,03-24-2022,Marieta Morales,  Junction Duhat,Residential,1445,,22-Mar,4438,4450,12,,2%,0,120,unpaid,56-20230107-430,NULL,NULL,WS Bill,active
+2013-011-1447,03-09-2022,03-24-2022,Mario Guevarra,  Junction Duhat,Residential,1447,,22-Mar,3875,3886,11,,2%,0,110,unpaid,56-20230107-431,NULL,NULL,WS Bill,active
+2013-011-864,03-09-2022,03-24-2022,Venancia H. Castillo,  Junction Duhat,Residential,864,,22-Mar,2414,2434,20,,2%,0,200,unpaid,56-20230107-432,NULL,NULL,WS Bill,active
+2013-011-1359,03-09-2022,03-24-2022,Mercedes P. Ruazol,  Junction Duhat,Residential,1359,1981714,22-Mar,801,801,0,,2%,2,50,unpaid,56-20230107-433,NULL,NULL,WS Bill,active
+2013-011-1366,03-09-2022,03-24-2022,Joselito Maglalang,  Junction Duhat,Residential,1366,,22-Mar,2071,2088,17,,2%,0,170,unpaid,56-20230107-434,NULL,NULL,WS Bill,active
+2013-011-1372,03-09-2022,03-24-2022,Cristina Flores,  Junction Duhat,Residential,1372,,22-Mar,2288,2293,5,,2%,0,75,unpaid,56-20230107-435,NULL,NULL,WS Bill,active
+2013-011-1375,03-09-2022,03-24-2022,Felisa Perez,  Junction Duhat,Residential,1375,2561477,22-Mar,1247,1248,1,,2%,2,50,unpaid,56-20230107-436,NULL,NULL,WS Bill,active
+2015-001-2307,03-09-2022,03-24-2022,Mark John C. Talubo,  Junction Duhat,Residential,2307,,22-Mar,1176,1176,0,,2%,0,50,unpaid,56-20230107-437,NULL,NULL,WS Bill,active
+2015-005-2311,03-09-2022,03-24-2022,Marilou N. Bleza,  Junction Duhat,Residential,2311,,22-Mar,816,824,8,,2%,0,100,unpaid,56-20230107-438,NULL,NULL,WS Bill,active
+2018-004-2826,03-09-2022,03-24-2022,Alloha C. Oracion,  Junction Duhat,Residential,2826,,22-Mar,793,802,9,,2%,0,100,unpaid,56-20230107-439,NULL,NULL,WS Bill,active
+2019-007-3032,03-09-2022,03-24-2022,National High Scholl II Cavinti Integrated ,  Junction Duhat,Commercial,3032,,22-Mar,499,565,66,,2%,0,1190,unpaid,56-20230107-440,NULL,NULL,WS Bill,active
+2019-011-3072,03-09-2022,03-24-2022,Jhemer P. Ansay,  Junction Duhat,Residential,3072,,22-Mar,182,198,16,,2%,0,160,unpaid,56-20230107-441,NULL,NULL,WS Bill,active
+2021-006-3228,03-09-2022,03-24-2022,Mary Joy Peralta,      Duhat,Residential,3228,,22-Mar,20,31,11,,2%,0,110,unpaid,56-20230107-442,NULL,NULL,WS Bill,active
+2014-001-1942,03-10-2022,03-25-2022,Edith Tagoo,  Del Pilar Poblacion,Residential,1942,,22-Mar,1997,2002,5,,2%,0,75,unpaid,56-20230107-443,NULL,NULL,WS Bill,disconnected
+2014-001-1958,03-10-2022,03-25-2022,Rito Dela Torre,  Del Pilar Poblacion,Residential,1958,,22-Mar,1833,1833,0,,2%,0,50,unpaid,56-20230107-444,NULL,NULL,WS Bill,active
+2014-001-2959,03-10-2022,03-25-2022,Jobita Pabico,  Burgos Poblacion,Residential,2959,,22-Mar,2582,2585,3,,2%,0,50,unpaid,56-20230107-445,NULL,NULL,WS Bill,active
+2014-001-1895,03-10-2022,03-25-2022,Walter Sta Mina,  Del Pilar Poblacion,Residential,1895,,22-Mar,227,231,4,,2%,0,75,unpaid,56-20230107-446,NULL,NULL,WS Bill,active
+2014-002-2106,03-10-2022,03-25-2022,Analyn Soccoro,  Del Pilar Poblacion,Residential,2106,,22-Mar,1544,1554,10,,2%,0,100,unpaid,56-20230107-447,NULL,NULL,WS Bill,active
+2019-001-3076,03-10-2022,03-25-2022,Delsife O. Ciriaco,  Del Pilar Poblacion,Residential,3076,,22-Mar,967,996,29,,2%,0,308,unpaid,56-20230107-448,NULL,NULL,WS Bill,active
+2019-007-3037,03-10-2022,03-25-2022,Adrian V. Pullan,  Del Pilar Poblacion,Residential,3037,,22-Mar,235,235,0,,2%,0,50,unpaid,56-20230107-449,NULL,NULL,WS Bill,active
+2014-001-1912,03-11-2022,03-26-2022,Roselyn San Pedro,  Bagong Silang Poblacion,Residential,1912,,22-Mar,2416,2437,21,,2%,0,212,unpaid,56-20230107-450,NULL,NULL,WS Bill,active
+2009-010-0047,03-11-2022,03-26-2022,Lorna I. Arroyo,  Bagong Silang Poblacion,Residential,47,,22-Mar,2916,2930,14,,2%,0,140,unpaid,56-20230107-451,NULL,NULL,WS Bill,active
+2013-010-073,03-11-2022,03-26-2022,John V. Ansay,43  Bagong Silang Poblacion,Residential,73,5/15/2019,22-Mar,2028,2035,7,,2%,5,100,unpaid,56-20230107-452,NULL,NULL,WS Bill,active
+2014-001-1977,03-11-2022,03-26-2022,Virgo Dela Cruz,  Bagong Silang Poblacion,Residential,1977,,22-Mar,3056,3056,0,,2%,0,50,unpaid,56-20230107-453,NULL,NULL,WS Bill,active
+2014-001-2051,03-11-2022,03-26-2022,Severina Ramos,  Bagong Silang Poblacion,Residential,2051,,22-Mar,384,392,8,,2%,0,100,unpaid,56-20230107-454,NULL,NULL,WS Bill,active
+2014-001-1980,03-11-2022,03-26-2022,Anastacio V. Pastores,  Bagong Silang Poblacion,Residential,1980,98105,22-Mar,3543,17,17,,2%,8,170,unpaid,56-20230107-455,NULL,NULL,WS Bill,active
+2014-003-2084,03-11-2022,03-26-2022,Renante Pereja,  Bagong Silang Poblacion,Residential,2084,,22-Mar,2320,2362,42,,2%,0,488,unpaid,56-20230107-456,NULL,NULL,WS Bill,active
+2014-001-1983,03-11-2022,03-26-2022,Joven Ansay,  Bagong Silang Poblacion,Residential,1983,,22-Mar,2061,2077,16,,2%,0,160,unpaid,56-20230107-457,NULL,NULL,WS Bill,active
+2016-005-2893,03-11-2022,03-26-2022,Ernesta V. Caballero,  Bagong Silang Poblacion,Residential,2893,,22-Mar,730,731,1,,2%,0,50,unpaid,56-20230107-458,NULL,NULL,WS Bill,active
+2014-001-2060,03-11-2022,03-26-2022,Adelaida Lubuguin,  Bagong Silang Poblacion,Residential,2060,,22-Mar,1646,1651,5,,2%,0,75,unpaid,56-20230107-459,NULL,NULL,WS Bill,active
+2013-010-0006,03-11-2022,03-26-2022,Hermogenes Mones  C. Villanueva,90  Bagong Silang Poblacion,Residential,6,,22-Mar,3558,3579,21,,2%,0,212,unpaid,56-20230107-460,NULL,NULL,WS Bill,active
+2019-004-2080,03-11-2022,03-26-2022,Jayward M. Ansay,  Bagong Silang Poblacion,Residential,2080,,22-Mar,486,493,7,,2%,0,100,unpaid,56-20230107-461,NULL,NULL,WS Bill,active
+2020-001-3092,03-11-2022,03-26-2022,Gilda B. Hilaga,  Bagong Silang Poblacion,Residential,3092,,22-Mar,249,259,10,,2%,0,100,unpaid,56-20230107-462,NULL,NULL,WS Bill,active
+2021-003-3190,03-11-2022,03-26-2022,Cris Andrew Valente,  Bagong Silang Poblacion,Residential,3190,,22-Mar,1,2,1,,2%,0,50,unpaid,56-20230107-463,NULL,NULL,WS Bill,active
+2021-007-3231,03-11-2022,03-26-2022,Gregorio J. Perez,  Bagong Silang Poblacion,Residential,3231,,22-Mar,0,1,1,,2%,0,50,unpaid,56-20230107-464,NULL,NULL,WS Bill,active
+2013-010-3015,03-11-2022,03-26-2022,Evangeline Pereja,  Bagong Silang Poblacion,Residential,3015,,22-Mar,2838,2839,1,,2%,0,50,unpaid,56-20230107-465,NULL,NULL,WS Bill,active
+2014-001-2006,03-11-2022,03-26-2022,Virgilio Lizen,  A.P De Leon Poblacion,Residential,2006,,22-Mar,2567,2578,11,,2%,0,110,unpaid,56-20230107-466,NULL,NULL,WS Bill,active
+2013-011-1690,03-14-2022,03-29-2022,Jimmy Oliveros,  Viva Victoria Poblacion,Residential,1690,,22-Mar,1664,1686,22,,2%,0,224,unpaid,56-20230107-467,NULL,NULL,WS Bill,active
+2013-011-1704,03-14-2022,03-29-2022,Maura Parientes,  Viva Victoria Poblacion,Residential,1704,,22-Mar,1285,1285,0,,2%,0,50,unpaid,56-20230107-468,NULL,NULL,WS Bill,active
+2020-012-3170,03-14-2022,03-29-2022,Rodelyn Sarmiento,  Lual Poblacion,Residential,3170,,22-Mar,435,467,32,,2%,0,348,unpaid,56-20230107-469,,,WS Bill,active
+2013-011-1759,03-15-2022,03-30-2022,Imelda Titan,  Alalayan Road Poblacion,Residential,1759,,22-Mar,745,745,0,,2%,0,50,unpaid,56-20230107-470,NULL,NULL,WS Bill,active
+2015-011-2272,03-15-2022,03-30-2022,May S. Capiz,  Alalayan Road Poblacion,Residential,2272,,22-Mar,892,905,13,,2%,0,130,unpaid,56-20230107-471,NULL,NULL,WS Bill,active
+2013-011-1606,03-14-2022,03-29-2022,Nimfa Dela Torre,  Oflaria Poblacion,Residential,1606,,22-Mar,2785,2802,17,,2%,0,170,unpaid,56-20230107-472,NULL,NULL,WS Bill,active
+2013-011-810,03-15-2022,03-30-2022,Sherly Reyes,  Villa Blanco Poblacion,Residential,810,,22-Mar,417,431,14,,2%,0,140,unpaid,56-20230107-473,NULL,NULL,WS Bill,active
+2013-011-1636,03-16-2022,03-31-2022,Elias Iwarat,  Bonifacio Poblacion,Residential,1636,,22-Mar,3858,3877,19,,2%,0,190,unpaid,56-20230107-474,,,WS Bill,active
+2016-003-2901,03-15-2022,03-30-2022,Rene Rose Gocon,  Villa Blanco Poblacion,Residential,2901,,22-Mar,3077,3105,28,,2%,0,296,unpaid,56-20230107-475,NULL,NULL,WS Bill,active
+2013-011-1310,01/00/1900,01/00/1900,Michael  Leonardo,  Pereña Poblacion,Residential,1310,,Teflon-1,,,,,,,,,56-20230107-476,,,,
+2013-011-1536,03-16-2022,03-31-2022,Narceso Gallardo,  Bonifacio Poblacion,Residential,1536,,22-Mar,2513,2514,1,,2%,0,50,unpaid,56-20230107-477,NULL,NULL,WS Bill,active
+2013-011-1308,03-15-2022,03-30-2022,Solita V. Oliveros,  Pereña Poblacion,Residential,1308,,22-Mar,2833,2844,11,,2%,0,110,unpaid,56-20230107-478,NULL,NULL,WS Bill,active
+2013-011-1309,03-15-2022,03-30-2022,Noralyn Morales,  Pereña Poblacion,Residential,1309,,22-Mar,1560,1574,14,,2%,0,140,unpaid,56-20230107-479,NULL,NULL,WS Bill,active
+2014-006-2156,03-15-2022,03-30-2022,Crispin Flores,  Pereña Poblacion,Residential,2156,,22-Mar,3461,3526,65,,2%,0,810,unpaid,56-20230107-480,NULL,NULL,WS Bill,active
+2013-011-1310,03-15-2022,03-30-2022,Michael Leonardo,  Pereña Poblacion,Residential,1310,,22-Mar,936,951,15,,2%,0,150,unpaid,56-20230107-481,NULL,NULL,WS Bill,active
+2018-005-2819,03-15-2022,03-30-2022,Digna C Bleza,  Pereña Poblacion,Residential,2819,15-1298,22-Mar,400,406,6,,2%,5,100,unpaid,56-20230107-482,NULL,NULL,WS Bill,active
+2013-011-635,03-15-2022,03-30-2022,Delma Arroyo,  Pereña Poblacion,Residential,635,,22-Mar,2869,2914,45,,2%,0,530,unpaid,56-20230107-483,NULL,NULL,WS Bill,active
+2013-011-1549,03-16-2022,03-31-2022,Conrado Oliveros,  Bonifacio Poblacion,Residential,1549,,22-Mar,4164,4164,0,,2%,0,50,unpaid,56-20230107-484,NULL,NULL,WS Bill,active
+2017-003-2767,03-16-2022,03-31-2022,Buenaben Oliveros,  Mabini Poblacion,Residential,2767,,22-Mar,2594,2607,13,,2%,0,130,unpaid,56-20230107-485,NULL,NULL,WS Bill,active
+2013-011-1245,03-16-2022,03-31-2022,Marilyn Oliveros,  Mabini Poblacion,Residential,1245,,22-Mar,1893,1901,8,,2%,0,100,unpaid,56-20230107-486,NULL,NULL,WS Bill,active
+2016-005-2892,03-16-2022,03-31-2022,Angelita Flores,  Mabini Poblacion,Residential,2892,,22-Mar,660,674,14,,2%,0,140,unpaid,56-20230107-487,NULL,NULL,WS Bill,active
+2019-005-3109,03-19-2022,04-03-2022,Michelle A. Toque,  Magsaysay Poblacion,Residential,3109,,22-Mar,545,557,12,,2%,0,120,unpaid,56-20230107-488,NULL,NULL,WS Bill,active
+2013-011-548,03-19-2022,04-03-2022,Elloy De leon,  Magsaysay Poblacion,Residential,548,,22-Mar,2688,2724,36,,2%,0,404,unpaid,56-20230107-489,NULL,NULL,WS Bill,active
+2013-011-1113,03-22-2022,04-06-2022,Lucita Barlis,  Bukal Road Poblacion,Residential,1113,,22-Mar,1038,1038,0,,2%,0,50,unpaid,56-20230107-490,NULL,NULL,WS Bill,active
+2013-011-833,03-20-2022,04-04-2022,Omer A. Villamin,  Magsaysay Poblacion,Residential,833,,22-Mar,1914,1927,13,,2%,0,130,unpaid,56-20230107-491,NULL,NULL,WS Bill,active
+2013-011-1722,03-20-2022,04-04-2022,Fernando Pabico,  Magsaysay Poblacion,Residential,1722,,22-Mar,2387,2387,0,,2%,0,50,unpaid,56-20230107-492,NULL,NULL,WS Bill,active
+2014-001-2036,03-20-2022,04-04-2022,Juliana Ramos,  Magsaysay Poblacion,Residential,2036,,22-Mar,4666,4692,26,,2%,0,272,unpaid,56-20230107-493,NULL,NULL,WS Bill,active
+2013-011-703,03-20-2022,04-04-2022,Jenny Torres,  Magsaysay Poblacion,Residential,703,,22-Mar,2885,2924,39,,2%,0,446,unpaid,56-20230107-494,NULL,NULL,WS Bill,active
+2013-011-716,03-20-2022,04-04-2022,Espie Mesina,  Magsaysay Poblacion,Residential,716,,22-Mar,4232,4250,18,,2%,0,180,unpaid,56-20230107-495,NULL,NULL,WS Bill,active
+2013-011-1142,03-22-2022,04-06-2022,Dra.Fe Fernandez,  Bukal Road Poblacion,Residential,1142,,22-Mar,558,565,7,,2%,0,100,unpaid,56-20230107-496,NULL,NULL,WS Bill,active
+2020-006-3110,03-22-2022,04-06-2022,Hedelito Esguerra,  Bukal Road Poblacion,Residential,3110,,22-Mar,2302,2408,106,,2%,0,1384,unpaid,56-20230107-497,NULL,NULL,WS Bill,active
+2013-011-979,03-22-2022,04-06-2022,Reynaldo R. Cabuhat,  Bagong Sikat Poblacion,Residential,979,,22-Mar,424,456,32,,2%,0,348,unpaid,56-20230107-498,NULL,NULL,WS Bill,active
+2013-003-3097,03-22-2022,04-06-2022,Rodolfo Juarez,  Javier Compound Poblacion,Residential,3097,,22-Mar,299,304,5,,2%,0,75,unpaid,56-20230107-499,NULL,NULL,WS Bill,active
+2013-011-1007,03-24-2022,04-08-2022,Melba A. Bugtong,  De leon Poblacion,Residential,1007,,22-Mar,2960,2984,24,,2%,0,248,unpaid,56-20230107-500,NULL,NULL,WS Bill,active
+2013-011-1011,03-24-2022,04-08-2022,Arnel Pereja,  De Leon Poblacion,Residential,1011,,22-Mar,4146,4171,25,,2%,0,260,unpaid,56-20230107-501,NULL,NULL,WS Bill,active
+2013-011-606,03-24-2022,04-08-2022,Angel Amores,  De Leon Poblacion,Residential,606,,22-Mar,9340,9367,27,,2%,0,284,unpaid,56-20230107-502,NULL,NULL,WS Bill,active
+2013-011-1216,03-24-2022,04-08-2022,Ed Lintac,  Oliveros Poblacion,Residential,1216,,22-Mar,3353,3368,15,,2%,0,150,unpaid,56-20230107-503,NULL,NULL,WS Bill,active
+2013-010-095,03-24-2022,04-08-2022,Cristina R. Blasco,  Oliveros Poblacion,Residential,95,,22-Mar,4048,4071,23,,2%,0,236,unpaid,56-20230107-504,NULL,NULL,WS Bill,active
+2013-011-805,03-24-2022,04-08-2022,Marcelina Robel,  Oliveros Poblacion,Residential,805,15-549,22-Mar,2691,12,12,,2%,6,120,unpaid,56-20230107-505,NULL,NULL,WS Bill,active
+2014-002-2135,03-24-2022,04-08-2022,Poblacion Barangay,  Oliveros Poblacion,Residential,2135,,22-Mar,295,295,0,,2%,0,50,unpaid,56-20230107-506,NULL,NULL,WS Bill,active
+2013-011-544,03-25-2022,04-09-2022,Herminia Oliveros,  Villa Flores Poblacion,Residential,544,,22-Mar,168,172,4,,2%,0,75,unpaid,56-20230107-507,NULL,NULL,WS Bill,active
+2017-006-2750,03-25-2022,04-09-2022,Marivic Dela Torre,  Villa Flores Poblacion,Residential,2750,,22-Mar,917,952,35,,2%,0,390,unpaid,56-20230107-508,NULL,NULL,WS Bill,active
+2013-011-467,03-25-2022,04-09-2022,Gaudioso Tinumpic,  Tagasan Road Poblacion,Residential,467,,22-Mar,1324,1356,32,,2%,0,348,unpaid,56-20230107-509,NULL,NULL,WS Bill,active
+201-001-3083,03-25-2022,04-09-2022,Leonora T. Perolina,  Tagasan Road Poblacion,Residential,3083,15-1269,22-Mar,247,248,1,,2%,2,50,unpaid,56-20230107-510,NULL,NULL,WS Bill,active
+2021-001-3179,03-25-2022,04-09-2022,Brgy. Labayo Multipurpose,  Tagasan Road Poblacion,Residential,3179,,22-Mar,41,42,1,,2%,0,50,unpaid,56-20230107-511,NULL,NULL,WS Bill,active
+2013-010-113,03-25-2022,04-09-2022,Ningning B. Duma,  Calupig Poblacion,Residential,113,,22-Mar,801,831,30,,2%,0,320,unpaid,56-20230107-512,NULL,NULL,WS Bill,active
+2013-011-274,03-25-2022,04-09-2022,Nasing Ansay,  Calupig Poblacion,Residential,274,,22-Mar,2264,2278,14,,2%,0,140,unpaid,56-20230107-513,NULL,NULL,WS Bill,active
+2013-011-290,03-25-2022,04-09-2022,Librado Fernandez,  Calupig Poblacion,Residential,290,,22-Mar,1178,14,14,,2%,0,140,unpaid,56-20230107-514,NULL,NULL,WS Bill,active
+2014-001-2966,03-25-2022,04-09-2022,Ason Tinumpic,  Lopez Jaena Poblacion,Residential,2966,,22-Mar,5009,5041,32,,2%,0,348,unpaid,56-20230107-515,NULL,NULL,WS Bill,active
+2013-011-190,03-25-2022,04-09-2022,Leonisa P. Valente,  Lopez Jaena Poblacion,Residential,190,,22-Mar,3291,3311,20,,2%,0,200,unpaid,56-20230107-516,NULL,NULL,WS Bill,active
+2013-011-626,03-25-2022,04-09-2022,Fortunato  Villanueva II,  General Luna Poblacion,Residential,626,,22-Mar,2939,2962,23,,2%,0,236,unpaid,56-20230107-517,NULL,NULL,WS Bill,active
+2013-011-630,03-25-2022,04-09-2022,Marife O. Cabantog,  General Luna Poblacion,Residential,630,,22-Mar,1022,1024,2,,2%,0,50,unpaid,56-20230107-518,NULL,NULL,WS Bill,active
+2014-001-2137,03-25-2022,04-09-2022,Lualhati Ansay,  General Luna Poblacion,Residential,2137,,22-Mar,1367,1370,3,,2%,0,50,unpaid,56-20230107-519,NULL,NULL,WS Bill,active
+2013-011-480,03-26-2022,04-10-2022,Helen Luzon,  Maypansol Poblacion,Residential,480,,22-Mar,4158,4176,18,,2%,0,180,unpaid,56-20230107-520,NULL,NULL,WS Bill,active
+2013-011-364,03-26-2022,04-10-2022,Martin Custodio,  Maypansol Poblacion,Residential,364,,22-Mar,3994,4027,33,,2%,0,362,unpaid,56-20230107-521,NULL,NULL,WS Bill,active
+2013-011-415,03-26-2022,04-10-2022,Flores Necitas ,  Maypansol Poblacion,Residential,415,15-14254,22-Mar,1657,1669,12,,2%,6,120,unpaid,56-20230107-522,NULL,NULL,WS Bill,active
+2013-011-397,03-26-2022,04-10-2022,Mario Ansay,  Maypansol Poblacion,Residential,397,,22-Mar,3356,3387,31,,2%,0,334,unpaid,56-20230107-523,NULL,NULL,WS Bill,active
+2013-011-603,03-28-2022,04-12-2022,Rocelia P. Baltazar,  Sanggumay Poblacion,Residential,603,,22-Mar,3484,3529,45,,2%,0,530,unpaid,56-20230107-524,NULL,NULL,WS Bill,active
+2013-011-1172,03-28-2022,04-12-2022,Geordie II Esperanza,  Cailles Poblacion,Residential,1172,,22-Mar,3023,3042,19,,2%,0,190,unpaid,56-20230107-525,NULL,NULL,WS Bill,active
+2013-011-1194,03-28-2022,04-12-2022,Marilyn Juarez,  Cailles Poblacion,Residential,1194,,22-Mar,2283,2323,40,,2%,0,460,unpaid,56-20230107-526,NULL,NULL,WS Bill,active
+2013-011-1198,03-28-2022,04-12-2022,Sigfredo Perolina,  Cailles Poblacion,Residential,1198,,22-Mar,2873,2896,23,,2%,0,236,unpaid,56-20230107-527,NULL,NULL,WS Bill,active
+2013-011-1745,03-28-2022,04-12-2022,Elsa R. Villanueva,  Cailles Poblacion,Residential,1745,,22-Mar,3053,3053,0,,2%,0,50,unpaid,56-20230107-528,NULL,NULL,WS Bill,active
+2013-011-1659,03-28-2022,04-12-2022,Roderick H. Gasgonia,  Cailles Poblacion,Residential,1659,043407015-089,22-Mar,2866,2876,10,,2%,5,100,unpaid,56-20230107-529,NULL,NULL,WS Bill,active
+2013-011-1682,03-28-2022,04-12-2022,Jesus Corpus,  Cailles Poblacion,Residential,1682,,22-Mar,6472,6503,31,,2%,0,334,unpaid,56-20230107-530,NULL,NULL,WS Bill,active
+2013-011-1589,03-28-2022,04-12-2022,Leonora Miras,  Cailles Poblacion,Residential,1589,,22-Mar,446,453,7,,2%,0,100,unpaid,56-20230107-531,NULL,NULL,WS Bill,active
+2013-011-530,03-28-2022,04-12-2022,Thelma Juanillo,  Sanggumay Poblacion,Residential,530,,22-Mar,1121,1144,23,,2%,0,236,unpaid,56-20230107-532,NULL,NULL,WS Bill,active
+2013-011-1617,03-28-2022,04-12-2022,Cleto Villatuya,  Cailles Poblacion,Residential,1617,,22-Mar,642,645,3,,2%,0,50,unpaid,56-20230107-533,NULL,NULL,WS Bill,active
+2013-011-1529,03-28-2022,04-12-2022,Hedelito Esguerra,  Cailles Poblacion,Residential,1529,,22-Mar,1495,1500,5,,2%,0,75,unpaid,56-20230107-534,NULL,NULL,WS Bill,active
+2013-011-1631,03-28-2022,04-12-2022,Semion Villanueva,  Cailles Poblacion,Residential,1631,,22-Mar,3826,3826,0,,2%,0,50,unpaid,56-20230107-535,NULL,NULL,WS Bill,active
+2021-001-3177,03-28-2022,04-12-2022,Arleen Javier,  Cailles Poblacion,Residential,3177,,22-Mar,230,256,26,,2%,0,272,unpaid,56-20230107-536,NULL,NULL,WS Bill,active
+2013-011-577,03-29-2022,04-13-2022,Terie Ruazol,   Udia,Residential,577,,22-Mar,2570,2575,5,,2%,0,75,unpaid,56-20230107-537,NULL,NULL,WS Bill,active
+2013-011-588,03-29-2022,04-13-2022,Merill Delgado,   Udia,Residential,588,,22-Mar,3077,3093,16,,2%,0,160,unpaid,56-20230107-538,NULL,NULL,WS Bill,active
+2013-011-251,03-29-2022,04-13-2022,Rolen Martin,   Udia,Residential,251,,22-Mar,321,321,0,,2%,0,50,unpaid,56-20230107-539,NULL,NULL,WS Bill,active
+2013-011-3068,03-29-2022,04-13-2022,Melita Valdopeñas II,   Udia,Residential,3068,702,22-Mar,1355,1370,15,,2%,8,150,unpaid,56-20230107-540,NULL,NULL,WS Bill,active
+2014-003-3062,03-29-2022,04-13-2022,Udia Day Care Center,   Udia,Residential,3062,,22-Mar,1147,1148,1,,2%,0,50,unpaid,56-20230107-541,NULL,NULL,WS Bill,active
+2014-010-2250,03-29-2022,04-13-2022,Larry / Inday Velasco,   Udia,Residential,2250,,22-Mar,635,643,8,,2%,0,100,unpaid,56-20230107-542,NULL,NULL,WS Bill,active
+2015-007-2294,03-29-2022,04-13-2022,Harriet T. Sanchez,   Udia,Residential,2294,,22-Mar,3042,3088,46,,2%,0,544,unpaid,56-20230107-543,NULL,NULL,WS Bill,active
+2016-011-2793,03-29-2022,04-13-2022,Maria Reshell Juguilon,   Udia,Residential,2793,,22-Mar,787,788,1,,2%,0,50,unpaid,56-20230107-544,NULL,NULL,WS Bill,active
+2017-002-2774,03-29-2022,04-13-2022,Jear Juguilon,   Udia,Residential,2774,,22-Mar,2484,2525,41,,2%,0,474,unpaid,56-20230107-545,NULL,NULL,WS Bill,active
+2020-008-3140,03-29-2022,04-13-2022,Angelita Bernal,     Udia,Residential,3140,,22-Mar,410,430,20,,2%,0,200,unpaid,56-20230107-546,NULL,NULL,WS Bill,active
+2021-003-3194,03-29-2022,04-13-2022,Adonis Delos Santos,      Udia,Residential,3194,,22-Mar,44,47,3,,2%,0,50,unpaid,56-20230107-547,,,WS Bill,active
+2013-011-316,04-04-2022,04-19-2022,Zenaida Blaza,   Layug,Residential,316,,22-Apr,1961,1979,18,,2%,0,180,unpaid,56-20230107-548,NULL,NULL,WS Bill,active
+2010-003-38,04-04-2022,04-19-2022,Liezel D. Peji,   Layug,Residential,38,,22-Apr,2225,2253,28,,2%,0,296,unpaid,56-20230107-549,NULL,NULL,WS Bill,active
+2013-011-325,04-04-2022,04-19-2022,Teodoro Calinagan,   Layug,Residential,325,,22-Apr,3645,3645,0,,2%,0,50,unpaid,56-20230107-550,NULL,NULL,WS Bill,active
+2013-011-340,04-04-2022,04-19-2022,Bienvinido L. Oblepias,   Layug,Residential,340,15-490,22-Apr,2953,2978,25,,2%,13,260,unpaid,56-20230107-551,NULL,NULL,WS Bill,active
+2013-011-347,04-04-2022,04-19-2022,Amor Arroyo,   Layug,Residential,347,,22-Apr,1931,1971,40,,2%,0,460,unpaid,56-20230107-552,NULL,NULL,WS Bill,active
+2013-011-349,04-04-2022,04-19-2022,Lorena Juarez,   Layug,Residential,349,,22-Apr,1252,1262,10,,2%,0,100,unpaid,56-20230107-553,NULL,NULL,WS Bill,active
+2014-001-2931,04-04-2022,04-19-2022,Domenciano Oliveros,   Layug,Residential,2931,,22-Apr,507,528,21,,2%,0,212,unpaid,56-20230107-554,NULL,NULL,WS Bill,active
+2013-011-265,04-04-2022,04-19-2022,Arnel Pereña,   Layug,Residential,265,,22-Apr,1030,1035,5,,2%,0,75,unpaid,56-20230107-555,NULL,NULL,WS Bill,active
+2014-011-2245,04-04-2022,04-19-2022,Marie F. Esperanza,   Layug,Residential,2245,,22-Apr,713,731,18,,2%,0,180,unpaid,56-20230107-556,NULL,NULL,WS Bill,active
+2013-011-328,04-04-2022,04-19-2022,Tomas Lipit,   Layug,Residential,328,,22-Apr,1401,1401,0,,2%,0,50,unpaid,56-20230107-557,NULL,NULL,WS Bill,active
+2015-005-2310,04-04-2022,04-19-2022,Arnel M. Pereja,   Layug,Residential,2310,,22-Apr,1457,1475,18,,2%,0,180,unpaid,56-20230107-558,NULL,NULL,WS Bill,active
+2015-006-2303,04-04-2022,04-19-2022,Turiana F. Oliveros,   Layug,Residential,2303,,22-Apr,725,738,13,,2%,0,130,unpaid,56-20230107-559,NULL,NULL,WS Bill,active
+2015-012-2915,04-04-2022,04-19-2022,Imelda Rodriguez,   Layug,Residential,2915,,22-Apr,663,668,5,,2%,0,75,unpaid,56-20230107-560,NULL,NULL,WS Bill,active
+2016-009-2864,04-04-2022,04-19-2022,Mary Jean Cortez,   Layug,Residential,2864,,22-Apr,553,563,10,,2%,0,100,unpaid,56-20230107-561,NULL,NULL,WS Bill,active
+2017-003-2766,04-04-2022,04-19-2022,Charlene De Leon,   Layug,Residential,2766,,22-Apr,910,930,20,,2%,0,200,unpaid,56-20230107-562,NULL,NULL,WS Bill,active
+2017-004-2764,04-04-2022,04-19-2022,Hall Multi- Purpose,   Layug,Residential,2764,,22-Apr,267,278,11,,2%,0,110,unpaid,56-20230107-563,NULL,NULL,WS Bill,active
+2018-006-2813,04-04-2022,04-19-2022,Javier B. Toque,   Layug,Residential,2813,,22-Apr,704,726,22,,2%,0,224,unpaid,56-20230107-564,NULL,NULL,WS Bill,active
+2018-008-2717,04-04-2022,04-19-2022,Noel S. Nazareno,   Layug,Residential,2717,,22-Apr,304,304,0,,2%,0,50,unpaid,56-20230107-565,NULL,NULL,WS Bill,active
+2018-011-3048,04-04-2022,04-19-2022,April Bart P. Sebastian,   Layug,Residential,3048,,22-Apr,472,473,1,,2%,0,50,unpaid,56-20230107-566,NULL,NULL,WS Bill,active
+2019-005-3114,04-04-2022,04-19-2022,Wilfredo A. Estrella,   Layug,Residential,3114,,22-Apr,592,623,31,,2%,0,334,unpaid,56-20230107-567,NULL,NULL,WS Bill,active
+2019-012-3076,04-04-2022,04-19-2022,Solano C. Villanueva Jr.,     Layug,Residential,3076,,22-Apr,260,264,4,,2%,0,75,unpaid,56-20230107-568,NULL,NULL,WS Bill,active
+2020-004-3095,04-04-2022,04-19-2022,Remedios Quilapio,   Layug,Residential,3095,,22-Apr,42,42,0,,2%,0,50,unpaid,56-20230107-569,NULL,NULL,WS Bill,active
+2020-008-3143,04-04-2022,04-19-2022,Joselito M. Sancebutche,      Layug,Residential,3143,,22-Apr,125,127,2,,2%,0,50,unpaid,56-20230107-570,NULL,NULL,WS Bill,active
+2020-012-3166,04-04-2022,04-19-2022,Lillian Ebuen,    Layug,Residential,3166,,22-Apr,938,1003,65,,2%,0,810,unpaid,56-20230107-571,NULL,NULL,WS Bill,active
+2021-011-3256,04-04-2022,04-19-2022,Clamarie Blaza,   Layug,Residential,3256,,22-Apr,22,35,13,,2%,0,130,unpaid,56-20230107-572,NULL,NULL,WS Bill,active
+2022-002-3278,04-04-2022,04-19-2022,Jesica Echano,   Layug,Residential,3278,,22-Apr,,1,1,,2%,0,50,unpaid,56-20230107-573,NULL,NULL,WS Bill,active
+2022-001-3269,04-04-2022,04-19-2022,Brgy. Layug Multipurpose,   Layug,Government,3269,,22-Apr,68,208,140,,2%,0,2690,unpaid,56-20230107-574,NULL,NULL,WS Bill,active
+2014-001-1836,04-06-2022,04-21-2022,Ceferino Duma,  Rizal Poblacion,Residential,1836,,22-Apr,469,469,0,,2%,0,50,unpaid,56-20230107-575,NULL,NULL,WS Bill,active
+2014-001-1880,04-06-2022,04-21-2022,Mario F. Villanueva,  Jacinto Poblacion,Residential,1880,15-131418,22-Apr,1576,1576,0,,2%,2,50,unpaid,56-20230107-576,NULL,NULL,WS Bill,active
+2014-001-1778,04-06-2022,04-21-2022,Raymundo Lubuguin,  Jacinto Poblacion,Residential,1778,,22-Apr,5969,5969,0,,2%,0,50,unpaid,56-20230107-577,NULL,NULL,WS Bill,active
+2014-001-1791,04-06-2022,04-21-2022,Paul Nelson Arroyo,  Jacinto Poblacion,Residential,1791,,22-Apr,1301,1340,39,,2%,0,446,unpaid,56-20230107-578,NULL,NULL,WS Bill,active
+2014-001-1796,04-06-2022,04-21-2022,Conrado A. Sumulong,  Jacinto Poblacion,Residential,1796,,22-Apr,5175,5256,81,,2%,0,1034,unpaid,56-20230107-579,NULL,NULL,WS Bill,active
+2015-010-2277,04-06-2022,04-21-2022,Roland P. Mesina,  Jacinto Poblacion,Residential,2277,,22-Apr,38,38,0,,2%,0,50,unpaid,56-20230107-580,NULL,NULL,WS Bill,active
+2015-012-2913,01/00/1900,01/00/1900,Alma  Villanueva,  Jacinto Poblacion,Residential,2913,,Reconnect,NULL,606,NULL,NULL,NULL,0,0,unpaid,56-20230107-581,NULL,NULL,Arrears,active
+2017-005-2762,04-06-2022,04-21-2022,Lita Rivera,  Jacinto Poblacion,Residential,2761,,22-Apr,703,712,9,,2%,0,100,unpaid,56-20230107-582,NULL,NULL,WS Bill,active
+2019-009-3047,04-06-2022,04-21-2022,Amelyn H. Dayondon,  Jacinto Poblacion,Residential,3047,,22-Apr,812,849,37,,2%,0,418,unpaid,56-20230107-583,NULL,NULL,WS Bill,active
+2014-001-1866,04-06-2022,04-21-2022,Eva Juanillo,  Rizal Poblacion,Residential,1866,,22-Apr,4337,4381,44,,2%,0,516,unpaid,56-20230107-584,NULL,NULL,WS Bill,active
+2014-001-1771,04-06-2022,04-21-2022,Erlinda Orteza,   Duhat,Residential,1771,563,22-Apr,2395,2424,29,,2%,15,308,unpaid,56-20230107-585,NULL,NULL,WS Bill,active
+2014-001-1705,04-06-2022,04-21-2022,Remedios Fabia,   Duhat,Residential,1705,,22-Apr,3113,3151,38,,2%,0,432,unpaid,56-20230107-586,NULL,NULL,WS Bill,active
+2014-001-1708,04-06-2022,04-21-2022,John Michael Juanillo,   Duhat,Residential,1708,,22-Apr,2014,2054,40,,2%,0,460,unpaid,56-20230107-587,NULL,NULL,WS Bill,active
+2015-010-2279,04-06-2022,04-21-2022,Maricel P. Rebanal,   Duhat,Residential,2279,,22-Apr,795,811,16,,2%,0,160,unpaid,56-20230107-588,NULL,NULL,WS Bill,active
+2018-005-2822,04-06-2022,04-21-2022,Gean C. Vista,   Duhat,Residential,2822,,22-Apr,3649,3685,36,,2%,0,404,unpaid,56-20230107-589,NULL,NULL,WS Bill,active
+2018-004-2828,04-06-2022,04-21-2022,Farey Lane,   Duhat,Residential,2828,,22-Apr,1362,1392,30,,2%,0,320,unpaid,56-20230107-590,NULL,NULL,WS Bill,active
+2019-002-3088,04-06-2022,04-21-2022,Maricar G. Lubuguin,      Duhat,Residential,3088,,22-Apr,654,680,26,,2%,0,272,unpaid,56-20230107-591,NULL,NULL,WS Bill,active
+2019-011-3067,04-06-2022,04-21-2022,Myla Gungon,   Duhat,Residential,3067,11/11/2019,22-Apr,1147,1147,0,,2%,2,50,unpaid,56-20230107-592,NULL,NULL,WS Bill,active
+2013-011-1564,04-09-2022,04-24-2022,Tuding Oraa,  Junction Duhat,Residential,1564,,22-Apr,4272,4281,9,,2%,0,100,unpaid,56-20230107-593,NULL,NULL,WS Bill,active
+2013-011-1570,04-09-2022,04-24-2022,Analyn Mesina,  Junction Duhat,Residential,1570,,22-Apr,2218,2218,0,,2%,0,50,unpaid,56-20230107-594,NULL,NULL,WS Bill,active
+2013-011-1573,04-09-2022,04-24-2022,Alfredo P. Maximo Jr.,  Junction Duhat,Residential,1573,,22-Apr,3845,3878,33,,2%,0,362,unpaid,56-20230107-595,NULL,NULL,WS Bill,active
+2013-010-3002,04-09-2022,04-24-2022,Rosella Gadiane,  Junction Duhat,Residential,3002,,22-Apr,2481,2500,19,,2%,0,190,unpaid,56-20230107-596,NULL,NULL,WS Bill,active
+2013-011-1581,04-09-2022,04-24-2022,Alex/Linda Ruazol,  Junction Duhat,Residential,1581,,22-Apr,4221,4247,26,,2%,0,272,unpaid,56-20230107-597,NULL,NULL,WS Bill,active
+2013-011-1495,04-09-2022,04-24-2022,Jojit Vida,  Junction Duhat,Residential,1495,,22-Apr,3448,3518,70,,2%,0,880,unpaid,56-20230107-598,NULL,NULL,WS Bill,active
+2013-011-1513,04-09-2022,04-24-2022,Allan Maximo,  Junction Duhat,Residential,1513,,22-Apr,1233,1246,13,,2%,0,130,unpaid,56-20230107-599,NULL,NULL,WS Bill,active
+2013-011-1412,04-09-2022,04-24-2022,Rodelio Ruazol,  Junction Duhat,Residential,1412,,22-Apr,2203,2223,20,,2%,0,200,unpaid,56-20230107-600,NULL,NULL,WS Bill,active
+2013-011-1432,04-09-2022,04-24-2022,Romeo Flores,  Junction Duhat,Residential,1432,,22-Apr,2768,2796,28,,2%,0,296,unpaid,56-20230107-601,NULL,NULL,WS Bill,active
+2013-011-1445,04-09-2022,04-24-2022,Marieta Morales,  Junction Duhat,Residential,1445,,22-Apr,4450,4462,12,,2%,0,120,unpaid,56-20230107-602,NULL,NULL,WS Bill,active
+2013-011-1447,04-09-2022,04-24-2022,Mario Guevarra,  Junction Duhat,Residential,1447,,22-Apr,3886,3896,10,,2%,0,100,unpaid,56-20230107-603,NULL,NULL,WS Bill,active
+2013-011-1450,04-09-2022,04-24-2022,Romy Alejandro,  Junction Duhat,Residential,1450,,22-Apr,2795,2812,17,,2%,0,170,unpaid,56-20230107-604,NULL,NULL,WS Bill,active
+2013-011-1342,04-09-2022,04-24-2022,Natalia/nestor Pedron,  Junction Duhat,Residential,1342,,22-Apr,1449,1462,13,,2%,0,130,unpaid,56-20230107-605,NULL,NULL,WS Bill,active
+2013-011-864,04-09-2022,04-24-2022,Venancia H. Castillo,  Junction Duhat,Residential,864,,22-Apr,2434,2451,17,,2%,0,170,unpaid,56-20230107-606,NULL,NULL,WS Bill,active
+2013-011-1359,04-09-2022,04-24-2022,Mercedes P. Ruazol,  Junction Duhat,Residential,1359,1981714,22-Apr,801,801,0,,2%,2,50,unpaid,56-20230107-607,NULL,NULL,WS Bill,active
+2013-011-1366,04-09-2022,04-24-2022,Joselito Maglalang,  Junction Duhat,Residential,1366,,22-Apr,2088,2108,20,,2%,0,200,unpaid,56-20230107-608,NULL,NULL,WS Bill,active
+2013-011-1372,04-09-2022,04-24-2022,Cristina Flores,  Junction Duhat,Residential,1372,,22-Apr,2293,2295,2,,2%,0,50,unpaid,56-20230107-609,NULL,NULL,WS Bill,active
+2013-011-1375,04-09-2022,04-24-2022,Felisa Perez,  Junction Duhat,Residential,1375,2561477,22-Apr,1248,1250,2,,2%,2,50,unpaid,56-20230107-610,NULL,NULL,WS Bill,active
+2013-011-1380,04-09-2022,04-24-2022,Cavinti National High School,  Junction Duhat,Commercial,1380,9/24/2018,22-Apr,11198,11310,112,,2%,106,2110,unpaid,56-20230107-611,NULL,NULL,WS Bill,active
+2014-001-1998,04-09-2022,04-24-2022,Exequiel Corpuz,  Junction Duhat,Residential,1998,,22-Apr,63,76,13,,2%,0,130,unpaid,56-20230107-612,NULL,NULL,WS Bill,active
+2015-001-2307,04-09-2022,04-24-2022,Mark John C. Talubo,  Junction Duhat,Residential,2307,,22-Apr,1176,1176,0,,2%,0,50,unpaid,56-20230107-613,NULL,NULL,WS Bill,active
+2015-005-2311,04-09-2022,04-24-2022,Marilou N. Bleza,  Junction Duhat,Residential,2311,,22-Apr,824,833,9,,2%,0,100,unpaid,56-20230107-614,NULL,NULL,WS Bill,active
+2018-004-2826,04-09-2022,04-24-2022,Alloha C. Oracion,  Junction Duhat,Residential,2826,,22-Apr,802,813,11,,2%,0,110,unpaid,56-20230107-615,NULL,NULL,WS Bill,active
+2018-004-2826,04-09-2022,04-24-2022,Alloha C. Oracion,  Junction Duhat,Residential,2826,,22-Apr,802,813,11,,2%,0,110,unpaid,56-20230107-616,NULL,NULL,WS Bill,active
+2019-007-3032,04-09-2022,04-24-2022,National High Scholl II Cavinti Integrated ,  Junction Duhat,Commercial,3032,,22-Apr,565,577,12,,2%,0,180,unpaid,56-20230107-617,NULL,NULL,WS Bill,active
+2019-006-3055,04-09-2022,04-24-2022,Venus R. Bautista,  Junction Duhat,Residential,3055,,22-Apr,210,214,4,,2%,0,75,unpaid,56-20230107-618,NULL,NULL,WS Bill,active
+2019-011-3072,04-09-2022,04-24-2022,Jhemer P. Ansay,  Junction Duhat,Residential,3072,,22-Apr,198,218,20,,2%,0,200,unpaid,56-20230107-619,NULL,NULL,WS Bill,active
+2021-005-3220,04-09-2022,04-24-2022,Aldren V. Maximo,  Junction Duhat,Residential,3220,,22-Apr,107,167,60,,2%,0,740,unpaid,56-20230107-620,NULL,NULL,WS Bill,active
+2021-006-3228,04-09-2022,04-24-2022,Mary Joy Peralta,      Duhat,Residential,3228,,22-Apr,31,50,19,,2%,0,190,unpaid,56-20230107-621,NULL,NULL,WS Bill,active
+2014-001-2959,04-10-2022,04-25-2022,Jobita Pabico,  Burgos Poblacion,Residential,2959,,22-Apr,2585,2592,7,,2%,0,100,unpaid,56-20230107-622,NULL,NULL,WS Bill,active
+2014-001-2006,04-11-2022,04-26-2022,Virgilio Lizen,  A.P De Leon Poblacion,Residential,2006,,22-Apr,2578,2594,16,,2%,0,160,unpaid,56-20230107-623,NULL,NULL,WS Bill,active
+2014-001-1942,04-10-2022,04-25-2022,Edith Tagoo,  Del Pilar Poblacion,Residential,1942,,22-Apr,2002,2011,9,,2%,0,100,unpaid,56-20230107-624,NULL,NULL,WS Bill,disconnected
+2014-001-1958,04-10-2022,04-25-2022,Rito Dela Torre,  Del Pilar Poblacion,Residential,1958,,22-Apr,1833,1833,0,,2%,0,50,unpaid,56-20230107-625,NULL,NULL,WS Bill,active
+2014-001-1895,04-10-2022,04-25-2022,Walter Sta Mina,  Del Pilar Poblacion,Residential,1895,,22-Apr,231,245,14,,2%,0,140,unpaid,56-20230107-626,NULL,NULL,WS Bill,active
+2014-002-2106,04-10-2022,04-25-2022,Analyn Soccoro,  Del Pilar Poblacion,Residential,2106,,22-Apr,1554,1569,15,,2%,0,150,unpaid,56-20230107-627,NULL,NULL,WS Bill,active
+2019-001-3076,04-10-2022,04-25-2022,Delsife O. Ciriaco,  Del Pilar Poblacion,Residential,3076,,22-Apr,996,1024,28,,2%,0,296,unpaid,56-20230107-628,NULL,NULL,WS Bill,active
+2019-007-3037,04-10-2022,04-25-2022,Adrian V. Pullan,  Del Pilar Poblacion,Residential,3037,,22-Apr,235,235,0,,2%,0,50,unpaid,56-20230107-629,NULL,NULL,WS Bill,active
+2014-001-1912,04-10-2022,04-25-2022,Roselyn San Pedro,  Bagong Silang Poblacion,Residential,1912,,22-Apr,2437,2462,25,,2%,0,260,unpaid,56-20230107-630,NULL,NULL,WS Bill,active
+2013-010-073,04-10-2022,04-25-2022,John V. Ansay,43  Bagong Silang Poblacion,Residential,73,5/15/2019,22-Apr,2035,2049,14,,2%,7,140,unpaid,56-20230107-631,NULL,NULL,WS Bill,active
+2014-001-2051,04-11-2022,04-26-2022,Severina Ramos,  Bagong Silang Poblacion,Residential,2051,,22-Apr,392,422,30,,2%,0,320,unpaid,56-20230107-632,NULL,NULL,WS Bill,active
+2014-001-2060,04-11-2022,04-26-2022,Adelaida Lubuguin,  Bagong Silang Poblacion,Residential,2060,,22-Apr,1651,1655,4,,2%,0,75,unpaid,56-20230107-633,NULL,NULL,WS Bill,active
+2013-011-1690,04-14-2022,04-29-2022,Jimmy Oliveros,  Viva Victoria Poblacion,Residential,1690,,22-Apr,1686,1711,25,,2%,0,260,unpaid,56-20230107-634,NULL,NULL,WS Bill,active
+2013-011-296,04-14-2022,04-29-2022,Ben Morales,  Glorioso Poblacion,Residential,296,,22-Apr,2500,2508,8,,2%,0,100,unpaid,56-20230107-635,NULL,NULL,WS Bill,active
+2013-010-0006,04-11-2022,04-26-2022,Hermogenes Mones  C. Villanueva,90  Bagong Silang Poblacion,Residential,6,,22-Apr,3579,3612,33,,2%,0,362,unpaid,56-20230107-636,NULL,NULL,WS Bill,active
+2013-010-3015,04-11-2022,04-26-2022,Evangeline Pereja,  Bagong Silang Poblacion,Residential,3015,,22-Apr,2839,2839,0,,2%,0,50,unpaid,56-20230107-637,NULL,NULL,WS Bill,active
+2009-010-0047,04-11-2022,04-26-2022,Lorna I. Arroyo,  Bagong Silang Poblacion,Residential,47,,22-Apr,2930,2958,28,,2%,0,296,unpaid,56-20230107-638,NULL,NULL,WS Bill,active
+2014-001-1977,04-11-2022,04-26-2022,Virgo Dela Cruz,  Bagong Silang Poblacion,Residential,1977,,22-Apr,3056,3068,12,,2%,0,120,unpaid,56-20230107-639,NULL,NULL,WS Bill,active
+2014-001-1980,04-11-2022,04-26-2022,Anastacio V. Pastores,  Bagong Silang Poblacion,Residential,1980,98105,22-Apr,17,53,36,,2%,20,404,unpaid,56-20230107-640,NULL,NULL,WS Bill,active
+2014-003-2084,04-11-2022,04-26-2022,Renante Pereja,  Bagong Silang Poblacion,Residential,2084,,22-Apr,2362,2406,44,,2%,0,516,unpaid,56-20230107-641,NULL,NULL,WS Bill,active
+2014-001-1983,04-11-2022,04-26-2022,Joven Ansay,  Bagong Silang Poblacion,Residential,1983,,22-Apr,2077,2097,20,,2%,0,200,unpaid,56-20230107-642,NULL,NULL,WS Bill,active
+2016-005-2893,04-11-2022,04-26-2022,Ernesta V. Caballero,  Bagong Silang Poblacion,Residential,2893,,22-Apr,731,731,0,,2%,0,50,unpaid,56-20230107-643,NULL,NULL,WS Bill,active
+2020-012-3170,04-14-2022,04-29-2022,Rodelyn Sarmiento,  Lual Poblacion,Residential,3170,,22-Apr,467,495,28,,2%,0,296,unpaid,56-20230107-644,,,WS Bill,active
+2019-004-2080,04-11-2022,04-26-2022,Jayward M. Ansay,  Bagong Silang Poblacion,Residential,2080,,22-Apr,493,498,5,,2%,0,75,unpaid,56-20230107-645,NULL,NULL,WS Bill,active
+2020-001-3092,04-11-2022,04-26-2022,Gilda B. Hilaga,  Bagong Silang Poblacion,Residential,3092,,22-Apr,259,273,14,,2%,0,140,unpaid,56-20230107-646,NULL,NULL,WS Bill,active
+2021-003-3190,04-11-2022,04-26-2022,Cris Andrew Valente,  Bagong Silang Poblacion,Residential,3190,,22-Apr,2,3,1,,2%,0,50,unpaid,56-20230107-647,NULL,NULL,WS Bill,active
+2021-007-3231,04-11-2022,04-26-2022,Gregorio J. Perez,  Bagong Silang Poblacion,Residential,3231,,22-Apr,1,1,0,,2%,0,50,unpaid,56-20230107-648,NULL,NULL,WS Bill,active
+2013-011-1606,04-14-2022,04-29-2022,Nimfa Dela Torre,  Oflaria Poblacion,Residential,1606,,22-Apr,2802,2823,21,,2%,0,212,unpaid,56-20230107-649,NULL,NULL,WS Bill,active
+2013-011-806,04-14-2022,04-29-2022,Roxane  Del rosario,  Villa Blanco Poblacion,Residential,806,,22-Apr,2236,2254,18,,2%,0,180,unpaid,56-20230107-650,NULL,NULL,WS Bill,active
+2013-011-810,04-14-2022,04-29-2022,Sherly Reyes,  Villa Blanco Poblacion,Residential,810,,22-Apr,431,444,13,,2%,0,130,unpaid,56-20230107-651,NULL,NULL,WS Bill,active
+2016-003-2901,04-14-2022,04-29-2022,Rene Rose Gocon,  Villa Blanco Poblacion,Residential,2901,,22-Apr,3105,3133,28,,2%,0,296,unpaid,56-20230107-652,NULL,NULL,WS Bill,active
+2013-011-1759,04-15-2022,04-30-2022,Imelda Titan,  Alalayan Road Poblacion,Residential,1759,,22-Apr,745,745,0,,2%,0,50,unpaid,56-20230107-653,NULL,NULL,WS Bill,active
+2015-011-2272,04-15-2022,04-30-2022,May S. Capiz,  Alalayan Road Poblacion,Residential,2272,,22-Apr,905,920,15,,2%,0,150,unpaid,56-20230107-654,NULL,NULL,WS Bill,active
+2013-011-1636,04-16-2022,05-01-2022,Iwarat Elias ,  Bonifacio Poblacion,Residential,1636,,22-Apr,3877,3883,6,,2%,0,100,unpaid,56-20230107-655,,,WS Bill,active
+2013-011-1536,04-16-2022,05-01-2022,Gallardo Narceso ,  Bonifacio Poblacion,Residential,1536,,22-Apr,2514,2516,2,,2%,0,50,unpaid,56-20230107-656,NULL,NULL,WS Bill,active
+2013-011-1549,04-16-2022,05-01-2022,Conrado Oliveros,  Bonifacio Poblacion,Residential,1549,,22-Apr,4164,4164,0,,2%,0,50,unpaid,56-20230107-657,NULL,NULL,WS Bill,active
+2013-011-1739,01/00/1900,01/00/1900,Doring  Glorioso,  Cailles Poblacion,Residential,1739,,"Clamp 2""- 1",,,,,,,,,56-20230107-658,,,,
+2017-003-2767,04-18-2022,05-03-2022,Buenaben Oliveros,  Mabini Poblacion,Residential,2767,,22-Apr,2607,2621,14,,2%,0,140,unpaid,56-20230107-659,NULL,NULL,WS Bill,active
+2016-007-2880,04-16-2022,05-01-2022,Blastique Lucio ,  Bonifacio Poblacion,Residential,2880,15-428,22-Apr,1744,1775,31,,2%,17,334,unpaid,56-20230107-660,NULL,NULL,WS Bill,active
+2013-011-1245,04-18-2022,05-03-2022,Marilyn Oliveros,  Mabini Poblacion,Residential,1245,,22-Apr,1901,1911,10,,2%,0,100,unpaid,56-20230107-661,NULL,NULL,WS Bill,active
+2016-005-2892,04-18-2022,05-03-2022,Angelita Flores,  Mabini Poblacion,Residential,2892,,22-Apr,674,690,16,,2%,0,160,unpaid,56-20230107-662,NULL,NULL,WS Bill,active
+2013-011-1288,04-18-2022,05-03-2022,Crispin P. Lingatong,  Pereña Poblacion,Residential,1288,,22-Apr,766,806,40,,2%,0,460,unpaid,56-20230107-663,NULL,NULL,WS Bill,active
+2013-011-1308,04-18-2022,05-03-2022,Solita V. Oliveros,  Pereña Poblacion,Residential,1308,,22-Apr,2844,2859,15,,2%,0,150,unpaid,56-20230107-664,NULL,NULL,WS Bill,active
+2013-011-1309,04-18-2022,05-03-2022,Noralyn Morales,  Pereña Poblacion,Residential,1309,,22-Apr,1574,1608,34,,2%,0,376,unpaid,56-20230107-665,NULL,NULL,WS Bill,active
+2014-006-2156,04-18-2022,05-03-2022,Crispin Flores,  Pereña Poblacion,Residential,2156,,22-Apr,3526,3608,82,,2%,0,1048,unpaid,56-20230107-666,NULL,NULL,WS Bill,active
+2013-011-1310,04-18-2022,05-03-2022,Michael Leonardo,  Pereña Poblacion,Residential,1310,,22-Apr,951,969,18,,2%,0,180,unpaid,56-20230107-667,NULL,NULL,WS Bill,active
+2018-005-2819,04-18-2022,05-03-2022,Digna C Bleza,  Pereña Poblacion,Residential,2819,15-1298,22-Apr,406,413,7,,2%,5,100,unpaid,56-20230107-668,NULL,NULL,WS Bill,active
+2013-011-635,04-18-2022,05-03-2022,Delma Arroyo,  Pereña Poblacion,Residential,635,,22-Apr,2914,2965,51,,2%,0,614,unpaid,56-20230107-669,NULL,NULL,WS Bill,active
+2019-005-3109,04-19-2022,05-04-2022,Michelle A. Toque,  Magsaysay Poblacion,Residential,3109,,22-Apr,557,571,14,,2%,0,140,unpaid,56-20230107-670,NULL,NULL,WS Bill,active
+2013-011-548,04-19-2022,05-04-2022,Elloy De leon,  Magsaysay Poblacion,Residential,548,,22-Apr,2724,2757,33,,2%,0,362,unpaid,56-20230107-671,NULL,NULL,WS Bill,active
+2013-011-703,04-20-2022,05-05-2022,Jenny Torres,  Magsaysay Poblacion,Residential,703,,22-Apr,2924,2976,52,,2%,0,628,unpaid,56-20230107-672,NULL,NULL,WS Bill,active
+2013-011-710,04-20-2022,05-05-2022,Jesus Oliveros,  Magsaysay Poblacion,Residential,710,,22-Apr,311,329,18,,2%,0,180,unpaid,56-20230107-673,NULL,NULL,WS Bill,active
+2013-011-716,04-20-2022,05-05-2022,Espie Mesina,  Magsaysay Poblacion,Residential,716,,22-Apr,4250,4271,21,,2%,0,212,unpaid,56-20230107-674,NULL,NULL,WS Bill,active
+2013-011-833,04-20-2022,05-05-2022,Omer A. Villamin,  Magsaysay Poblacion,Residential,833,,22-Apr,1927,1945,18,,2%,0,180,unpaid,56-20230107-675,NULL,NULL,WS Bill,active
+2013-011-1722,04-20-2022,05-05-2022,Fernando Pabico,  Magsaysay Poblacion,Residential,1722,,22-Apr,2387,8,8,,2%,0,100,unpaid,56-20230107-676,NULL,NULL,WS Bill,active
+2014-001-2036,04-20-2022,05-05-2022,Juliana Ramos,  Magsaysay Poblacion,Residential,2036,,22-Apr,4692,4719,27,,2%,0,284,unpaid,56-20230107-677,NULL,NULL,WS Bill,active
+2013-011-1113,04-22-2022,05-07-2022,Lucita Barlis,  Bukal Road Poblacion,Residential,1113,,22-Apr,1038,1038,0,,2%,0,50,unpaid,56-20230107-678,NULL,NULL,WS Bill,active
+2019-001-3081,04-22-2022,05-07-2022,Niño Jesus B. Pereja,  Bukal Road Poblacion,Residential,3081,,22-Apr,327,337,10,,2%,0,100,unpaid,56-20230107-679,NULL,NULL,WS Bill,active
+2013-011-1142,04-22-2022,05-07-2022,Dra.Fe Fernandez,  Bukal Road Poblacion,Residential,1142,,22-Apr,565,570,5,,2%,0,75,unpaid,56-20230107-680,NULL,NULL,WS Bill,active
+2020-006-3110,04-22-2022,05-07-2022,Hedelito Esguerra,  Bukal Road Poblacion,Residential,3110,,22-Apr,2408,2459,51,,2%,0,614,unpaid,56-20230107-681,NULL,NULL,WS Bill,active
+2013-011-1064,04-22-2022,05-07-2022,Lorena Juarez,  Javier Compound Poblacion,Residential,1064,,22-Apr,3947,3973,26,,2%,0,272,unpaid,56-20230107-682,NULL,NULL,WS Bill,active
+2013-011-1070,04-22-2022,05-07-2022,Edgardo Quilapio,  Javier Compound Poblacion,Residential,1070,,22-Apr,2903,2917,14,,2%,0,140,unpaid,56-20230107-683,NULL,NULL,WS Bill,active
+2013-003-3097,04-22-2022,05-07-2022,Rodolfo Juarez,  Javier Compound Poblacion,Residential,3097,,22-Apr,304,316,12,,2%,0,120,unpaid,56-20230107-684,NULL,NULL,WS Bill,active
+2020-003-3093,04-22-2022,05-07-2022,Lorena San juan Bugtong,  Javier Compound Poblacion,Residential,3093,,22-Apr,428,442,14,,2%,0,140,unpaid,56-20230107-685,NULL,NULL,WS Bill,active
+2013-011-979,04-22-2022,05-07-2022,Reynaldo R. Cabuhat,  Bagong Sikat Poblacion,Residential,979,,22-Apr,456,487,31,,2%,0,334,unpaid,56-20230107-686,NULL,NULL,WS Bill,active
+2013-011-1021,04-22-2022,05-07-2022,Lilian Rocamora,  Bagong Sikat Poblacion,Residential,1021,,22-Apr,1334,1334,0,,2%,0,50,unpaid,56-20230107-687,NULL,NULL,WS Bill,active
+2013-011-709,04-25-2022,05-10-2022,Claudio MIrasol,  Oliveros Poblacion,Residential,709,,22-Apr,659,659,0,,2%,0,50,unpaid,56-20230107-688,NULL,NULL,WS Bill,active
+2014-008-2145,04-25-2022,05-10-2022,Shirley L. Villanueva,  Oliveros Poblacion,Residential,2145,,22-Apr,1693,1712,19,,2%,0,190,unpaid,56-20230107-689,NULL,NULL,WS Bill,active
+2013-011-1216,04-25-2022,05-10-2022,Ed Lintac,  Oliveros Poblacion,Residential,1216,,22-Apr,3368,3389,21,,2%,0,212,unpaid,56-20230107-690,NULL,NULL,WS Bill,active
+2013-010-095,04-25-2022,05-10-2022,Cristina R. Blasco,  Oliveros Poblacion,Residential,95,,22-Apr,4071,4102,31,,2%,0,334,unpaid,56-20230107-691,NULL,NULL,WS Bill,active
+2013-011-805,04-25-2022,05-10-2022,Marcelina Robel,  Oliveros Poblacion,Residential,805,15-549,22-Apr,12,24,12,,2%,6,120,unpaid,56-20230107-692,NULL,NULL,WS Bill,active
+2014-002-2135,04-25-2022,05-10-2022,Poblacion Barangay,  Oliveros Poblacion,Residential,2135,,22-Apr,295,295,0,,2%,0,50,unpaid,56-20230107-693,NULL,NULL,WS Bill,active
+2013-011-849,04-25-2022,05-10-2022,Flores Cathalina ,  Oliveros Poblacion,Residential,849,,22-Apr,1791,1803,12,,2%,0,120,unpaid,56-20230107-694,NULL,NULL,WS Bill,active
+2021-003-3197,04-25-2022,05-10-2022,Alejandro Jr. V Leycano,  Oliveros Poblacion,Residential,3197,,22-Apr,9,15,6,,2%,0,100,unpaid,56-20230107-695,NULL,NULL,WS Bill,active
+2013-011-1007,04-24-2022,05-09-2022,Melba A. Bugtong,  De leon Poblacion,Residential,1007,,22-Apr,2984,3014,30,,2%,0,320,unpaid,56-20230107-696,NULL,NULL,WS Bill,active
+2013-011-1011,04-24-2022,05-09-2022,Arnel Pereja,  De Leon Poblacion,Residential,1011,,22-Apr,4171,4196,25,,2%,0,260,unpaid,56-20230107-697,NULL,NULL,WS Bill,active
+2013-010-113,04-25-2022,05-10-2022,Ningning B. Duma,  Calupig Poblacion,Residential,113,,22-Apr,831,864,33,,2%,0,362,unpaid,56-20230107-698,NULL,NULL,WS Bill,active
+2013-011-606,04-24-2022,05-09-2022,Angel Amores,  De Leon Poblacion,Residential,606,,22-Apr,9367,9402,35,,2%,0,390,unpaid,56-20230107-699,NULL,NULL,WS Bill,active
+2013-011-274,04-25-2022,05-10-2022,Nasing Ansay,  Calupig Poblacion,Residential,274,,22-Apr,2278,2300,22,,2%,0,224,unpaid,56-20230107-700,NULL,NULL,WS Bill,active
+2013-011-271,04-25-2022,05-10-2022,Duma Rodolfo ,  Calupig Poblacion,Residential,271,,22-Apr,72,131,59,,2%,0,363,unpaid,56-20230107-701,NULL,NULL,WS Bill,active
+2013-011-290,04-25-2022,05-10-2022,Librado Fernandez,  Calupig Poblacion,Residential,290,,22-Apr,14,29,15,,2%,0,150,unpaid,56-20230107-702,NULL,NULL,WS Bill,active
+2014-001-2966,04-25-2022,05-10-2022,Ason Tinumpic,  Lopez Jaena Poblacion,Residential,2966,,22-Apr,5041,5090,49,,2%,0,586,unpaid,56-20230107-703,NULL,NULL,WS Bill,active
+2013-011-190,04-25-2022,05-10-2022,Leonisa P. Valente,  Lopez Jaena Poblacion,Residential,190,,22-Apr,3311,3333,22,,2%,0,224,unpaid,56-20230107-704,NULL,NULL,WS Bill,active
+2013-011-187,04-25-2022,05-10-2022,Serafin Ansay,  Lopez Jaena Poblacion,Residential,187,,22-Apr,1971,1981,10,,2%,0,100,unpaid,56-20230107-705,NULL,NULL,WS Bill,active
+2013-011-626,04-26-2022,05-11-2022,Fortunato  Villanueva II,  General Luna Poblacion,Residential,626,,22-Apr,2962,3001,39,,2%,0,446,unpaid,56-20230107-706,NULL,NULL,WS Bill,active
+2013-011-630,04-26-2022,05-11-2022,Marife O. Cabantog,  General Luna Poblacion,Residential,630,,22-Apr,1024,1025,1,,2%,0,50,unpaid,56-20230107-707,NULL,NULL,WS Bill,active
+2014-001-2137,04-26-2022,05-11-2022,Lualhati Ansay,  General Luna Poblacion,Residential,2137,,22-Apr,1370,1383,13,,2%,0,130,unpaid,56-20230107-708,NULL,NULL,WS Bill,active
+2013-011-467,04-26-2022,05-11-2022,Gaudioso Tinumpic,  Tagasan Road Poblacion,Residential,467,,22-Apr,1356,1383,27,,2%,0,284,unpaid,56-20230107-709,NULL,NULL,WS Bill,active
+201-001-3083,04-26-2022,05-11-2022,Leonora T. Perolina,  Tagasan Road Poblacion,Residential,3083,15-1269,22-Apr,248,252,4,,2%,4,75,unpaid,56-20230107-710,NULL,NULL,WS Bill,active
+2021-001-3179,04-26-2022,05-11-2022,Multipurpose Brgy. Labayo ,  Tagasan Road Poblacion,Residential,3179,,22-Apr,42,42,0,,2%,0,50,unpaid,56-20230107-711,NULL,NULL,WS Bill,active
+2013-011-544,04-25-2022,05-10-2022,Herminia Oliveros,  Villa Flores Poblacion,Residential,544,,22-Apr,172,177,5,,2%,0,75,unpaid,56-20230107-712,NULL,NULL,WS Bill,active
+2017-006-2750,04-25-2022,05-10-2022,Marivic Dela Torre,  Villa Flores Poblacion,Residential,2750,,22-Apr,952,972,20,,2%,0,200,unpaid,56-20230107-713,NULL,NULL,WS Bill,active
+2013-011-480,04-26-2022,05-11-2022,Helen Luzon,  Maypansol Poblacion,Residential,480,,22-Apr,4176,4200,24,,2%,0,248,unpaid,56-20230107-714,NULL,NULL,WS Bill,active
+2013-011-364,04-26-2022,05-11-2022,Martin Custodio,  Maypansol Poblacion,Residential,364,,22-Apr,4027,4066,39,,2%,0,446,unpaid,56-20230107-715,NULL,NULL,WS Bill,active
+2022-003-3284,04-26-2022,05-11-2022,Hermogenes Villanueva,  Maypansol Poblacion,Residential,3284,,22-Apr,,1,1,,2%,0,50,unpaid,56-20230107-716,NULL,NULL,WS Bill,active
+2013-011-415,04-26-2022,05-11-2022,Flores Necitas ,  Maypansol Poblacion,Residential,415,15-14254,22-Apr,1669,1681,12,,2%,6,120,unpaid,56-20230107-717,NULL,NULL,WS Bill,active
+2013-011-404,04-26-2022,05-11-2022,Vilma Castillo,  Maypansol Poblacion,Residential,404,,22-Apr,3399,3420,21,,2%,0,212,unpaid,56-20230107-718,NULL,NULL,WS Bill,active
+2018-007-2797,04-26-2022,05-11-2022,Rheza L. Lubuguin,  Maypansol Poblacion,Residential,2797,,22-Apr,488,506,18,,2%,0,180,unpaid,56-20230107-719,NULL,NULL,WS Bill,active
+2013-011-397,04-26-2022,05-11-2022,Mario Ansay,  Maypansol Poblacion,Residential,397,,22-Apr,3387,3408,21,,2%,0,212,unpaid,56-20230107-720,NULL,NULL,WS Bill,active
+2013-011-390,04-26-2022,05-11-2022,Dory Loveje,  Maypansol Poblacion,Residential,390,,22-Apr,526,555,29,,2%,0,308,unpaid,56-20230107-721,NULL,NULL,WS Bill,active
+2013-011-1172,04-28-2022,05-13-2022,Geordie II Esperanza,  Cailles Poblacion,Residential,1172,,22-Apr,3042,3063,21,,2%,0,212,unpaid,56-20230107-722,NULL,NULL,WS Bill,active
+2013-011-1194,04-28-2022,05-13-2022,Marilyn Juarez,  Cailles Poblacion,Residential,1194,,22-Apr,2323,2369,46,,2%,0,544,unpaid,56-20230107-723,NULL,NULL,WS Bill,active
+2013-011-1198,04-28-2022,05-13-2022,Sigfredo Perolina,  Cailles Poblacion,Residential,1198,,22-Apr,2896,2928,32,,2%,0,348,unpaid,56-20230107-724,NULL,NULL,WS Bill,active
+2015-010-2276,04-28-2022,05-13-2022,Demeril E. Lansang,  Sanggumay Poblacion,Residential,2276,,22-Apr,1971,2086,115,,2%,0,1510,unpaid,56-20230107-725,NULL,NULL,WS Bill,active
+2013-011-603,04-28-2022,05-13-2022,Rocelia P. Baltazar,  Sanggumay Poblacion,Residential,603,,22-Apr,3529,3572,43,,2%,0,502,unpaid,56-20230107-726,NULL,NULL,WS Bill,active
+2013-011-1738q,04-28-2022,05-13-2022,Concepcion C. Villanueva,  Cailles Poblacion,Residential,1738,1981736,22-Apr,781,783,2,,2%,2,50,unpaid,56-20230107-727,NULL,NULL,WS Bill,active
+2013-011-1745,04-28-2022,05-13-2022,Elsa R. Villanueva,  Cailles Poblacion,Residential,1745,,22-Apr,3053,3054,1,,2%,0,50,unpaid,56-20230107-728,NULL,NULL,WS Bill,active
+2013-011-1659,04-28-2022,05-13-2022,Roderick H. Gasgonia,  Cailles Poblacion,Residential,1659,043407015-089,22-Apr,2876,2888,12,,2%,6,120,unpaid,56-20230107-729,NULL,NULL,WS Bill,active
+2013-011-1682,04-28-2022,05-13-2022,Jesus Corpus,  Cailles Poblacion,Residential,1682,,22-Apr,6503,6544,41,,2%,0,474,unpaid,56-20230107-730,NULL,NULL,WS Bill,active
+2013-011-1589,04-28-2022,05-13-2022,Leonora Miras,  Cailles Poblacion,Residential,1589,,22-Apr,453,456,3,,2%,0,50,unpaid,56-20230107-731,NULL,NULL,WS Bill,active
+2013-011-1595,04-28-2022,05-13-2022,Obling Socorro,  Cailles Poblacion,Residential,1595,,22-Apr,2276,2281,5,,2%,0,75,unpaid,56-20230107-732,NULL,NULL,WS Bill,active
+2013-011-1617,04-28-2022,05-13-2022,Cleto Villatuya,  Cailles Poblacion,Residential,1617,,22-Apr,645,649,4,,2%,0,75,unpaid,56-20230107-733,NULL,NULL,WS Bill,active
+2013-011-1524,04-28-2022,05-13-2022,Carlos Delgado,  Cailles Poblacion,Residential,1524,,22-Apr,622,633,11,,2%,0,110,unpaid,56-20230107-734,NULL,NULL,WS Bill,active
+2013-011-1529,04-28-2022,05-13-2022,Hedelito Esguerra,  Cailles Poblacion,Residential,1529,,22-Apr,1500,1504,4,,2%,0,75,unpaid,56-20230107-735,NULL,NULL,WS Bill,active
+2013-011-1631,04-28-2022,05-13-2022,Semion Villanueva,  Cailles Poblacion,Residential,1631,,22-Apr,3826,3826,0,,2%,0,50,unpaid,56-20230107-736,NULL,NULL,WS Bill,active
+2021-001-3177,04-28-2022,05-13-2022,Arleen Javier,  Cailles Poblacion,Residential,3177,,22-Apr,256,276,20,,2%,0,200,unpaid,56-20230107-737,NULL,NULL,WS Bill,active
+2016-011-2790,04-28-2022,05-13-2022,Lanilyn Robel,  Sanggumay Poblacion,Residential,2790,,22-Apr,628,641,13,,2%,0,130,unpaid,56-20230107-738,,,WS Bill,active
+2013-011-530,04-28-2022,05-13-2022,Thelma Juanillo,  Sanggumay Poblacion,Residential,530,,22-Apr,1144,1164,20,,2%,0,200,unpaid,56-20230107-739,NULL,NULL,WS Bill,active
+2013-011-219,04-28-2022,05-13-2022,Anastacio Hernandez,   Udia,Residential,219,,22-Apr,719,728,9,,2%,0,100,unpaid,56-20230107-740,NULL,NULL,WS Bill,active
+2013-011-238,04-28-2022,05-13-2022,Lorna Escarpe,   Udia,Residential,238,,22-Apr,2275,2294,19,,2%,0,190,unpaid,56-20230107-741,NULL,NULL,WS Bill,active
+2013-011-577,04-28-2022,05-13-2022,Terie Ruazol,   Udia,Residential,577,,22-Apr,2575,2580,5,,2%,0,75,unpaid,56-20230107-742,NULL,NULL,WS Bill,active
+2013-011-585,04-28-2022,05-13-2022,Juliana Robel,   Udia,Residential,585,,22-Apr,2077,2084,7,,2%,0,100,unpaid,56-20230107-743,NULL,NULL,WS Bill,active
+2013-011-588,04-28-2022,05-13-2022,Merill Delgado,   Udia,Residential,588,,22-Apr,3093,3112,19,,2%,0,190,unpaid,56-20230107-744,NULL,NULL,WS Bill,active
+2013-011-370,04-28-2022,05-13-2022,Rosita T. Veloria,   Udia,Residential,370,,22-Apr,2191,2216,25,,2%,0,260,unpaid,56-20230107-745,NULL,NULL,WS Bill,active
+2014-002-2115,01/00/1900,01/00/1900,Julieta  Oliveros,   Udia,Residential,2115,,,NULL,3024,NULL,NULL,NULL,0,,unpaid,56-20230107-746,NULL,NULL,Arrears,active
+2013-011-251,04-28-2022,05-13-2022,Rolen Martin,   Udia,Residential,251,,22-Apr,321,321,0,,2%,0,50,unpaid,56-20230107-747,NULL,NULL,WS Bill,active
+2013-011-3068,04-28-2022,05-13-2022,Melita Valdopeñas II,   Udia,Residential,3068,702,22-Apr,1370,1384,14,,2%,7,140,unpaid,56-20230107-748,NULL,NULL,WS Bill,active
+2014-003-3062,04-29-2022,05-14-2022,Udia Day Care Center,   Udia,Residential,3062,,22-Apr,1148,1148,0,,2%,0,50,unpaid,56-20230107-749,NULL,NULL,WS Bill,active
+2014-010-2250,04-29-2022,05-14-2022,Larry / Inday Velasco,   Udia,Residential,2250,,22-Apr,643,649,6,,2%,0,100,unpaid,56-20230107-750,NULL,NULL,WS Bill,active
+2015-007-2294,04-29-2022,05-14-2022,Harriet T. Sanchez,   Udia,Residential,2294,,22-Apr,3088,3553,465,,2%,0,6410,unpaid,56-20230107-751,NULL,NULL,WS Bill,active
+2016-007-2877,04-29-2022,05-14-2022,Henry Villamin,   Udia,Residential,2877,,22-Apr,1907,1947,40,,2%,0,460,unpaid,56-20230107-752,NULL,NULL,WS Bill,active
+2016-011-2793,04-29-2022,05-14-2022,Maria Reshell Juguilon,   Udia,Residential,2793,,22-Apr,788,788,0,,2%,0,50,unpaid,56-20230107-753,NULL,NULL,WS Bill,active
+2017-002-2774,04-29-2022,05-14-2022,Jear Juguilon,   Udia,Residential,2774,,22-Apr,2525,2563,38,,2%,0,432,unpaid,56-20230107-754,NULL,NULL,WS Bill,active
+2017-002-2773,04-29-2022,05-14-2022,Boncay Mary Ann ,   Udia,Residential,2773,,22-Apr,1239,1330,91,,2%,0,559,unpaid,56-20230107-755,NULL,NULL,WS Bill,active
+2020-008-3140,04-29-2022,05-14-2022,Angelita Bernal,     Udia,Residential,3140,,22-Apr,430,447,17,,2%,0,170,unpaid,56-20230107-756,NULL,NULL,WS Bill,active
+2021-003-3194,04-29-2022,05-14-2022,Adonis Delos Santos,      Udia,Residential,3194,,22-Apr,47,50,3,,2%,0,50,unpaid,56-20230107-757,NULL,NULL,WS Bill,active
+2013-011-316,05-04-2022,05-19-2022,Zenaida Blaza,   Layug,Residential,316,,22-May,1979,2004,25,,2%,0,260,unpaid,56-20230107-758,NULL,NULL,WS Bill,active
+2013-011-318,05-04-2022,05-19-2022,Salve Miras,   Layug,Residential,318,,22-May,1827,1856,29,,2%,0,308,unpaid,56-20230107-759,NULL,NULL,WS Bill,active
+2010-003-38,05-04-2022,05-19-2022,Liezel D. Peji,   Layug,Residential,38,,22-May,2253,2280,27,,2%,0,284,unpaid,56-20230107-760,NULL,NULL,WS Bill,active
+2013-011-325,05-04-2022,05-19-2022,Teodoro Calinagan,   Layug,Residential,325,,22-May,3645,3645,0,,2%,0,50,unpaid,56-20230107-761,NULL,NULL,WS Bill,active
+2013-011-340,05-04-2022,05-19-2022,Bienvinido L. Oblepias,   Layug,Residential,340,15-490,22-May,2978,2999,21,,2%,11,212,unpaid,56-20230107-762,NULL,NULL,WS Bill,active
+2013-011-343,05-04-2022,05-19-2022,Glenda Panes,   Layug,Residential,343,,22-May,2677,2685,8,,2%,0,100,unpaid,56-20230107-763,NULL,NULL,WS Bill,active
+2013-011-347,05-04-2022,05-19-2022,Amor Arroyo,   Layug,Residential,347,,22-May,1971,2017,46,,2%,0,544,unpaid,56-20230107-764,NULL,NULL,WS Bill,active
+2013-011-349,05-04-2022,05-19-2022,Lorena Juarez,   Layug,Residential,349,,22-May,1262,1275,13,,2%,0,130,unpaid,56-20230107-765,NULL,NULL,WS Bill,active
+2014-001-2931,05-04-2022,05-19-2022,Domenciano Oliveros,   Layug,Residential,2931,,22-May,528,559,31,,2%,0,334,unpaid,56-20230107-766,NULL,NULL,WS Bill,active
+2013-011-265,05-04-2022,05-19-2022,Arnel Pereña,   Layug,Residential,265,,22-May,1035,1045,10,,2%,0,100,unpaid,56-20230107-767,NULL,NULL,WS Bill,active
+2013-011-241,05-04-2022,05-19-2022,Alfredo Blaza,   Layug,Residential,241,,22-May,1017,1029,12,,2%,0,120,unpaid,56-20230107-768,NULL,NULL,WS Bill,active
+2013-011-258,05-04-2022,05-19-2022,Diosdado Bugtong,   Layug,Residential,258,,22-May,1095,1109,14,,2%,0,140,unpaid,56-20230107-769,NULL,NULL,WS Bill,active
+2014-001-1876,05-04-2022,05-19-2022,Mario Perolina,   Layug,Residential,1876,,22-May,3752,3770,18,,2%,0,180,unpaid,56-20230107-770,NULL,NULL,WS Bill,active
+2014-011-2245,05-04-2022,05-19-2022,Marie F. Esperanza,   Layug,Residential,2245,,22-May,731,748,17,,2%,0,170,unpaid,56-20230107-771,NULL,NULL,WS Bill,active
+2013-011-328,05-04-2022,05-19-2022,Tomas Lipit,   Layug,Residential,328,,22-May,1401,1402,1,,2%,0,50,unpaid,56-20230107-772,NULL,NULL,WS Bill,active
+2015-005-2310,05-04-2022,05-19-2022,Arnel M. Pereja,   Layug,Residential,2310,,22-May,1475,1492,17,,2%,0,170,unpaid,56-20230107-773,NULL,NULL,WS Bill,active
+2015-006-2303,05-04-2022,05-19-2022,Turiana F. Oliveros,   Layug,Residential,2303,,22-May,738,757,19,,2%,0,190,unpaid,56-20230107-774,NULL,NULL,WS Bill,active
+2015-012-2915,05-04-2022,05-19-2022,Imelda Rodriguez,   Layug,Residential,2915,,22-May,668,673,5,,2%,0,75,unpaid,56-20230107-775,NULL,NULL,WS Bill,active
+2016-009-2864,05-04-2022,05-19-2022,Mary Jean Cortez,   Layug,Residential,2864,,22-May,563,575,12,,2%,0,120,unpaid,56-20230107-776,NULL,NULL,WS Bill,active
+2017-003-2766,05-04-2022,05-19-2022,Charlene De Leon,   Layug,Residential,2766,,22-May,930,949,19,,2%,0,190,unpaid,56-20230107-777,NULL,NULL,WS Bill,active
+2017-004-2764,05-04-2022,05-19-2022,Hall Multi- Purpose,   Layug,Residential,2764,,22-May,278,286,8,,2%,0,100,unpaid,56-20230107-778,NULL,NULL,WS Bill,active
+2018-006-2813,05-04-2022,05-19-2022,Javier B. Toque,   Layug,Residential,2813,,22-May,726,749,23,,2%,0,236,unpaid,56-20230107-779,NULL,NULL,WS Bill,active
+2018-011-3048,05-04-2022,05-19-2022,April Bart P. Sebastian,   Layug,Residential,3048,,22-May,473,478,5,,2%,0,75,unpaid,56-20230107-780,NULL,NULL,WS Bill,active
+2019-005-3114,05-04-2022,05-19-2022,Wilfredo A. Estrella,   Layug,Residential,3114,,22-May,623,642,19,,2%,0,190,unpaid,56-20230107-781,NULL,NULL,WS Bill,active
+2019-012-3076,05-04-2022,05-19-2022,Solano C. Villanueva Jr.,     Layug,Residential,3076,,22-May,264,271,7,,2%,0,100,unpaid,56-20230107-782,NULL,NULL,WS Bill,active
+2020-004-3095,05-04-2022,05-19-2022,Remedios Quilapio,   Layug,Residential,3095,,22-May,42,42,0,,2%,0,50,unpaid,56-20230107-783,NULL,NULL,WS Bill,active
+2020-007-3123,05-04-2022,05-19-2022,Roselyn Oliveros,     Layug,Residential,3123,,22-May,195,199,4,,2%,0,75,unpaid,56-20230107-784,NULL,NULL,WS Bill,active
+2020-008-3143,05-04-2022,05-19-2022,Joselito M. Sancebutche,      Layug,Residential,3143,,22-May,127,129,2,,2%,0,50,unpaid,56-20230107-785,NULL,NULL,WS Bill,active
+2020-010-3157,05-04-2022,05-19-2022,Melvin Tabar,      Layug,Residential,3157,,22-May,216,236,20,,2%,0,200,unpaid,56-20230107-786,NULL,NULL,WS Bill,active
+2020-012-3166,05-04-2022,05-19-2022,Lillian Ebuen,    Layug,Residential,3166,,22-May,1003,1073,70,,2%,0,880,unpaid,56-20230107-787,NULL,NULL,WS Bill,active
+2021-006-3225,05-04-2022,05-19-2022,Roselyn Quilapio,      Layug,Residential,3225,,22-May,2519,2559,40,,2%,0,460,unpaid,56-20230107-788,NULL,NULL,WS Bill,active
+2021-011-3256,05-04-2022,05-19-2022,Clamarie Blaza,   Layug,Residential,3256,,22-May,35,60,25,,2%,0,260,unpaid,56-20230107-789,NULL,NULL,WS Bill,active
+2022-002-3278,05-04-2022,05-19-2022,Jesica Echano,   Layug,Residential,3278,,22-May,1,3,2,,2%,0,50,unpaid,56-20230107-790,NULL,NULL,WS Bill,active
+2022-001-3269,05-04-2022,05-19-2022,Brgy. Layug Multipurpose,   Layug,Government,3269,,22-May,208,209,1,,2%,0,150,unpaid,56-20230107-791,NULL,NULL,WS Bill,active
+2014-001-1880,05-06-2022,05-21-2022,Mario F. Villanueva,  Jacinto Poblacion,Residential,1880,15-131418,22-May,1576,1576,0,,2%,2,50,unpaid,56-20230107-792,NULL,NULL,WS Bill,active
+2014-001-1778,05-06-2022,05-21-2022,Raymundo Lubuguin,  Jacinto Poblacion,Residential,1778,,22-May,5969,6006,37,,2%,0,418,unpaid,56-20230107-793,NULL,NULL,WS Bill,active
+2014-001-1791,05-06-2022,05-21-2022,Paul Nelson Arroyo,  Jacinto Poblacion,Residential,1791,,22-May,1340,1371,31,,2%,0,334,unpaid,56-20230107-794,NULL,NULL,WS Bill,active
+2014-001-1796,05-06-2022,05-21-2022,Conrado A. Sumulong,  Jacinto Poblacion,Residential,1796,,22-May,5256,5350,94,,2%,0,1216,unpaid,56-20230107-795,NULL,NULL,WS Bill,active
+2015-010-2277,05-06-2022,05-21-2022,Roland P. Mesina,  Jacinto Poblacion,Residential,2277,,22-May,38,38,0,,2%,0,50,unpaid,56-20230107-796,NULL,NULL,WS Bill,active
+2017-005-2762,05-06-2022,05-21-2022,Lita Rivera,  Jacinto Poblacion,Residential,2761,,22-May,712,724,12,,2%,0,120,unpaid,56-20230107-797,NULL,NULL,WS Bill,active
+2019-009-3047,05-06-2022,05-21-2022,Amelyn H. Dayondon,  Jacinto Poblacion,Residential,3047,,22-May,849,885,36,,2%,0,404,unpaid,56-20230107-798,NULL,NULL,WS Bill,active
+2014-001-1866,05-06-2022,05-21-2022,Eva Juanillo,  Rizal Poblacion,Residential,1866,,22-May,4381,4437,56,,2%,0,684,unpaid,56-20230107-799,NULL,NULL,WS Bill,active
+2013-010-3000,05-06-2022,05-21-2022,Concepcion C. Villanueva,  Rizal Poblacion,Residential,3000,1981736,22-May,76,76,0,,2%,2,50,unpaid,56-20230107-800,NULL,NULL,WS Bill,active
+2014-001-1771,05-06-2022,05-21-2022,Erlinda Orteza,   Duhat,Residential,1771,563,22-May,2424,2453,29,,2%,15,308,unpaid,56-20230107-801,NULL,NULL,WS Bill,active
+2014-001-1942,05-10-2022,05-25-2022,Tagoo Edith ,  Del Pilar Poblacion,Residential,1942,,22-May,2011,2020,9,,2%,0,100,unpaid,56-20230107-802,NULL,NULL,WS Bill,disconnected
+2014-001-1950,05-10-2022,05-25-2022,Juanillo Abner ,  Del Pilar Poblacion,Residential,1950,,22-May,1890,1903,13,,2%,0,130,unpaid,56-20230107-803,NULL,NULL,WS Bill,active
+2014-001-1958,05-10-2022,05-25-2022,Dela Torre Rito ,  Del Pilar Poblacion,Residential,1958,,22-May,1833,1833,0,,2%,0,50,unpaid,56-20230107-804,NULL,NULL,WS Bill,active
+2014-001-1705,05-06-2022,05-21-2022,Remedios Fabia,   Duhat,Residential,1705,,22-May,3151,3183,32,,2%,0,348,unpaid,56-20230107-805,NULL,NULL,WS Bill,active
+2014-001-1708,05-06-2022,05-21-2022,John Michael Juanillo,   Duhat,Residential,1708,,22-May,2054,2090,36,,2%,0,404,unpaid,56-20230107-806,NULL,NULL,WS Bill,active
+2014-001-1895,05-10-2022,05-25-2022,Walter Sta Mina,  Del Pilar Poblacion,Residential,1895,,22-May,245,271,26,,2%,0,272,unpaid,56-20230107-807,NULL,NULL,WS Bill,active
+2014-002-2106,05-10-2022,05-25-2022,Analyn Soccoro,  Del Pilar Poblacion,Residential,2106,,22-May,1569,1580,11,,2%,0,110,unpaid,56-20230107-808,NULL,NULL,WS Bill,active
+2019-001-3076,05-10-2022,05-25-2022,Delsife O. Ciriaco,  Del Pilar Poblacion,Residential,3076,,22-May,1024,1055,31,,2%,0,334,unpaid,56-20230107-809,NULL,NULL,WS Bill,active
+2019-007-3037,05-10-2022,05-25-2022,Adrian V. Pullan,  Del Pilar Poblacion,Residential,3037,,22-May,235,235,0,,2%,0,50,unpaid,56-20230107-810,NULL,NULL,WS Bill,active
+2015-010-2279,05-06-2022,05-21-2022,Maricel P. Rebanal,   Duhat,Residential,2279,,22-May,811,826,15,,2%,0,150,unpaid,56-20230107-811,NULL,NULL,WS Bill,active
+2018-005-2822,05-06-2022,05-21-2022,Gean C. Vista,   Duhat,Residential,2822,,22-May,3685,3743,58,,2%,0,712,unpaid,56-20230107-812,NULL,NULL,WS Bill,active
+2018-004-2828,05-06-2022,05-21-2022,Farey Lane,   Duhat,Residential,2828,,22-May,1392,1447,55,,2%,0,670,unpaid,56-20230107-813,NULL,NULL,WS Bill,active
+2019-002-3088,05-06-2022,05-21-2022,Maricar G. Lubuguin,      Duhat,Residential,3088,,22-May,680,704,24,,2%,0,248,unpaid,56-20230107-814,NULL,NULL,WS Bill,active
+2019-010-3062,05-06-2022,05-21-2022,Ronald P. Perez II,      Duhat,Residential,3062,,22-May,239,246,7,,2%,0,100,unpaid,56-20230107-815,NULL,NULL,WS Bill,active
+2021-005-3218,05-06-2022,05-21-2022,Jomar R. Biag,      Duhat,Residential,3218,,22-May,1175,1194,19,,2%,0,190,unpaid,56-20230107-816,NULL,NULL,WS Bill,active
+2013-011-1564,05-10-2022,05-25-2022,Tuding Oraa,  Junction Duhat,Residential,1564,,22-May,4281,4291,10,,2%,0,100,unpaid,56-20230107-817,NULL,NULL,WS Bill,active
+2013-011-1567,05-10-2022,05-25-2022,Erning Perez,  Junction Duhat,Residential,1567,,22-May,2276,2286,10,,2%,0,100,unpaid,56-20230107-818,NULL,NULL,WS Bill,active
+2013-011-1569,05-10-2022,05-25-2022,Rolly Benerayan,  Junction Duhat,Residential,1569,,22-May,36,36,0,,2%,0,50,unpaid,56-20230107-819,NULL,NULL,WS Bill,active
+2013-011-1570,05-10-2022,05-25-2022,Analyn Mesina,  Junction Duhat,Residential,1570,,22-May,2218,2218,0,,2%,0,50,unpaid,56-20230107-820,NULL,NULL,WS Bill,active
+2013-011-1573,05-10-2022,05-25-2022,Alfredo P. Maximo Jr.,  Junction Duhat,Residential,1573,,22-May,3878,3912,34,,2%,0,376,unpaid,56-20230107-821,NULL,NULL,WS Bill,active
+2013-010-3002,05-10-2022,05-25-2022,Rosella Gadiane,  Junction Duhat,Residential,3002,,22-May,2500,2536,36,,2%,0,404,unpaid,56-20230107-822,NULL,NULL,WS Bill,active
+2013-011-1581,05-10-2022,05-25-2022,Alex/Linda Ruazol,  Junction Duhat,Residential,1581,,22-May,4247,4274,27,,2%,0,284,unpaid,56-20230107-823,NULL,NULL,WS Bill,active
+2013-011-1466,05-10-2022,05-25-2022,Honesto Valente,  Junction Duhat,Residential,1466,,22-May,4672,4707,35,,2%,0,390,unpaid,56-20230107-824,NULL,NULL,WS Bill,active
+2013-011-1485,05-10-2022,05-25-2022,Roden Gahite,  Junction Duhat,Residential,1485,,22-May,2521,2573,52,,2%,0,628,unpaid,56-20230107-825,NULL,NULL,WS Bill,active
+2013-011-1495,05-10-2022,05-25-2022,Jojit Vida,  Junction Duhat,Residential,1495,,22-May,3518,3602,84,,2%,0,1076,unpaid,56-20230107-826,NULL,NULL,WS Bill,active
+2014-001-1919,05-10-2022,05-25-2022,Narcelito Flores,  Junction Duhat,Residential,1919,,22-May,5599,5599,0,,2%,0,50,unpaid,56-20230107-827,NULL,NULL,WS Bill,active
+2013-011-1513,05-10-2022,05-25-2022,Allan Maximo,  Junction Duhat,Residential,1513,,22-May,1246,1268,22,,2%,0,224,unpaid,56-20230107-828,NULL,NULL,WS Bill,active
+2013-011-1412,05-10-2022,05-25-2022,Rodelio Ruazol,  Junction Duhat,Residential,1412,,22-May,2223,2247,24,,2%,0,248,unpaid,56-20230107-829,NULL,NULL,WS Bill,active
+2013-011-1432,05-10-2022,05-25-2022,Romeo Flores,  Junction Duhat,Residential,1432,,22-May,2796,2832,36,,2%,0,404,unpaid,56-20230107-830,NULL,NULL,WS Bill,active
+2013-011-1437,05-10-2022,05-25-2022,Carina Rocamora,  Junction Duhat,Residential,1437,,22-May,2487,2496,9,,2%,0,100,unpaid,56-20230107-831,NULL,NULL,WS Bill,active
+2013-011-1442,05-10-2022,05-25-2022,Marita Gahite,  Junction Duhat,Residential,1442,,22-May,2497,2512,15,,2%,0,150,unpaid,56-20230107-832,NULL,NULL,WS Bill,active
+2013-011-1445,05-10-2022,05-25-2022,Marieta Morales,  Junction Duhat,Residential,1445,,22-May,4462,4474,12,,2%,0,120,unpaid,56-20230107-833,NULL,NULL,WS Bill,active
+2013-011-1447,05-10-2022,05-25-2022,Mario Guevarra,  Junction Duhat,Residential,1447,,22-May,3896,3908,12,,2%,0,120,unpaid,56-20230107-834,NULL,NULL,WS Bill,active
+2013-011-1450,05-10-2022,05-25-2022,Romy Alejandro,  Junction Duhat,Residential,1450,,22-May,2812,2828,16,,2%,0,160,unpaid,56-20230107-835,NULL,NULL,WS Bill,active
+2013-011-1342,05-10-2022,05-25-2022,Natalia/nestor Pedron,  Junction Duhat,Residential,1342,,22-May,1462,1472,10,,2%,0,100,unpaid,56-20230107-836,NULL,NULL,WS Bill,active
+2013-011-864,05-10-2022,05-25-2022,Venancia H. Castillo,  Junction Duhat,Residential,864,,22-May,2451,2466,15,,2%,0,150,unpaid,56-20230107-837,NULL,NULL,WS Bill,active
+2013-011-1359,05-10-2022,05-25-2022,Mercedes P. Ruazol,  Junction Duhat,Residential,1359,1981714,22-May,801,801,0,,2%,2,50,unpaid,56-20230107-838,NULL,NULL,WS Bill,active
+2013-011-1366,05-10-2022,05-25-2022,Joselito Maglalang,  Junction Duhat,Residential,1366,,22-May,2108,2122,14,,2%,0,140,unpaid,56-20230107-839,NULL,NULL,WS Bill,active
+2013-011-882,05-10-2022,05-25-2022,Alex Pereña,  Junction Duhat,Residential,882,15-14108,22-May,2977,2980,3,,2%,2,50,unpaid,56-20230107-840,NULL,NULL,WS Bill,active
+2013-011-1372,05-10-2022,05-25-2022,Cristina Flores,  Junction Duhat,Residential,1372,,22-May,2295,2300,5,,2%,0,75,unpaid,56-20230107-841,NULL,NULL,WS Bill,active
+2013-011-1373,05-10-2022,05-25-2022,Pilar Heraban,  Junction Duhat,Residential,1373,,22-May,1419,1434,15,,2%,0,150,unpaid,56-20230107-842,NULL,NULL,WS Bill,active
+2013-011-1375,05-10-2022,05-25-2022,Felisa Perez,  Junction Duhat,Residential,1375,2561477,22-May,1250,1254,4,,2%,4,75,unpaid,56-20230107-843,NULL,NULL,WS Bill,active
+2013-011-1380,05-10-2022,05-25-2022,Cavinti National High School,  Junction Duhat,Commercial,1380,9/24/2018,22-May,11310,11361,51,,2%,44,890,unpaid,56-20230107-844,NULL,NULL,WS Bill,active
+2013-010-2809,05-10-2022,05-25-2022,Abner Lubuguin Jr. II,  Junction Duhat,Residential,2809,,22-May,1904,1927,23,,2%,0,236,unpaid,56-20230107-845,NULL,NULL,WS Bill,active
+2014-001-1998,05-10-2022,05-25-2022,Exequiel Corpuz,  Junction Duhat,Residential,1998,,22-May,76,82,6,,2%,0,100,unpaid,56-20230107-846,NULL,NULL,WS Bill,active
+2014-012-2237,05-10-2022,05-25-2022,Evan L. Jamero,  Junction Duhat,Residential,2237,,22-May,1081,1099,18,,2%,0,180,unpaid,56-20230107-847,NULL,NULL,WS Bill,active
+2015-001-2307,05-10-2022,05-25-2022,Mark John C. Talubo,  Junction Duhat,Residential,2307,,22-May,1176,1176,0,,2%,0,50,unpaid,56-20230107-848,NULL,NULL,WS Bill,active
+2015-005-2311,05-10-2022,05-25-2022,Marilou N. Bleza,  Junction Duhat,Residential,2311,,22-May,833,844,11,,2%,0,110,unpaid,56-20230107-849,NULL,NULL,WS Bill,active
+2018-004-2826,05-10-2022,05-25-2022,Alloha C. Oracion,  Junction Duhat,Residential,2826,,22-May,813,822,9,,2%,0,100,unpaid,56-20230107-850,NULL,NULL,WS Bill,active
+2019-007-3032,05-10-2022,05-25-2022,National High Scholl II Cavinti Integrated ,  Junction Duhat,Commercial,3032,,22-May,577,644,67,,2%,0,1210,unpaid,56-20230107-851,NULL,NULL,WS Bill,active
+2019-006-3055,05-10-2022,05-25-2022,Venus R. Bautista,  Junction Duhat,Residential,3055,,22-May,214,219,5,,2%,0,75,unpaid,56-20230107-852,NULL,NULL,WS Bill,active
+2019-011-3072,05-10-2022,05-25-2022,Jhemer P. Ansay,  Junction Duhat,Residential,3072,,22-May,218,243,25,,2%,0,260,unpaid,56-20230107-853,NULL,NULL,WS Bill,active
+2021-005-3220,05-10-2022,05-25-2022,Aldren V. Maximo,  Junction Duhat,Residential,3220,,22-May,167,242,75,,2%,0,950,unpaid,56-20230107-854,NULL,NULL,WS Bill,active
+2021-006-3228,05-10-2022,05-25-2022,Mary Joy Peralta,      Duhat,Residential,3228,,22-May,50,82,32,,2%,0,348,unpaid,56-20230107-855,NULL,NULL,WS Bill,active
+2014-001-2959,05-10-2022,05-25-2022,Jobita Pabico,  Burgos Poblacion,Residential,2959,,22-May,2592,2603,11,,2%,0,110,unpaid,56-20230107-856,NULL,NULL,WS Bill,active
+2014-001-2006,05-10-2022,05-25-2022,Virgilio Lizen,  A.P De Leon Poblacion,Residential,2006,,22-May,2594,2611,17,,2%,0,170,unpaid,56-20230107-857,NULL,NULL,WS Bill,active
+2014-001-1912,05-11-2022,05-26-2022,Roselyn San Pedro,  Bagong Silang Poblacion,Residential,1912,,22-May,2462,2483,21,,2%,0,212,unpaid,56-20230107-858,NULL,NULL,WS Bill,active
